@@ -79,22 +79,22 @@ machine-readable outputs of those analyses.
 
 ## Code availability
 
-The analysis scripts are in [`scripts/`](scripts/); the methodology they
-implement is documented in the Methods section of the manuscript. Together they
-regenerate the figures and supplementary tables from the NASA OSDR inputs and the
-OrthoDB v12 orthology backbone.
+The methodology is documented in [`METHODS.md`](METHODS.md) and the Methods
+section of the manuscript. The [`scripts/`](scripts/) folder currently holds the
+figure-generation scripts (`08`–`09c`); the upstream analysis pipeline (`01`–`07`
+— OSDR query, differential expression, OrthoDB v12 ortholog mapping, GO-CC
+compartment assignment, and Fisher's combined test) will be added here. Together
+they regenerate the figures and supplementary tables from the NASA OSDR inputs
+and the OrthoDB v12 orthology backbone.
 
 ## Requirements
 
-> **TODO:** confirm the runtime and pin exact versions once `scripts/` is pushed
-> (add an `renv.lock`, `environment.yml`, or `requirements.txt`).
-
-- **Language/runtime:** _TODO — e.g. R ≥ 4.x and/or Python ≥ 3.x._
+- **Language/runtime:** R (≥ 4.x).
 - **Analysis steps & typical tooling:** per-species differential expression,
   OrthoDB v12 ortholog mapping, subcellular-compartment (GO CC) assignment,
   Fisher's combined probability test, and enrichment/visualisation.
-- **Reproducibility:** a pinned environment file alongside the scripts lets
-  reviewers restore the exact package set.
+- **Reproducibility:** _TODO — add a pinned environment file (`renv.lock`) so
+  reviewers can restore the exact package set._
 
 ## License
 
