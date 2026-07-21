@@ -73,13 +73,16 @@ and in the organelle-enrichment and cofactor analyses.
 
 The full methodology — dataset selection, per-species differential expression,
 orthology mapping, compartment assignment, and Fisher's combined test — is
-described in `manuscript/npj_microgravity_manuscript.docx`. The supplementary
-tables in `zenodo_repo/supplementary_tables/` are the machine-readable outputs of
-those analyses.
+described in the Methods section of `manuscript/npj_microgravity_manuscript.docx`.
+The supplementary tables in `zenodo_repo/supplementary_tables/` are the
+machine-readable outputs of those analyses.
 
-> **TODO (code availability):** analysis code is not yet included in this
-> repository. Add the DEG / orthology / enrichment scripts (or a link to their
-> repository) here so the figures and tables can be regenerated end-to-end.
+## Code availability
+
+The analysis scripts are in [`scripts/`](scripts/); the methodology they
+implement is documented in the Methods section of the manuscript. Together they
+regenerate the figures and supplementary tables from the NASA OSDR inputs and the
+OrthoDB v12 orthology backbone.
 
 ## License
 
