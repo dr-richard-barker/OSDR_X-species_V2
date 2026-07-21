@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Cross-species transcriptomic analysis of spaceflight responses: conserved subcellular and metabolic pathways"
+message: "If you use this software or data, please cite it as below."
+type: dataset
+authors:
+  - family-names: "Barker"
+    given-names: "Richard"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+keywords:
+  - spaceflight
+  - transcriptomics
+  - cross-species
+  - orthology
+  - OrthoDB
+  - NASA OSDR
+  - KEGG
+  - subcellular localization
+  - mitochondrial
+  - differential expression
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-07-18"
+preferred-citation:
+  type: article
+  title: "Conserved mitochondrial suppression and organelle-specific transcriptomic responses to spaceflight across six eukaryotic species"
+  authors:
+    - family-names: "Barker"
+      given-names: "Richard"
+  journal: "npj Microgravity"
+  year: 2026
+  doi: "10.1038/s41526-0000-0000-0"
