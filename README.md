@@ -22,6 +22,8 @@ orthology matrix built from OrthoDB v12**, assigned to **16 subcellular
 compartments**, and combined with Fisher's combined probability test to detect
 direction-consistent, cross-species responses.
 
+![Universal Mitochondrial Suppression in Spaceflight](Universal_Mitochondrial_Suppression_in_Spaceflight.png)
+
 ## Key result
 
 A **conserved downregulation of mitochondrial genes**: 49 orthologs show
