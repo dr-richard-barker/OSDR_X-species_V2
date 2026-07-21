@@ -84,6 +84,18 @@ implement is documented in the Methods section of the manuscript. Together they
 regenerate the figures and supplementary tables from the NASA OSDR inputs and the
 OrthoDB v12 orthology backbone.
 
+## Requirements
+
+> **TODO:** confirm the runtime and pin exact versions once `scripts/` is pushed
+> (add an `renv.lock`, `environment.yml`, or `requirements.txt`).
+
+- **Language/runtime:** _TODO — e.g. R ≥ 4.x and/or Python ≥ 3.x._
+- **Analysis steps & typical tooling:** per-species differential expression,
+  OrthoDB v12 ortholog mapping, subcellular-compartment (GO CC) assignment,
+  Fisher's combined probability test, and enrichment/visualisation.
+- **Reproducibility:** a pinned environment file alongside the scripts lets
+  reviewers restore the exact package set.
+
 ## License
 
 **CC BY 4.0** — Creative Commons Attribution 4.0 International (see `LICENSE`).
