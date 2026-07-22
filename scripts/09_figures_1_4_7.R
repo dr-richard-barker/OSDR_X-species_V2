@@ -1,5 +1,16 @@
 #!/usr/bin/env Rscript
-# Figures 1, 2, 3, 4, 7 for the cross-species spaceflight transcriptomics manuscript
+# ======================================================================
+# Step 9a: Figures 1, 2 (Study Overview, Volcano Plots)
+#
+# Description: Generate Fig 1 (dataset + DEG counts per species) and Fig 2
+#   (representative volcano plots per species)
+#
+# Inputs: data/dataset_selection.csv, results/deg/all_degs_combined.csv
+# Outputs: figures/fig1_study_overview.{svg,png}, figures/fig2_volcano_plots.{svg,png}
+#
+# Language: R
+# See METHODS.md for full parameter details.
+# ======================================================================
 suppressMessages({
   library(ggplot2); library(dplyr); library(data.table); library(viridis)
   library(patchwork); library(ggrepel); library(UpSetR)

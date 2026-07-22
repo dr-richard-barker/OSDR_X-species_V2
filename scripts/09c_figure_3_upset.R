@@ -1,5 +1,16 @@
 #!/usr/bin/env Rscript
-# Fig 3: Orthology UpSet plot using ggplot2 (clean SVG text)
+# ======================================================================
+# Step 9c: Figure 3 (Orthology UpSet Plot)
+#
+# Description: Generate orthology UpSet plot showing shared ortholog groups
+#   across species, using a custom ggplot2 implementation for clean SVG text
+#
+# Inputs: results/orthology/orthology_matrix_wide.csv
+# Outputs: figures/fig3_orthology_upset.{svg,png}
+#
+# Language: R
+# See METHODS.md for full parameter details.
+# ======================================================================
 suppressMessages({
   library(ggplot2); library(dplyr); library(data.table); library(viridis)
   library(patchwork)

@@ -1,5 +1,16 @@
 #!/usr/bin/env Rscript
-# ggkegg pathway diagrams with per-species log2FC overlay + cofactor annotations
+# ======================================================================
+# Step 8: ggkegg Pathway Diagrams
+#
+# Description: Render KEGG pathway diagrams (hsa00190, hsa03050, hsa03010, hsa00020)
+#   with per-species log2FC color overlays (6 panels each) using ggkegg
+#
+# Inputs: results/meta/pathway_gene_log2fc.csv, results/meta/cofactor_gene_mapping.csv
+# Outputs: figures/fig6_pathway_hsa{00190,03050,03010,00020}.{svg,png}
+#
+# Language: R
+# See METHODS.md for full parameter details.
+# ======================================================================
 suppressMessages({
   library(ggkegg); library(ggraph); library(igraph); library(tidygraph)
   library(ggplot2); library(dplyr); library(data.table); library(viridis)

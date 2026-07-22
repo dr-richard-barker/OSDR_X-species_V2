@@ -1,5 +1,19 @@
 #!/usr/bin/env Rscript
-# Rebuild Fig 4 and Fig 7 with ggplot2 for proper SVG text rendering
+# ======================================================================
+# Step 9b: Figures 4, 7 (Organelle Enrichment Heatmap, Cofactor Summary)
+#
+# Description: Generate Fig 4 (organelle x species enrichment heatmap) and
+#   Fig 7 (cofactor x species fold-change heatmap) using ggplot2 geom_tile
+#   for proper SVG text rendering
+#
+# Inputs: results/enrichment/organelle_enrichment_summary.csv,
+#         results/meta/cofactor_gene_mapping.csv, results/meta/pathway_gene_log2fc.csv
+# Outputs: figures/fig4_organelle_enrichment_heatmap.{svg,png},
+#          figures/fig7_cofactor_summary.{svg,png}
+#
+# Language: R
+# See METHODS.md for full parameter details.
+# ======================================================================
 suppressMessages({
   library(ggplot2); library(dplyr); library(data.table); library(viridis)
 })
