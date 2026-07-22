@@ -1,0 +1,218 @@
+ID,Description,species,direction,p.adjust,qvalue,neg_log10_padj,Count,organelle
+GO:0016323,basolateral plasma membrane,Homo sapiens,up,0.0306810484799383,0.0299004968360147,1.51312980309101,15,Plasma membrane
+GO:0009925,basal plasma membrane,Homo sapiens,up,0.0306810484799383,0.0299004968360147,1.51312980309101,16,Plasma membrane
+GO:0045178,basal part of cell,Homo sapiens,up,0.0415292691400857,0.0404727296505883,1.38164571182826,16,Plasma membrane
+GO:0045177,apical part of cell,Homo sapiens,down,0.000136506176361954,0.000125688458753124,3.86484769807941,41,Plasma membrane
+GO:0016324,apical plasma membrane,Homo sapiens,down,0.00155741076211209,0.00143399048711436,2.80759682854205,34,Plasma membrane
+GO:0016323,basolateral plasma membrane,Mus musculus,up,4.4187773542014e-11,4.02249146953433e-11,10.3546978803743,43,Plasma membrane
+GO:0045178,basal part of cell,Mus musculus,up,4.4187773542014e-11,4.02249146953433e-11,10.3546978803743,47,Plasma membrane
+GO:0009925,basal plasma membrane,Mus musculus,up,4.72330346514862e-11,4.29970699440593e-11,10.3257541507592,45,Plasma membrane
+GO:0016324,apical plasma membrane,Mus musculus,up,5.9840126630411e-08,5.44735295789044e-08,7.22300749611234,48,Plasma membrane
+GO:0030057,desmosome,Mus musculus,up,1.84339450142478e-05,1.67807473936595e-05,4.73438171228088,10,Plasma membrane
+GO:0043235,receptor complex,Mus musculus,up,0.00119666266012577,0.00108934326317424,2.92202826019832,34,Plasma membrane
+GO:0043230,extracellular organelle,Mus musculus,up,0.00493136040410065,0.00448910491944876,2.307033256282,15,Extracellular
+GO:0065010,extracellular membrane-bounded organelle,Mus musculus,up,0.00493136040410065,0.00448910491944876,2.307033256282,15,Extracellular
+GO:1903561,extracellular vesicle,Mus musculus,up,0.00641497546938609,0.00583966605114032,2.1928050000109,14,Extracellular
+GO:0005912,adherens junction,Mus musculus,up,0.00641497546938609,0.00583966605114032,2.1928050000109,18,Plasma membrane
+GO:0043256,laminin complex,Mus musculus,up,0.0152270939306409,0.0138614939228752,1.81738297324394,4,Extracellular
+GO:0034361,very-low-density lipoprotein particle,Mus musculus,up,0.0161765766863948,0.0147258249310574,1.79111337910874,6,Extracellular
+GO:0034385,triglyceride-rich plasma lipoprotein particle,Mus musculus,up,0.0161765766863948,0.0147258249310574,1.79111337910874,6,Extracellular
+GO:0009897,external side of plasma membrane,Mus musculus,up,0.0240235479051311,0.0218690621342256,1.61936285364267,34,Plasma membrane
+GO:0016328,lateral plasma membrane,Mus musculus,up,0.0240235479051311,0.0218690621342256,1.61936285364267,10,Plasma membrane
+GO:0034358,plasma lipoprotein particle,Mus musculus,up,0.0266675853671345,0.0242759763739588,1.57401630599005,7,Extracellular
+GO:1990777,lipoprotein particle,Mus musculus,up,0.0266675853671345,0.0242759763739588,1.57401630599005,7,Extracellular
+GO:0005604,basement membrane,Mus musculus,up,0.0273759065368441,0.0249207737091625,1.56263149051053,12,Cell wall/Extracellular matrix
+GO:0045095,keratin filament,Mus musculus,up,0.0275609269524199,0.0250892010780218,1.55970617995922,7,Cytoskeleton
+GO:0031253,cell projection membrane,Mus musculus,up,0.029319138208158,0.0266897319966302,1.5328487992745,28,Plasma membrane
+GO:0005811,lipid droplet,Mus musculus,up,0.0313495497699587,0.0285380516860622,1.50376869195692,12,Lipid particle
+GO:0032994,protein-lipid complex,Mus musculus,up,0.0313495497699587,0.0285380516860622,1.50376869195692,7,Lipid particle
+GO:0001533,cornified envelope,Mus musculus,up,0.0316125003849149,0.0287774202988674,1.50014115235955,8,Extracellular
+GO:0034364,high-density lipoprotein particle,Mus musculus,up,0.0316125003849149,0.0287774202988674,1.50014115235955,6,Extracellular
+GO:0005903,brush border,Mus musculus,up,0.0321005617171902,0.0292217111939089,1.49348736795209,14,Cytoskeleton
+GO:0031012,extracellular matrix,Mus musculus,up,0.0356968704010889,0.0324954948320549,1.44736985747649,33,Extracellular
+GO:0031012,extracellular matrix,Mus musculus,up,0.0356968704010889,0.0324954948320549,1.44736985747649,33,Cell wall/Extracellular matrix
+GO:0000775,"chromosome, centromeric region",Mus musculus,down,8.27384596950858e-33,7.27236276044914e-33,32.0822925684315,70,Nucleus
+GO:0098687,chromosomal region,Mus musculus,down,4.11969828704059e-32,3.62104159509021e-32,31.3851345890813,81,Nucleus
+GO:0000793,condensed chromosome,Mus musculus,down,1.64584606362642e-29,1.44662949572162e-29,28.7836107868904,69,Nucleus
+GO:0000779,"condensed chromosome, centromeric region",Mus musculus,down,2.88397979935849e-22,2.53489699615328e-22,21.5400077859283,48,Nucleus
+GO:0032993,protein-DNA complex,Mus musculus,down,7.63876387381147e-22,6.71415229827758e-22,21.1169769144894,52,Nucleus
+GO:0000776,kinetochore,Mus musculus,down,4.81833155223305e-21,4.23511086344746e-21,20.3171033192503,45,Nucleus
+GO:0000786,nucleosome,Mus musculus,down,6.74931711004242e-20,5.93236598679997e-20,19.1707401664791,35,Nucleus
+GO:0005819,spindle,Mus musculus,down,2.20675513806137e-16,1.93964499056543e-16,15.6562458535572,64,Nucleus
+GO:0000940,outer kinetochore,Mus musculus,down,1.3607920580994e-15,1.19607900902521e-15,14.8662082340322,16,Nucleus
+GO:0072686,mitotic spindle,Mus musculus,down,2.42241824547596e-12,2.12920379513401e-12,11.6157508710936,35,Nucleus
+GO:0000228,nuclear chromosome,Mus musculus,down,3.797067748337e-12,3.33746291551383e-12,11.4205516539883,41,Nucleus
+GO:0005657,replication fork,Mus musculus,down,6.57124634604745e-12,5.77584927165031e-12,11.1823522514636,23,Nucleus
+GO:0000922,spindle pole,Mus musculus,down,1.22716518329584e-10,1.07862660397707e-10,9.91109697487243,33,Nucleus
+GO:0043505,CENP-A containing nucleosome,Mus musculus,down,2.62373502706253e-08,2.30615278244404e-08,7.58108002680218,11,Nucleus
+GO:0061638,CENP-A containing chromatin,Mus musculus,down,2.62373502706253e-08,2.30615278244404e-08,7.58108002680218,11,Nucleus
+GO:0034506,"chromosome, centromeric core domain",Mus musculus,down,4.36357303461165e-08,3.83539724529034e-08,7.36015775070141,11,Nucleus
+GO:0005874,microtubule,Mus musculus,down,8.40454981201011e-08,7.3872459429931e-08,7.0754855444965,51,Cytoskeleton
+GO:0051233,spindle midzone,Mus musculus,down,9.42353953477188e-08,8.28289506921599e-08,7.02578594309957,13,Nucleus
+GO:0000794,condensed nuclear chromosome,Mus musculus,down,1.25988190491657e-06,1.10738322681431e-06,5.8996701615862,18,Nucleus
+GO:0043073,germ cell nucleus,Mus musculus,down,1.37384782077762e-06,1.20755447553259e-06,5.86206137081125,18,Nucleus
+GO:0045171,intercellular bridge,Mus musculus,down,1.37384782077762e-06,1.20755447553259e-06,5.86206137081125,19,Plasma membrane
+GO:0071162,CMG complex,Mus musculus,down,1.78707776514219e-06,1.57076622372977e-06,5.74785654864863,7,Nucleus
+GO:0000939,inner kinetochore,Mus musculus,down,7.69982163880901e-06,6.76781950673671e-06,5.11351933485066,8,Nucleus
+GO:0031261,DNA replication preinitiation complex,Mus musculus,down,7.89150894752653e-06,6.93630459223448e-06,5.10283994673644,7,Nucleus
+GO:0001673,male germ cell nucleus,Mus musculus,down,8.63603410438325e-06,7.59071090399036e-06,5.06368565127109,15,Nucleus
+GO:0072687,meiotic spindle,Mus musculus,down,2.8203759296582e-05,2.47899186870307e-05,4.54969300044133,8,Nucleus
+GO:0043596,nuclear replication fork,Mus musculus,down,3.58712467009532e-05,3.15293177610835e-05,4.44525352920818,11,Nucleus
+GO:0005875,microtubule associated complex,Mus musculus,down,0.000110826289239556,9.74116489133026e-05,3.95535720786198,20,Cytoskeleton
+GO:0005876,spindle microtubule,Mus musculus,down,0.000132634482010672,0.000116580133505092,3.87734355436139,14,Nucleus
+GO:0005876,spindle microtubule,Mus musculus,down,0.000132634482010672,0.000116580133505092,3.87734355436139,14,Cytoskeleton
+GO:0030496,midbody,Mus musculus,down,0.000487455158316454,0.000428452590704921,3.31206532948634,23,Nucleus
+GO:0042555,MCM complex,Mus musculus,down,0.000897481076458421,0.000788848134555215,3.04697469982633,5,Nucleus
+GO:0042575,DNA polymerase complex,Mus musculus,down,0.00119528990291268,0.00105060957261202,2.9225267491377,6,Nucleus
+GO:0043601,nuclear replisome,Mus musculus,down,0.0013243835228944,0.0011640774372576,2.87798623109164,7,Nucleus
+GO:0000792,heterochromatin,Mus musculus,down,0.0013243835228944,0.0011640774372576,2.87798623109164,14,Nucleus
+GO:0000307,cyclin-dependent protein kinase holoenzyme complex,Mus musculus,down,0.0013243835228944,0.0011640774372576,2.87798623109164,10,Nucleus
+GO:0030894,replisome,Mus musculus,down,0.0015986663581446,0.00140516051811926,2.7962421641061,7,Nucleus
+GO:0005871,kinesin complex,Mus musculus,down,0.00213794723611782,0.00187916573755988,2.67000301724962,9,Cytoskeleton
+GO:1990023,mitotic spindle midzone,Mus musculus,down,0.00284549833081214,0.00250107340312832,2.54584166481555,5,Nucleus
+GO:0001741,XY body,Mus musculus,down,0.00442912390475359,0.00389301370427352,2.35368217015596,6,Nucleus
+GO:0010369,chromocenter,Mus musculus,down,0.00749650576699736,0.00658911340316405,2.12514112057195,5,Nucleus
+GO:0000791,euchromatin,Mus musculus,down,0.00795693565714762,0.00699381191933975,2.0992541537975,10,Nucleus
+GO:0000800,lateral element,Mus musculus,down,0.00953523400690857,0.00838106981439597,2.02066864434193,5,Nucleus
+GO:0000152,nuclear ubiquitin ligase complex,Mus musculus,down,0.0129057231506567,0.0113435880705761,1.88921765547186,8,Nucleus
+GO:0000152,nuclear ubiquitin ligase complex,Mus musculus,down,0.0129057231506567,0.0113435880705761,1.88921765547186,8,Proteasome
+GO:0097431,mitotic spindle pole,Mus musculus,down,0.0168254217406361,0.0147888383402817,1.77403404108107,7,Nucleus
+GO:0045120,pronucleus,Mus musculus,down,0.0189731184017312,0.016676573412514,1.72186128306168,5,Nucleus
+GO:0005680,anaphase-promoting complex,Mus musculus,down,0.0285086843646407,0.0250579350022787,1.54502282430263,5,Nucleus
+GO:0032154,cleavage furrow,Mus musculus,down,0.0285086843646407,0.0250579350022787,1.54502282430263,8,Nucleus
+GO:0032154,cleavage furrow,Mus musculus,down,0.0285086843646407,0.0250579350022787,1.54502282430263,8,Cytoskeleton
+GO:0032153,cell division site,Mus musculus,down,0.0357535726563091,0.031425887223061,1.44668055505458,9,Nucleus
+GO:0090734,site of DNA damage,Mus musculus,down,0.0401950826845858,0.0353297878091774,1.39582707362133,13,Nucleus
+GO:1990752,microtubule end,Mus musculus,down,0.0412881276965262,0.0362905284211763,1.38417481074369,6,Cytoskeleton
+GO:0035371,microtubule plus-end,Mus musculus,down,0.0452427444192841,0.0397664702615756,1.34445105869794,5,Cytoskeleton
+GO:0031012,extracellular matrix,Drosophila melanogaster,down,7.22991244220664e-28,6.24165102924314e-28,27.1408669621933,76,Extracellular
+GO:0031012,extracellular matrix,Drosophila melanogaster,down,7.22991244220664e-28,6.24165102924314e-28,27.1408669621933,76,Cell wall/Extracellular matrix
+GO:0030312,external encapsulating structure,Drosophila melanogaster,down,7.09885983359568e-27,6.12851208655742e-27,26.1488113988501,79,Extracellular
+GO:0062129,chitin-based extracellular matrix,Drosophila melanogaster,down,6.73489669407031e-25,5.81429930423336e-25,24.171669061491,53,Extracellular
+GO:0062129,chitin-based extracellular matrix,Drosophila melanogaster,down,6.73489669407031e-25,5.81429930423336e-25,24.171669061491,53,Cell wall/Extracellular matrix
+GO:0098803,respiratory chain complex,Drosophila melanogaster,down,1.60183611060824e-21,1.38288009548913e-21,20.7953819201491,44,Mitochondrion
+GO:0043292,contractile muscle fiber,Drosophila melanogaster,down,9.64274736099856e-15,8.32467398071818e-15,14.0157992115608,29,Cytoskeleton
+GO:1990204,oxidoreductase complex,Drosophila melanogaster,down,1.52353176253203e-14,1.31527921945211e-14,13.8171484871921,37,Mitochondrion
+GO:0030016,myofibril,Drosophila melanogaster,down,7.32851908244363e-14,6.32677906398011e-14,13.1349837769689,27,Cytoskeleton
+GO:0030017,sarcomere,Drosophila melanogaster,down,1.0391434009691e-13,8.9710221666397e-14,12.9833245160114,26,Cytoskeleton
+GO:0045259,proton-transporting ATP synthase complex,Drosophila melanogaster,down,5.5806422938553e-13,4.81782068534271e-13,12.2533158138538,16,Mitochondrion
+GO:1902495,transmembrane transporter complex,Drosophila melanogaster,down,1.18835765230138e-11,1.02592027536809e-11,10.9250528328861,53,Membrane transport
+GO:1990351,transporter complex,Drosophila melanogaster,down,6.50199341594859e-11,5.61323172599878e-11,10.1869534746151,53,Membrane transport
+GO:0045263,"proton-transporting ATP synthase complex, coupling factor F(o)",Drosophila melanogaster,down,7.32001062636159e-09,6.319433634269e-09,8.13548828848166,11,Mitochondrion
+GO:0070069,cytochrome complex,Drosophila melanogaster,down,3.11184037176293e-08,2.68648089648598e-08,7.50698268913755,14,Mitochondrion
+GO:0030018,Z disc,Drosophila melanogaster,down,1.63330364442823e-07,1.41004631173661e-07,6.78693306888187,16,Cytoskeleton
+GO:0031674,I band,Drosophila melanogaster,down,2.22192024763983e-07,1.91820453033654e-07,6.65327153343815,16,Cytoskeleton
+GO:0099081,supramolecular polymer,Drosophila melanogaster,down,8.59609342083984e-07,7.42108784532936e-07,6.06569887331848,37,Cytoskeleton
+GO:0016469,proton-transporting two-sector ATPase complex,Drosophila melanogaster,down,1.81897799014549e-06,1.57034071091697e-06,5.74017255592068,17,Mitochondrion
+GO:0015629,actin cytoskeleton,Drosophila melanogaster,down,1.97028760643657e-06,1.70096771778697e-06,5.70547037446199,27,Cytoskeleton
+GO:0036379,myofilament,Drosophila melanogaster,down,2.00890633180931e-06,1.73430762458357e-06,5.69704031239396,8,Cytoskeleton
+GO:0062023,collagen-containing extracellular matrix,Drosophila melanogaster,down,2.49121820552269e-06,2.15069197599081e-06,5.60358823099258,15,Extracellular
+GO:0062023,collagen-containing extracellular matrix,Drosophila melanogaster,down,2.49121820552269e-06,2.15069197599081e-06,5.60358823099258,15,Cell wall/Extracellular matrix
+GO:0099512,supramolecular fiber,Drosophila melanogaster,down,1.26135329358867e-05,1.08893809518447e-05,4.89916325445278,34,Cytoskeleton
+GO:0031672,A band,Drosophila melanogaster,down,1.59087224450173e-05,1.37341488733962e-05,4.79836469510872,10,Cytoskeleton
+GO:0034703,cation channel complex,Drosophila melanogaster,down,6.73343602460746e-05,5.81303829462515e-05,4.17176326182052,21,Membrane transport
+GO:0045275,respiratory chain complex III,Drosophila melanogaster,down,7.50692337814955e-05,6.48079716099241e-05,4.12453801687861,7,Mitochondrion
+GO:0033177,"proton-transporting two-sector ATPase complex, proton-transporting domain",Drosophila melanogaster,down,7.63630263029739e-05,6.59249147939343e-05,4.11711686864088,11,Mitochondrion
+GO:0016324,apical plasma membrane,Drosophila melanogaster,down,0.000243838628390319,0.00021050816839452,3.61289749327107,20,Plasma membrane
+GO:0034702,monoatomic ion channel complex,Drosophila melanogaster,down,0.000511246409647654,0.000441363806890061,3.2913697289126,22,Membrane transport
+GO:0031430,M band,Drosophila melanogaster,down,0.000556908782715697,0.000480784560617868,3.25421593302623,7,Cytoskeleton
+GO:0045277,respiratory chain complex IV,Drosophila melanogaster,down,0.000556908782715697,0.000480784560617868,3.25421593302623,7,Mitochondrion
+GO:0030964,NADH dehydrogenase complex,Drosophila melanogaster,down,0.000672750543463281,0.000580791836083408,3.17214594273105,12,Mitochondrion
+GO:0045271,respiratory chain complex I,Drosophila melanogaster,down,0.000672750543463281,0.000580791836083408,3.17214594273105,12,Mitochondrion
+GO:0005604,basement membrane,Drosophila melanogaster,down,0.00168832513778404,0.00145754688154018,2.77254391319146,7,Cell wall/Extracellular matrix
+GO:0045177,apical part of cell,Drosophila melanogaster,down,0.00336636097937417,0.00290621091744533,2.47283931588706,26,Plasma membrane
+GO:0032432,actin filament bundle,Drosophila melanogaster,down,0.00336636097937417,0.00290621091744533,2.47283931588706,5,Cytoskeleton
+GO:0033178,"proton-transporting two-sector ATPase complex, catalytic domain",Drosophila melanogaster,down,0.00606274915146871,0.00523402804443342,2.21733040049119,6,Mitochondrion
+GO:0005743,mitochondrial inner membrane,Drosophila melanogaster,down,0.00641578603675188,0.0055388080892822,2.19275012798565,28,Mitochondrion
+GO:0005743,mitochondrial inner membrane,Drosophila melanogaster,down,0.00641578603675188,0.0055388080892822,2.19275012798565,28,Endoplasmic Reticulum
+GO:0016459,myosin complex,Drosophila melanogaster,down,0.00874156914229894,0.0075466783962293,2.05841060298631,7,Cytoskeleton
+GO:0019866,organelle inner membrane,Drosophila melanogaster,down,0.0104555428537559,0.00902636793130002,1.98065341360956,28,Endoplasmic Reticulum
+GO:0005884,actin filament,Drosophila melanogaster,down,0.0132962023363013,0.0114787358299004,1.87627238458956,7,Cytoskeleton
+GO:0045240,alpha-ketoacid dehydrogenase complex,Drosophila melanogaster,down,0.0148909644867586,0.0128555089094319,1.82707717211272,5,Mitochondrion
+GO:0099080,supramolecular complex,Drosophila melanogaster,down,0.0188088932979787,0.0162378934946579,1.72563675727901,38,Cell wall/Extracellular matrix
+GO:0016460,myosin II complex,Drosophila melanogaster,down,0.0404648805192794,0.0349337098008167,1.39292173761158,4,Cytoskeleton
+GO:0005902,microvillus,Drosophila melanogaster,down,0.0430132455901231,0.0371337372001062,1.36639778626012,5,Cytoskeleton
+GO:0000793,condensed chromosome,Caenorhabditis elegans,up,3.04702509304627e-11,2.90763830817007e-11,10.5161239692343,49,Nucleus
+GO:0031143,pseudopodium,Caenorhabditis elegans,up,5.72271512694059e-10,5.46092835527041e-10,9.24239787245209,22,Cytoskeleton
+GO:0005694,chromosome,Caenorhabditis elegans,up,1.10750584457986e-07,1.05684276364236e-07,6.95565397322039,104,Nucleus
+GO:0000794,condensed nuclear chromosome,Caenorhabditis elegans,up,1.4334047851192e-05,1.36783339062039e-05,4.84363115006364,19,Nucleus
+GO:0000779,"condensed chromosome, centromeric region",Caenorhabditis elegans,up,2.81901457555157e-05,2.69005817834237e-05,4.54990267862813,23,Nucleus
+GO:0098687,chromosomal region,Caenorhabditis elegans,up,3.38255888510808e-05,3.22782303842089e-05,4.47075463427065,29,Nucleus
+GO:0000776,kinetochore,Caenorhabditis elegans,up,3.38255888510808e-05,3.22782303842089e-05,4.47075463427065,22,Nucleus
+GO:0000775,"chromosome, centromeric region",Caenorhabditis elegans,up,4.78416007662628e-05,4.56530769732168e-05,4.32019429740752,25,Nucleus
+GO:0000795,synaptonemal complex,Caenorhabditis elegans,up,5.40220605115552e-05,5.15508103258323e-05,4.26742885495545,9,Nucleus
+GO:0099086,synaptonemal structure,Caenorhabditis elegans,up,5.40220605115552e-05,5.15508103258323e-05,4.26742885495545,9,Nucleus
+GO:0000228,nuclear chromosome,Caenorhabditis elegans,up,0.000176602679033193,0.000168523953430593,3.75300271253361,27,Nucleus
+GO:0043186,P granule,Caenorhabditis elegans,up,0.000468607965047088,0.00044717139802821,3.32919033386411,25,Nucleus
+GO:0045495,pole plasm,Caenorhabditis elegans,up,0.000468607965047088,0.00044717139802821,3.32919033386411,25,Nucleus
+GO:0060293,germ plasm,Caenorhabditis elegans,up,0.000468607965047088,0.00044717139802821,3.32919033386411,25,Nucleus
+GO:0036464,cytoplasmic ribonucleoprotein granule,Caenorhabditis elegans,up,0.000837896344249411,0.000799566604940412,3.07680970440661,35,Ribosome
+GO:0035770,ribonucleoprotein granule,Caenorhabditis elegans,up,0.00105018529136312,0.00100214435083347,2.97873406862806,35,Ribosome
+GO:0005581,collagen trimer,Caenorhabditis elegans,up,0.00110600990353545,0.0010554152547264,2.95624098421438,37,Cell wall/Extracellular matrix
+GO:0005682,U5 snRNP,Caenorhabditis elegans,up,0.0116870266705704,0.0111524012498311,1.93229596486998,6,Ribosome
+GO:0016442,RISC complex,Caenorhabditis elegans,up,0.0382564966775268,0.0365064454276449,1.41729480282102,8,Ribosome
+GO:0005581,collagen trimer,Caenorhabditis elegans,down,7.84433539523453e-08,7.55035354446085e-08,7.10544384575571,32,Cell wall/Extracellular matrix
+GO:0031462,Cul2-RING ubiquitin ligase complex,Caenorhabditis elegans,down,0.0274435950711208,0.0264150925321048,1.56155899729181,7,Proteasome
+GO:0022626,cytosolic ribosome,Saccharomyces cerevisiae,down,5.05408823388496e-27,3.99006965833023e-27,26.2963571804701,22,Ribosome
+GO:0044391,ribosomal subunit,Saccharomyces cerevisiae,down,6.63234960612642e-24,5.23606547852086e-24,23.1783325892114,22,Ribosome
+GO:0005840,ribosome,Saccharomyces cerevisiae,down,7.28760545942816e-23,5.7533727311275e-23,22.1374151474828,22,Ribosome
+GO:0022625,cytosolic large ribosomal subunit,Saccharomyces cerevisiae,down,7.15021243509718e-16,5.64490455402409e-16,15.1456810549794,13,Ribosome
+GO:0015934,large ribosomal subunit,Saccharomyces cerevisiae,down,2.41041045516084e-13,1.9029556224954e-13,12.6179089975773,13,Ribosome
+GO:0022627,cytosolic small ribosomal subunit,Saccharomyces cerevisiae,down,6.8428470599651e-11,5.40224767891982e-11,10.1647631665294,9,Ribosome
+GO:0015935,small ribosomal subunit,Saccharomyces cerevisiae,down,4.13938488366665e-09,3.26793543447367e-09,8.38306419063685,9,Ribosome
+GO:0030686,90S preribosome,Saccharomyces cerevisiae,down,0.00570408130053717,0.00450322207937145,2.24381429309254,4,Ribosome
+GO:0030684,preribosome,Saccharomyces cerevisiae,down,0.00674364428420891,0.00532392969805967,2.17110534607601,5,Ribosome
+GO:0031976,plastid thylakoid,Arabidopsis thaliana,up,3.36238816820948e-194,2.95159288184073e-194,193.473352151224,379,Chloroplast/Plastid
+GO:0009534,chloroplast thylakoid,Arabidopsis thaliana,up,1.43011427632327e-192,1.25539197351577e-192,191.844629257924,375,Chloroplast/Plastid
+GO:0042170,plastid membrane,Arabidopsis thaliana,up,3.72849020377938e-176,3.27296688988423e-176,175.428466993635,384,Chloroplast/Plastid
+GO:0042651,thylakoid membrane,Arabidopsis thaliana,up,4.22376178253772e-169,3.70772932459135e-169,168.374300583714,327,Chloroplast/Plastid
+GO:0034357,photosynthetic membrane,Arabidopsis thaliana,up,2.29353800700167e-168,2.01332806238793e-168,167.63949405863,329,Chloroplast/Plastid
+GO:0055035,plastid thylakoid membrane,Arabidopsis thaliana,up,9.38543836963731e-158,8.23878496441656e-158,157.027545437793,304,Chloroplast/Plastid
+GO:0009535,chloroplast thylakoid membrane,Arabidopsis thaliana,up,1.33909203468057e-154,1.17549025275019e-154,153.873189573264,298,Chloroplast/Plastid
+GO:0019867,outer membrane,Arabidopsis thaliana,up,2.23525424144174e-120,1.9621650380887e-120,119.650673072364,324,Endoplasmic Reticulum
+GO:0031968,organelle outer membrane,Arabidopsis thaliana,up,2.23525424144174e-120,1.9621650380887e-120,119.650673072364,324,Endoplasmic Reticulum
+GO:0031977,thylakoid lumen,Arabidopsis thaliana,up,1.07103426441007e-43,9.40182082761644e-44,42.9701966350447,67,Chloroplast/Plastid
+GO:0031978,plastid thylakoid lumen,Arabidopsis thaliana,up,3.49399046900012e-31,3.06711684719372e-31,30.4566782840315,49,Chloroplast/Plastid
+GO:0009543,chloroplast thylakoid lumen,Arabidopsis thaliana,up,1.58383814782668e-30,1.39033483620734e-30,29.8002892009644,48,Chloroplast/Plastid
+GO:0031969,chloroplast membrane,Arabidopsis thaliana,up,2.69703153914164e-30,2.36752531081786e-30,29.5691139748689,88,Chloroplast/Plastid
+GO:0042646,plastid nucleoid,Arabidopsis thaliana,up,8.49375909985537e-28,7.45604541921562e-28,27.0709000606384,51,Nucleus
+GO:0042646,plastid nucleoid,Arabidopsis thaliana,up,8.49375909985537e-28,7.45604541921562e-28,27.0709000606384,51,Chloroplast/Plastid
+GO:0010287,plastoglobule,Arabidopsis thaliana,up,2.55469505580604e-26,2.24257859734446e-26,25.5926609325095,51,Chloroplast/Plastid
+GO:0048046,apoplast,Arabidopsis thaliana,up,6.81998342700617e-25,5.98676105505767e-25,24.1662166807055,144,Extracellular
+GO:0042644,chloroplast nucleoid,Arabidopsis thaliana,up,9.63191763553463e-25,8.45515095500095e-25,24.0162872398099,45,Nucleus
+GO:0042644,chloroplast nucleoid,Arabidopsis thaliana,up,9.63191763553463e-25,8.45515095500095e-25,24.0162872398099,45,Chloroplast/Plastid
+GO:0009295,nucleoid,Arabidopsis thaliana,up,1.97201155870688e-24,1.73108367874327e-24,23.7050905438229,52,Nucleus
+GO:0009521,photosystem,Arabidopsis thaliana,up,4.70973712090594e-22,4.13433127466948e-22,21.3270033328129,49,Chloroplast/Plastid
+GO:0009528,plastid inner membrane,Arabidopsis thaliana,up,2.05495506696694e-21,1.80389367459382e-21,20.6871976698374,53,Endoplasmic Reticulum
+GO:0009528,plastid inner membrane,Arabidopsis thaliana,up,2.05495506696694e-21,1.80389367459382e-21,20.6871976698374,53,Chloroplast/Plastid
+GO:0009706,chloroplast inner membrane,Arabidopsis thaliana,up,9.48673544928851e-21,8.32770620857171e-21,20.0228832101515,51,Endoplasmic Reticulum
+GO:0009706,chloroplast inner membrane,Arabidopsis thaliana,up,9.48673544928851e-21,8.32770620857171e-21,20.0228832101515,51,Chloroplast/Plastid
+GO:0009523,photosystem II,Arabidopsis thaliana,up,3.80402646383824e-14,3.33927460819545e-14,13.4197564704258,33,Chloroplast/Plastid
+GO:0010319,stromule,Arabidopsis thaliana,up,2.07621247969061e-13,1.82255399129216e-13,12.6827282028298,30,Chloroplast/Plastid
+GO:0009522,photosystem I,Arabidopsis thaliana,up,3.28725141126932e-10,2.88563585788795e-10,9.48316707950477,19,Chloroplast/Plastid
+GO:0019866,organelle inner membrane,Arabidopsis thaliana,up,1.09981662166776e-09,9.65447993939781e-10,8.95867972105709,75,Endoplasmic Reticulum
+GO:0098807,chloroplast thylakoid membrane protein complex,Arabidopsis thaliana,up,1.34448925984652e-09,1.18022807913565e-09,8.87144266269172,18,Chloroplast/Plastid
+GO:0009654,photosystem II oxygen evolving complex,Arabidopsis thaliana,up,1.36903229829238e-09,1.20177260461919e-09,8.86358630584359,19,Chloroplast/Plastid
+GO:0010598,NAD(P)H dehydrogenase complex (plastoquinone),Arabidopsis thaliana,up,6.0900518717019e-09,5.34600791321733e-09,8.21537900827058,13,Chloroplast/Plastid
+GO:0000427,plastid-encoded plastid RNA polymerase complex,Arabidopsis thaliana,up,1.51567997796957e-06,1.33050379977569e-06,5.81939248635136,11,Chloroplast/Plastid
+GO:0009547,plastid ribosome,Arabidopsis thaliana,up,1.5733750398687e-06,1.38115004449808e-06,5.80316774379017,21,Ribosome
+GO:0009547,plastid ribosome,Arabidopsis thaliana,up,1.5733750398687e-06,1.38115004449808e-06,5.80316774379017,21,Chloroplast/Plastid
+GO:0009368,endopeptidase Clp complex,Arabidopsis thaliana,up,6.45108615495778e-06,5.66293331482138e-06,5.19036715801714,10,Proteasome
+GO:0009538,photosystem I reaction center,Arabidopsis thaliana,up,6.45108615495778e-06,5.66293331482138e-06,5.19036715801714,10,Chloroplast/Plastid
+GO:0009707,chloroplast outer membrane,Arabidopsis thaliana,up,1.82449794203477e-05,1.60159234128836e-05,4.73885662216694,25,Endoplasmic Reticulum
+GO:0009707,chloroplast outer membrane,Arabidopsis thaliana,up,1.82449794203477e-05,1.60159234128836e-05,4.73885662216694,25,Chloroplast/Plastid
+GO:0009527,plastid outer membrane,Arabidopsis thaliana,up,2.49552341951745e-05,2.19063617673772e-05,4.6028383500938,27,Endoplasmic Reticulum
+GO:0009527,plastid outer membrane,Arabidopsis thaliana,up,2.49552341951745e-05,2.19063617673772e-05,4.6028383500938,27,Chloroplast/Plastid
+GO:0019898,extrinsic component of membrane,Arabidopsis thaliana,up,0.000198743586748192,0.000174462354318192,3.70170687668311,19,Membrane transport
+GO:0099503,secretory vesicle,Arabidopsis thaliana,up,0.000202597938608431,0.000177845805884657,3.6933649778086,57,Golgi apparatus
+GO:0009533,chloroplast stromal thylakoid,Arabidopsis thaliana,up,0.000388786618014812,0.000341287131907359,3.4102886918485,9,Chloroplast/Plastid
+GO:0000312,plastid small ribosomal subunit,Arabidopsis thaliana,up,0.00299339262752421,0.00262767887880711,2.52383631530686,10,Ribosome
+GO:0000312,plastid small ribosomal subunit,Arabidopsis thaliana,up,0.00299339262752421,0.00262767887880711,2.52383631530686,10,Chloroplast/Plastid
+GO:0000311,plastid large ribosomal subunit,Arabidopsis thaliana,up,0.00891899630084372,0.0078293298327756,2.04968401619912,9,Ribosome
+GO:0000311,plastid large ribosomal subunit,Arabidopsis thaliana,up,0.00891899630084372,0.0078293298327756,2.04968401619912,9,Chloroplast/Plastid
+GO:0005777,peroxisome,Arabidopsis thaliana,up,0.0307058455988343,0.0269543998986537,1.51277893821502,83,Peroxisome
+GO:0042579,microbody,Arabidopsis thaliana,up,0.0307058455988343,0.0269543998986537,1.51277893821502,83,Peroxisome
+GO:0048226,Casparian strip,Arabidopsis thaliana,down,1.78738504437804e-10,1.78130428677259e-10,9.74778188026685,16,Cell wall/Extracellular matrix
+GO:0009531,secondary cell wall,Arabidopsis thaliana,down,5.36013750287699e-07,5.34190209412196e-07,6.27082406926716,17,Cell wall/Extracellular matrix
+GO:0005615,extracellular space,Arabidopsis thaliana,down,0.00218583997506651,0.00217840365736066,2.66038163583988,42,Extracellular
+GO:0010168,ER body,Arabidopsis thaliana,down,0.0138431952630987,0.0137961001421316,1.85876365518503,8,Endoplasmic Reticulum
