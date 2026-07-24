@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Home · OSDR X-species</title>
+<meta name="description" content="Conserved mitochondrial suppression and organelle-specific transcriptomic responses to spaceflight across six eukaryotic species — a human-anchored cross-species meta-analysis of NASA OSDR. FAIR data and code.">
+<link rel="stylesheet" href="assets/style.css">
+</head><body>
+<header class="site"><nav>
+  <span class="brand">🧫 OSDR X-species</span>
+  <a href="#abstract" style="color:var(--accent)">Abstract</a>
+  <a href="#highlights">Highlights</a>
+  <a href="#figures">Figures</a>
+  <a href="#data">Data &amp; code</a>
+  <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2">GitHub ↗</a>
+</nav></header>
+<main>
+<section class="hero">
+  <h1>Conserved mitochondrial suppression across six eukaryotic species in spaceflight</h1>
+  <p class="lede">A human-anchored, cross-species meta-analysis of spaceflight transcriptomics
+     from the NASA Open Science Data Repository — asking which organelle-level responses
+     are shared across a billion years of eukaryotic evolution.</p>
+  <div class="badges">
+    <span class="badge">CC BY 4.0</span><span class="badge">FAIR</span>
+    <span class="badge">NASA OSDR</span><span class="badge">OrthoDB v12</span>
+    <span class="badge">22 datasets</span><span class="badge">6 species</span>
+  </div>
+  <div class="btnrow">
+    <a class="btn primary" href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/manuscript">Read the manuscript →</a>
+    <a class="btn" href="#figures">Figures</a>
+    <a class="btn" href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/scripts">Analysis code</a>
+    <a class="btn" href="https://github.com/dr-richard-barker/OSDR_X-species_V2">Code &amp; data (GitHub)</a>
+  </div>
+  <p class="lede"><b>Headline:</b> a conserved downregulation of mitochondrial genes —
+  <b>49 orthologs</b> suppressed, direction-consistent, across at least three of six
+  species — pinpoints mitochondrial energy metabolism as a deeply conserved target of
+  the spaceflight transcriptional response.</p>
+</section>
+
+<h2 id="abstract">Abstract</h2>
+<div class="content"><p>Spaceflight induces transcriptomic changes across organisms, but the
+extent to which subcellular and metabolic pathways are conserved across species remains
+poorly understood. We performed a cross-species meta-analysis of <b>22 transcriptomic
+datasets</b> from the NASA Open Science Data Repository spanning <b>six eukaryotic
+species</b> (<em>Homo sapiens</em>, <em>Mus musculus</em>, <em>Drosophila melanogaster</em>,
+<em>Caenorhabditis elegans</em>, <em>Saccharomyces cerevisiae</em>, and
+<em>Arabidopsis thaliana</em>), encompassing 20,333 differentially expressed genes.
+Using a human-anchored orthology matrix built from <b>OrthoDB v12</b> (18,030 genes;
+651 with orthologs in all six species), we mapped DEGs to 16 subcellular compartments
+and applied Fisher's combined probability test to identify conserved organelle-level
+responses. We report a striking conserved downregulation of mitochondrial genes:
+<b>49 orthologs</b> show significant, direction-consistent suppression across at least
+three species (minimum Fisher FDR = 7.7×10⁻⁶⁸), including components of Complex III
+(CYC1), Complex IV (COX5B, COX6A2, COX6B2), ATP synthase (ATP5F1A, ATP5PD) and the TCA
+cycle (IDH3A/B/G). In contrast, peroxisome, lipid-droplet and Golgi genes show conserved
+upregulation. These findings identify mitochondrial energy metabolism as a deeply
+conserved target of the spaceflight transcriptional response.</p><hr /></div>
+
+<h2 id="highlights">Highlights</h2>
+<div class="cards">
+  <div class="card"><h3>Six species, one anchor</h3>
+    <p><span class="k">22</span> OSDR datasets across <span class="k">6</span> species mapped onto a human-anchored OrthoDB v12 orthology matrix (18,030 genes).</p></div>
+  <div class="card"><h3>Conserved mito suppression</h3>
+    <p><span class="k">49</span> mitochondrial orthologs down-regulated across ≥3 species (Fisher FDR down to 7.7×10⁻⁶⁸) — the most robust conserved response.</p></div>
+  <div class="card"><h3>Directional contrast</h3>
+    <p>Mitochondrion, ER and cytoskeleton down; peroxisome, lipid particle and Golgi up.</p></div>
+  <div class="card"><h3>Pathway resolution</h3>
+    <p>KEGG overlays show NAD⁺-dependent OxPhos enzymes diverge by species while CoA-dependent TCA enzymes stay conserved.</p></div>
+</div>
+
+<h2 id="figures">Selected figures</h2>
+<div class="gallery">
+  <figure><a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/figures"><img src="assets/figures/fig1_study_overview.png" alt="Study overview: OSDR datasets and DEGs per species."></a><figcaption>Fig 1 — Study overview: datasets and differentially expressed genes per species.</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/figures"><img src="assets/figures/fig4_organelle_enrichment_heatmap.png" alt="Signed organelle enrichment across species."></a><figcaption>Fig 4 — Signed subcellular-organelle enrichment across the six species.</figcaption></figure>
+  <figure><a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/figures"><img src="assets/figures/fig5_conserved_organelle_schematic.png" alt="Conserved organelle schematic: mitochondrion downregulated across species."></a><figcaption>Fig 5 — Conserved organelle responses; the mitochondrion (49 genes) is the most robustly conserved.</figcaption></figure>
+</div>
+
+<h2 id="data">Data &amp; code</h2>
+<div class="content"><ul>
+  <li><b>Manuscript:</b> <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/manuscript"><code>manuscript/</code></a>
+      (npj-styled LaTeX in <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/manuscript/latex"><code>manuscript/latex/</code></a>)</li>
+  <li><b>Analysis code:</b> <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/scripts"><code>scripts/</code></a> (R: DE, orthology, enrichment, KEGG figures)</li>
+  <li><b>Supplementary tables:</b> <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/zenodo_repo/supplementary_tables"><code>zenodo_repo/supplementary_tables/</code></a> (S3, S4, S7, S8, S11)</li>
+  <li><b>Figures:</b> <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2/tree/main/figures"><code>figures/</code></a> (Fig 1–7, PNG + SVG)</li>
+</ul>
+<p class="note">Transcriptomic data derive from NASA OSDR / GeneLab (cite the individual OSD
+accessions); orthology from OrthoDB v12; pathways from KEGG. OSDR data remain subject to
+the NASA Open Data policy.</p></div>
+</main>
+<footer class="site">
+  OSDR X-species — conserved organelle responses to spaceflight across six species ·
+  FAIR data &amp; code ·
+  <a href="https://github.com/dr-richard-barker/OSDR_X-species_V2">GitHub</a>
+</footer></body></html>
