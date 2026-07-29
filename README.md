@@ -84,12 +84,13 @@ machine-readable outputs of those analyses.
 ## Code availability
 
 The methodology is documented in [`METHODS.md`](METHODS.md) and the Methods
-section of the manuscript. The [`scripts/`](scripts/) folder currently holds the
-figure-generation scripts (`08`–`09c`); the upstream analysis pipeline (`01`–`07`
-— OSDR query, differential expression, OrthoDB v12 ortholog mapping, GO-CC
-compartment assignment, and Fisher's combined test) will be added here. Together
-they regenerate the figures and supplementary tables from the NASA OSDR inputs
-and the OrthoDB v12 orthology backbone.
+section of the manuscript. The [`scripts/`](scripts/) folder contains the full
+analysis pipeline: the upstream analysis (`01`–`07` — OSDR query, differential
+expression, OrthoDB v12 ortholog mapping, GO-CC compartment assignment, Fisher's
+combined conservation test, and pathway/cofactor mapping), the figure-generation
+scripts (`08`–`09c`), and manuscript generation (`10`). Together they regenerate
+the figures and supplementary tables from the NASA OSDR inputs and the OrthoDB v12
+orthology backbone.
 
 ## Requirements
 
