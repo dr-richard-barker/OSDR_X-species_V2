@@ -130,6 +130,7 @@
 
 %% General Packages Used
 %
+\RequirePackage{manyfoot}% [patch] define \SetFootnoteHook/\DeclareNewFootnote used below
 \AtBeginDocument{%
 %%\newcommand*\ExtraParaSkip{12pt}%
 \SetFootnoteHook{\hspace*{-8pt}}%
