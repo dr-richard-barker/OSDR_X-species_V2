@@ -1,0 +1,32 @@
+name: Build manuscript PDF
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'manuscript/latex/**'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: build-manuscript
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile LaTeX (sn-jnl)
+        uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: manuscript/latex
+          root_file: main.tex
+          latexmk_use_xelatex: false
+      - name: Publish PDF into docs/
+        run: |
+          mkdir -p docs
+          cp manuscript/latex/main.pdf "docs/${GITHUB_REPOSITORY##*/}.pdf"
+      - name: Commit the compiled PDF
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "CI: rebuild compiled manuscript PDF [skip ci]"
+          file_pattern: "docs/*.pdf"
