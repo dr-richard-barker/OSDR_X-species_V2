@@ -5,7 +5,6 @@ type: dataset
 authors:
   - family-names: "Barker"
     given-names: "Richard"
-    orcid: "https://orcid.org/0000-0000-0000-0000"
 keywords:
   - spaceflight
   - transcriptomics
@@ -21,11 +20,10 @@ license: CC-BY-4.0
 version: 1.0.0
 date-released: "2026-07-18"
 preferred-citation:
-  type: article
+  type: unpublished
   title: "Conserved mitochondrial suppression and organelle-specific transcriptomic responses to spaceflight across six eukaryotic species"
   authors:
     - family-names: "Barker"
       given-names: "Richard"
-  journal: "npj Microgravity"
   year: 2026
-  doi: "10.1038/s41526-0000-0000-0"
+  notes: "Manuscript in preparation; intended for submission to npj Microgravity. Not yet peer reviewed."

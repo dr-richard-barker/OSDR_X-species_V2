@@ -1,103 +1,57 @@
-% References transcribed verbatim from the manuscript reference list.
-% NOTE: the source list contains no DOIs; add them where available (marked TODO).
-
-@article{beheshti2021cell,
-  author  = {Beheshti, A. and others},
-  title   = {Multi-omics model of mammalian spaceflight response},
-  journal = {Cell},
-  volume  = {184},
-  pages   = {1--16},
-  year    = {2021}
-}
-
-@article{galazka2021,
-  author  = {Galazka, J. M. and Uhrig, R. G.},
-  title   = {Plant proteomics in microgravity},
-  journal = {Frontiers in Plant Science},
-  volume  = {12},
-  pages   = {729},
-  year    = {2021}
-}
+% References checked against CrossRef on 2026-10-14 (/abai check). Every entry
+% below except fisher1925 (a 1925 book) carries a DOI whose CrossRef record
+% confirmed its title, journal, volume, pages and year.
+%
+% Removed because no CrossRef or OpenAlex record matches them (the sentences that
+% cited them now carry "[TODO: citation needed]" in main.tex):
+%   beheshti2021cell "Multi-omics model of mammalian spaceflight response", Cell 184, 1-16 (2021)
+%                    (candidate for the author to confirm, not a substitution: da Silveira et al.,
+%                    Cell 183, 1185-1201 (2020), 10.1016/j.cell.2020.11.002)
+%   galazka2021      "Plant proteomics in microgravity", Front. Plant Sci. 12, 729 (2021)
+%   beheshti2020     "Transcriptional and post-transcriptional dynamics in spaceflight", Nat. Commun. 11 (2020)
+%   herranz2020      "Spaceflight-related subcellular changes in mammalian cells", Int. J. Mol. Sci. 21 (2020)
+%   dasilva2021      "Mitochondrial dysfunction in spaceflight", Front. Cell Dev. Biol. 9, 749 (2021)
+%   mao2021          "Spaceflight-induced changes in mitochondrial ultrastructure", Acta Astronaut. 180 (2021)
+%   choi2021         "Mitochondrial regulation of spaceflight responses", Cell Rep. 35 (2021)
+%   zhang2022        "Peroxisome proliferation in microgravity", Front. Cell Dev. Biol. 10 (2022)
+% Corrected from CrossRef:
+%   ray2019          pages 710-711 -> 1753-1759
+%   jonscher2016     title and article number (real: "Spaceflight Activates Lipotoxic Pathways in Mouse Liver", e0152877)
+%   kriventseva2023 -> kuznetsov2023   "OrthoDB v12 ... D429-D438" matched no paper; NAR 51 (2023) is the OrthoDB v11
+%                    paper, which orthodb.org lists as the resource's citation. The v12 data release has no
+%                    separate citation there; the later update is Tegenfeldt et al., NAR 53, D516-D522 (2025),
+%                    10.1093/nar/gkae987.
+%   gilbert2022 -> dolgalev2021        babelgene is a CRAN package by I. Dolgalev, not a JOSS paper
+%   garnier2023 -> garnier2015         viridis is a CRAN package, not a JOSS paper
 
 @article{ray2019,
   author  = {Ray, S. and others},
   title   = {{GeneLab}: omics database for spaceflight experiments},
   journal = {Bioinformatics},
   volume  = {35},
-  pages   = {710--711},
-  year    = {2019}
-}
-
-@article{beheshti2020,
-  author  = {Beheshti, A. and others},
-  title   = {Transcriptional and post-transcriptional dynamics in spaceflight},
-  journal = {Nature Communications},
-  volume  = {11},
-  pages   = {1--12},
-  year    = {2020}
-}
-
-@article{herranz2020,
-  author  = {Herranz, R. and others},
-  title   = {Spaceflight-related subcellular changes in mammalian cells},
-  journal = {International Journal of Molecular Sciences},
-  volume  = {21},
-  pages   = {1--20},
-  year    = {2020}
-}
-
-@article{dasilva2021,
-  author  = {da Silva, J. P. and others},
-  title   = {Mitochondrial dysfunction in spaceflight},
-  journal = {Frontiers in Cell and Developmental Biology},
-  volume  = {9},
-  pages   = {749},
-  year    = {2021}
-}
-
-@article{mao2021,
-  author  = {Mao, X. W. and others},
-  title   = {Spaceflight-induced changes in mitochondrial ultrastructure},
-  journal = {Acta Astronautica},
-  volume  = {180},
-  pages   = {1--8},
-  year    = {2021}
-}
-
-@article{choi2021,
-  author  = {Choi, A. M. and others},
-  title   = {Mitochondrial regulation of spaceflight responses},
-  journal = {Cell Reports},
-  volume  = {35},
-  pages   = {1--12},
-  year    = {2021}
+  pages   = {1753--1759},
+  year    = {2019},
+  doi     = {10.1093/bioinformatics/bty884}
 }
 
 @article{jonscher2016,
   author  = {Jonscher, K. R. and others},
-  title   = {Spaceflight-induced lipid droplet accumulation},
+  title   = {Spaceflight activates lipotoxic pathways in mouse liver},
   journal = {PLoS ONE},
   volume  = {11},
-  pages   = {e0154},
-  year    = {2016}
+  pages   = {e0152877},
+  year    = {2016},
+  doi     = {10.1371/journal.pone.0152877}
 }
 
-@article{zhang2022,
-  author  = {Zhang, Y. and others},
-  title   = {Peroxisome proliferation in microgravity},
-  journal = {Frontiers in Cell and Developmental Biology},
-  volume  = {10},
-  pages   = {1--15},
-  year    = {2022}
-}
-
-@article{kriventseva2023,
-  author  = {Kriventseva, E. V. and others},
-  title   = {{OrthoDB} v12: reconstruction of gene orthology in the tree of life},
+@article{kuznetsov2023,
+  author  = {Kuznetsov, D. and others},
+  title   = {{OrthoDB} v11: annotation of orthologs in the widest sampling of organismal diversity},
   journal = {Nucleic Acids Research},
   volume  = {51},
-  pages   = {D429--D438},
-  year    = {2023}
+  pages   = {D445--D451},
+  year    = {2023},
+  doi     = {10.1093/nar/gkac998}
 }
 
 @article{kanehisa2016,
@@ -106,7 +60,8 @@
   journal = {Nucleic Acids Research},
   volume  = {44},
   pages   = {D457--D462},
-  year    = {2016}
+  year    = {2016},
+  doi     = {10.1093/nar/gkv1070}
 }
 
 @article{yu2012,
@@ -115,7 +70,8 @@
   journal = {OMICS},
   volume  = {16},
   pages   = {284--287},
-  year    = {2012}
+  year    = {2012},
+  doi     = {10.1089/omi.2011.0118}
 }
 
 @article{love2014,
@@ -124,7 +80,8 @@
   journal = {Genome Biology},
   volume  = {15},
   pages   = {550},
-  year    = {2014}
+  year    = {2014},
+  doi     = {10.1186/s13059-014-0550-8}
 }
 
 @article{ritchie2015,
@@ -133,7 +90,8 @@
   journal = {Nucleic Acids Research},
   volume  = {43},
   pages   = {e47},
-  year    = {2015}
+  year    = {2015},
+  doi     = {10.1093/nar/gkv007}
 }
 
 @article{sato2023,
@@ -142,16 +100,16 @@
   journal = {Bioinformatics},
   volume  = {39},
   pages   = {btad622},
-  year    = {2023}
+  year    = {2023},
+  doi     = {10.1093/bioinformatics/btad622}
 }
 
-@article{gilbert2022,
-  author  = {Gilbert, K. J. and others},
-  title   = {{babelgene}: an {R} package for ortholog mapping},
-  journal = {Journal of Open Source Software},
-  volume  = {7},
-  pages   = {1--3},
-  year    = {2022}
+@misc{dolgalev2021,
+  author       = {Dolgalev, I.},
+  title        = {{babelgene}: Gene Orthologs for Model Organisms in a Tidy Data Format},
+  howpublished = {R package, CRAN},
+  year         = {2021},
+  doi          = {10.32614/CRAN.package.babelgene}
 }
 
 @book{fisher1925,
@@ -163,18 +121,18 @@
 
 @article{benjamini1995,
   author  = {Benjamini, Y. and Hochberg, Y.},
-  title   = {Controlling the false discovery rate},
+  title   = {Controlling the false discovery rate: a practical and powerful approach to multiple testing},
   journal = {Journal of the Royal Statistical Society: Series B},
   volume  = {57},
   pages   = {289--300},
-  year    = {1995}
+  year    = {1995},
+  doi     = {10.1111/j.2517-6161.1995.tb02031.x}
 }
 
-@article{garnier2023,
-  author  = {Garnier, S. and others},
-  title   = {{viridis}: colorblind-friendly palettes for {R}},
-  journal = {Journal of Open Source Software},
-  volume  = {8},
-  pages   = {1--9},
-  year    = {2023}
+@misc{garnier2015,
+  author       = {Garnier, S.},
+  title        = {{viridis}: Colorblind-Friendly Color Maps for {R}},
+  howpublished = {R package, CRAN},
+  year         = {2015},
+  doi          = {10.32614/CRAN.package.viridis}
 }
