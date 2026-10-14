@@ -1,0 +1,353 @@
+human_ortholog,n_species,species_list,directions,conservation
+ENSG00000004799,3,Arabidopsis thaliana|Homo sapiens|Mus musculus,up|down|down,mixed
+ENSG00000006047,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,up|down|up,mixed
+ENSG00000011105,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000011201,3,Caenorhabditis elegans|Drosophila melanogaster|Homo sapiens,down|down|down,all_down
+ENSG00000012048,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000018280,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000036530,3,Arabidopsis thaliana|Homo sapiens|Mus musculus,up|up|down|down,mixed
+ENSG00000047936,2,Caenorhabditis elegans|Mus musculus,down|down,all_down
+ENSG00000051180,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000051620,2,Arabidopsis thaliana|Mus musculus,up|up|up,all_up
+ENSG00000052802,2,Arabidopsis thaliana|Mus musculus,up|up,all_up
+ENSG00000053747,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000055163,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000057657,2,Caenorhabditis elegans|Homo sapiens,down|down,all_down
+ENSG00000065057,2,Arabidopsis thaliana|Caenorhabditis elegans,up|up,all_up
+ENSG00000065675,2,Caenorhabditis elegans|Mus musculus,down|down,all_down
+ENSG00000066279,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|down|up,mixed
+ENSG00000070087,2,Arabidopsis thaliana|Mus musculus,down|down,all_down
+ENSG00000070669,2,Drosophila melanogaster|Homo sapiens,up|down|up,mixed
+ENSG00000071539,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000072274,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000073350,2,Caenorhabditis elegans|Homo sapiens,down|up,mixed
+ENSG00000074370,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000074410,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000074582,2,Arabidopsis thaliana|Caenorhabditis elegans,up|down|up,mixed
+ENSG00000075415,2,Caenorhabditis elegans|Drosophila melanogaster,up|down,mixed
+ENSG00000076003,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000078053,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000079931,2,Drosophila melanogaster|Homo sapiens,up|down,mixed
+ENSG00000080854,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000080986,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000081181,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000082482,2,Caenorhabditis elegans|Homo sapiens,up|up|down,mixed
+ENSG00000084110,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000085465,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|down|up,mixed
+ENSG00000089057,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000090447,2,Caenorhabditis elegans|Homo sapiens,down|up,mixed
+ENSG00000090530,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000090621,2,Arabidopsis thaliana|Mus musculus,up|down,mixed
+ENSG00000092853,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000092929,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000095209,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000095587,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000095596,2,Arabidopsis thaliana|Mus musculus,down|up,mixed
+ENSG00000099860,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000100253,2,Drosophila melanogaster|Mus musculus,up|up,all_up
+ENSG00000100297,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000100341,2,Caenorhabditis elegans|Mus musculus,down|up|up,mixed
+ENSG00000100344,2,Homo sapiens|Mus musculus,up|up|down,mixed
+ENSG00000100348,2,Arabidopsis thaliana|Drosophila melanogaster,down|up|up|down,mixed
+ENSG00000100362,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000100490,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000100526,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000100889,2,Caenorhabditis elegans|Homo sapiens,down|up,mixed
+ENSG00000101074,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|down|up|up|down|up,mixed
+ENSG00000101198,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000101224,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,down|down|down|down|up,mixed
+ENSG00000101255,2,Homo sapiens|Mus musculus,down|up|up,mixed
+ENSG00000101311,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000101361,2,Caenorhabditis elegans|Drosophila melanogaster,up|up|up,all_up
+ENSG00000101365,2,Arabidopsis thaliana|Drosophila melanogaster,down|down,all_down
+ENSG00000101444,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000102317,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000103034,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000103187,2,Drosophila melanogaster|Homo sapiens,down|up,mixed
+ENSG00000105193,2,Arabidopsis thaliana|Saccharomyces cerevisiae,down|down,all_down
+ENSG00000105202,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000105486,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000105675,2,Caenorhabditis elegans|Drosophila melanogaster,up|down,mixed
+ENSG00000105968,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000107223,2,Arabidopsis thaliana|Caenorhabditis elegans,up|up,all_up
+ENSG00000108384,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000110446,2,Arabidopsis thaliana|Caenorhabditis elegans,up|down|down|up|up|up|down|down|down|up|up,mixed
+ENSG00000110921,2,Homo sapiens|Mus musculus,up|up|up,all_up
+ENSG00000111245,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000111249,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000111291,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000111669,2,Arabidopsis thaliana|Drosophila melanogaster,down|up,mixed
+ENSG00000112319,2,Caenorhabditis elegans|Mus musculus,up|down|up,mixed
+ENSG00000113387,2,Arabidopsis thaliana|Caenorhabditis elegans,up|up,all_up
+ENSG00000113594,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000113790,2,Caenorhabditis elegans|Homo sapiens,down|down,all_down
+ENSG00000113924,2,Homo sapiens|Mus musculus,up|up|down,mixed
+ENSG00000114480,2,Arabidopsis thaliana|Drosophila melanogaster,down|up,mixed
+ENSG00000114573,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000114923,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,down|up|up|down,mixed
+ENSG00000115009,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000115163,2,Caenorhabditis elegans|Mus musculus,up|down|up,mixed
+ENSG00000115687,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000116157,2,Arabidopsis thaliana|Caenorhabditis elegans,down|up,mixed
+ENSG00000116574,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000116678,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000116984,2,Caenorhabditis elegans|Drosophila melanogaster,down|up,mixed
+ENSG00000117308,3,Arabidopsis thaliana|Homo sapiens|Mus musculus,up|up|down|up|up|up,mixed
+ENSG00000117480,4,Arabidopsis thaliana|Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,up|up|up|up,all_up
+ENSG00000118193,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000119508,2,Drosophila melanogaster|Homo sapiens,up|down,mixed
+ENSG00000119986,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000120149,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,up|down|down,mixed
+ENSG00000120738,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000121073,2,Arabidopsis thaliana|Drosophila melanogaster,up|down,mixed
+ENSG00000122483,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000122694,2,Arabidopsis thaliana|Mus musculus,down|up,mixed
+ENSG00000122877,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000123473,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000123975,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,up|down|down,mixed
+ENSG00000124429,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000124839,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000125740,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000125968,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000126106,2,Caenorhabditis elegans|Mus musculus,down|down|down,all_down
+ENSG00000126368,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000127564,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000127586,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000128228,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000128285,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000128951,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000128965,2,Arabidopsis thaliana|Homo sapiens,up|up,all_up
+ENSG00000129151,2,Drosophila melanogaster|Homo sapiens,up|down,mixed
+ENSG00000129521,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000129596,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000130222,2,Drosophila melanogaster|Mus musculus,up|up,all_up
+ENSG00000130402,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000130513,2,Homo sapiens|Mus musculus,down|up|up,mixed
+ENSG00000130595,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000131153,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000131979,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000132017,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000132382,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000132646,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|down|up,mixed
+ENSG00000132669,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000132698,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000133020,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|down|down|down|down|down|down|up,mixed
+ENSG00000133115,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|down,mixed
+ENSG00000134531,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000134627,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000135476,2,Caenorhabditis elegans|Mus musculus,down|down,all_down
+ENSG00000135821,2,Arabidopsis thaliana|Caenorhabditis elegans,down|down|up|up,mixed
+ENSG00000136010,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000136122,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000136205,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000136826,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000136982,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000137094,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000137807,2,Caenorhabditis elegans|Mus musculus,down|down|down|up,mixed
+ENSG00000138035,2,Arabidopsis thaliana|Caenorhabditis elegans,up|up,all_up
+ENSG00000138131,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000138161,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000138376,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000138448,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000138449,2,Caenorhabditis elegans|Homo sapiens,down|down,all_down
+ENSG00000138587,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000138769,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000139631,2,Arabidopsis thaliana|Mus musculus,up|up,all_up
+ENSG00000139780,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000140022,2,Drosophila melanogaster|Homo sapiens,down|up,mixed
+ENSG00000140263,3,Arabidopsis thaliana|Caenorhabditis elegans|Drosophila melanogaster,down|down|up|down|down,mixed
+ENSG00000140450,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000140795,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000140905,2,Arabidopsis thaliana|Caenorhabditis elegans,down|up|up,mixed
+ENSG00000141314,2,Arabidopsis thaliana|Mus musculus,up|down,mixed
+ENSG00000141744,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000142449,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000142798,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000143179,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000143228,2,Caenorhabditis elegans|Mus musculus,down|down|up,mixed
+ENSG00000143401,2,Caenorhabditis elegans|Mus musculus,down|up|up,mixed
+ENSG00000143416,3,Arabidopsis thaliana|Caenorhabditis elegans|Homo sapiens,up|down|up,mixed
+ENSG00000143819,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000144554,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000145113,2,Caenorhabditis elegans|Mus musculus,down|down,all_down
+ENSG00000145283,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000145358,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000146070,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000146477,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000146918,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000147010,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000147082,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000147174,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000148677,2,Arabidopsis thaliana|Mus musculus,down|up|up,mixed
+ENSG00000148908,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000149289,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000149452,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000149503,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000149554,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000149591,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000150275,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|down|down,all_down
+ENSG00000150893,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000150938,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,up|down|down,mixed
+ENSG00000151229,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000151702,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|up,mixed
+ENSG00000152137,2,Caenorhabditis elegans|Drosophila melanogaster,up|up|down|down|down|down,mixed
+ENSG00000154188,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000154258,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000155066,2,Caenorhabditis elegans|Mus musculus,up|up|down,mixed
+ENSG00000155090,2,Homo sapiens|Mus musculus,up|up|down,mixed
+ENSG00000155511,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000155657,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000155760,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000156467,3,Arabidopsis thaliana|Caenorhabditis elegans|Drosophila melanogaster,down|up|up,mixed
+ENSG00000156689,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000156970,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000157456,3,Arabidopsis thaliana|Caenorhabditis elegans|Mus musculus,up|down|up|up,mixed
+ENSG00000157766,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000158104,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000158402,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000158525,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000158552,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000159398,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|up|up,mixed
+ENSG00000160113,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000160179,2,Drosophila melanogaster|Homo sapiens,up|up,all_up
+ENSG00000160190,2,Arabidopsis thaliana|Mus musculus,up|down|down,mixed
+ENSG00000160201,2,Arabidopsis thaliana|Homo sapiens,up|up|up,all_up
+ENSG00000160957,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000161267,2,Homo sapiens|Mus musculus,down|up|up,mixed
+ENSG00000161526,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000162174,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000162444,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|up,mixed
+ENSG00000162616,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000162630,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000162643,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000162692,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000162772,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000162836,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000162998,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000163157,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000163536,2,Drosophila melanogaster|Homo sapiens,up|up,all_up
+ENSG00000163661,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000163833,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000163918,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000164120,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000164199,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000164294,2,Caenorhabditis elegans|Mus musculus,down|up|up,mixed
+ENSG00000164649,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000164691,2,Caenorhabditis elegans|Mus musculus,down|down|up,mixed
+ENSG00000165029,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000165060,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000165312,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,down|up|up|down,mixed
+ENSG00000165449,3,Drosophila melanogaster|Homo sapiens|Mus musculus,up|down|down|down,mixed
+ENSG00000165588,2,Caenorhabditis elegans|Homo sapiens,down|up|up,mixed
+ENSG00000165644,2,Arabidopsis thaliana|Caenorhabditis elegans,down|down|down|down|up|down,mixed
+ENSG00000166105,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000166508,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000166828,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|down,all_down
+ENSG00000166965,3,Arabidopsis thaliana|Homo sapiens|Mus musculus,up|down|down,mixed
+ENSG00000167065,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|up|down|down|down,mixed
+ENSG00000167107,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000167325,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000167588,2,Arabidopsis thaliana|Mus musculus,up|up,all_up
+ENSG00000167676,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,down|up|up,mixed
+ENSG00000167703,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000167720,2,Caenorhabditis elegans|Drosophila melanogaster,up|down,mixed
+ENSG00000167767,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000167900,2,Arabidopsis thaliana|Mus musculus,up|down,mixed
+ENSG00000168298,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000168348,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|up,mixed
+ENSG00000168496,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000168671,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,up|down|down|down|down|down|down|down|down|down|up|down|down|up|up|up|down|down|up|down|down,mixed
+ENSG00000168906,2,Caenorhabditis elegans|Drosophila melanogaster,up|up|up|up|up,all_up
+ENSG00000169710,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|down|up,mixed
+ENSG00000169738,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|up,mixed
+ENSG00000169903,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000170271,2,Caenorhabditis elegans|Homo sapiens,down|down,all_down
+ENSG00000170312,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,up|down|down|up,mixed
+ENSG00000170345,2,Homo sapiens|Mus musculus,down|up|down,mixed
+ENSG00000171174,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000171223,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000171566,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000171759,2,Caenorhabditis elegans|Mus musculus,up|up,all_up
+ENSG00000171840,2,Drosophila melanogaster|Homo sapiens,down|up,mixed
+ENSG00000172115,3,Arabidopsis thaliana|Caenorhabditis elegans|Drosophila melanogaster,up|down|up,mixed
+ENSG00000172458,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000172824,2,Caenorhabditis elegans|Drosophila melanogaster,down|up|up|down,mixed
+ENSG00000173110,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|down|down|down|down,mixed
+ENSG00000173207,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000173213,3,Caenorhabditis elegans|Drosophila melanogaster|Mus musculus,down|down|down,all_down
+ENSG00000174371,3,Arabidopsis thaliana|Caenorhabditis elegans|Mus musculus,up|down|down|up,mixed
+ENSG00000174429,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000174442,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000174669,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000175305,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000175793,2,Arabidopsis thaliana|Mus musculus,up|up,all_up
+ENSG00000175985,2,Caenorhabditis elegans|Homo sapiens,down|up,mixed
+ENSG00000176595,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000176771,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000176890,2,Drosophila melanogaster|Mus musculus,down|down,all_down
+ENSG00000177000,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000177076,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000177602,3,Caenorhabditis elegans|Homo sapiens|Mus musculus,up|down|down,mixed
+ENSG00000178342,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000178445,2,Arabidopsis thaliana|Drosophila melanogaster,up|down,mixed
+ENSG00000178460,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000178700,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000178726,2,Caenorhabditis elegans|Drosophila melanogaster,down|down,all_down
+ENSG00000178922,2,Drosophila melanogaster|Mus musculus,down|up,mixed
+ENSG00000178999,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000181019,2,Homo sapiens|Mus musculus,down|up|up,mixed
+ENSG00000182107,2,Arabidopsis thaliana|Mus musculus,down|down,all_down
+ENSG00000182481,2,Caenorhabditis elegans|Mus musculus,up|down|up,mixed
+ENSG00000182557,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000182667,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000182676,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000182853,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000182890,2,Caenorhabditis elegans|Drosophila melanogaster,down|up,mixed
+ENSG00000183114,2,Caenorhabditis elegans|Homo sapiens,down|down,all_down
+ENSG00000184307,2,Caenorhabditis elegans|Mus musculus,up|down,mixed
+ENSG00000184357,2,Caenorhabditis elegans|Mus musculus,down|down|up,mixed
+ENSG00000184967,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000185022,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000185163,2,Caenorhabditis elegans|Drosophila melanogaster,up|up,all_up
+ENSG00000185250,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000185499,2,Caenorhabditis elegans|Homo sapiens,up|up|down,mixed
+ENSG00000185559,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000185950,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000186081,2,Homo sapiens|Mus musculus,up|up|down,mixed
+ENSG00000186326,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000186377,2,Caenorhabditis elegans|Drosophila melanogaster,down|down|up|up|up|down,mixed
+ENSG00000186907,2,Homo sapiens|Mus musculus,up|up,all_up
+ENSG00000187010,2,Caenorhabditis elegans|Drosophila melanogaster,down|up,mixed
+ENSG00000187231,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000187550,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000188064,3,Caenorhabditis elegans|Drosophila melanogaster|Homo sapiens,down|up|up,mixed
+ENSG00000188487,2,Drosophila melanogaster|Homo sapiens,up|down,mixed
+ENSG00000188501,3,Arabidopsis thaliana|Drosophila melanogaster|Mus musculus,down|up|up,mixed
+ENSG00000188763,2,Caenorhabditis elegans|Mus musculus,down|down|down,all_down
+ENSG00000197299,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000197565,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000197993,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|up|up|up|down,mixed
+ENSG00000198056,2,Caenorhabditis elegans|Mus musculus,up|down|up,mixed
+ENSG00000198682,2,Arabidopsis thaliana|Homo sapiens,up|down|down,mixed
+ENSG00000198838,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000203685,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000204021,2,Caenorhabditis elegans|Drosophila melanogaster,up|up|down|up|up,mixed
+ENSG00000205213,2,Homo sapiens|Mus musculus,down|up,mixed
+ENSG00000205609,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000215853,2,Homo sapiens|Mus musculus,up|up|down,mixed
+ENSG00000221869,4,Caenorhabditis elegans|Drosophila melanogaster|Homo sapiens|Mus musculus,up|up|down|down,mixed
+ENSG00000230873,2,Drosophila melanogaster|Homo sapiens,down|up,mixed
+ENSG00000231274,2,Drosophila melanogaster|Mus musculus,up|up|down,mixed
+ENSG00000241635,2,Drosophila melanogaster|Mus musculus,up|down,mixed
+ENSG00000241697,2,Homo sapiens|Mus musculus,down|down,all_down
+ENSG00000243156,2,Drosophila melanogaster|Homo sapiens,down|up,mixed
+ENSG00000243927,2,Caenorhabditis elegans|Homo sapiens,up|up,all_up
+ENSG00000244405,2,Drosophila melanogaster|Homo sapiens,down|down,all_down
+ENSG00000248746,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000256713,2,Caenorhabditis elegans|Homo sapiens,down|up,mixed
+ENSG00000257315,2,Caenorhabditis elegans|Mus musculus,down|up,mixed
+ENSG00000261115,2,Homo sapiens|Mus musculus,up|down,mixed
+ENSG00000265972,2,Caenorhabditis elegans|Homo sapiens,up|down|down,mixed
+ENSG00000268480,2,Caenorhabditis elegans|Drosophila melanogaster,down|up,mixed
+ENSG00000277893,2,Caenorhabditis elegans|Homo sapiens,up|down,mixed
+ENSG00000278224,2,Caenorhabditis elegans|Drosophila melanogaster,up|down|down,mixed

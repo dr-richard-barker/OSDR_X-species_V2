@@ -1,0 +1,23 @@
+osd,species,contrast,direction,contrast_text,mismatch,reason
+OSD-120,Arabidopsis thaliana,Log2fc_(Col-0 & Ground Control & Dark Treatment)v(Col-0 & Space Flight & Dark Treatment),GC_vs_SF,Col-0 & Ground Control & Dark Treatment)v(Col-0 & Space Flight & Dark Treatment,0.0,clean
+OSD-217,Arabidopsis thaliana,Log2fc_(leaf & Ground Control)v(leaf & Space Flight),GC_vs_SF,leaf & Ground Control)v(leaf & Space Flight,0.0,clean
+OSD-37,Arabidopsis thaliana,Log2fc_(Ground Control & Col-0)v(Space Flight & Col-0),GC_vs_SF,Ground Control & Col-0)v(Space Flight & Col-0,0.0,clean
+OSD-112,Caenorhabditis elegans,Log2fc_(1G by centrifugation & Space Flight)v(1G on Earth & Ground Control),SF_vs_GC,1G by centrifugation & Space Flight)v(1G on Earth & Ground Control,2.0,mismatched(2)
+OSD-113,Caenorhabditis elegans,Log2fc_(Ground control)v(Space Flight),GC_vs_SF,Ground control)v(Space Flight,0.0,clean
+OSD-35,Caenorhabditis elegans,,,,,no DE table
+OSD-42,Caenorhabditis elegans,Log2fc_(Ground Control)v(Space Flight),GC_vs_SF,Ground Control)v(Space Flight,0.0,clean
+OSD-207,Drosophila melanogaster,Log2fc_(Canton-S & Sei ts1 & Ground Control)v(Canton-S & Sei ts1 & Space Flight),GC_vs_SF,Canton-S & Sei ts1 & Ground Control)v(Canton-S & Sei ts1 & Space Flight,0.0,clean
+OSD-347,Drosophila melanogaster,Log2fc_(Wild Type & Ground Control)v(Wild Type & Space Flight),GC_vs_SF,Wild Type & Ground Control)v(Wild Type & Space Flight,0.0,clean
+OSD-96,Drosophila melanogaster,,,,,no DE table
+OSD-258,Homo sapiens,Log2fc_(Ground Control & 5.5 weeks plus 10 days)v(Space Flight & 4.5 weeks microgravity exposure),GC_vs_SF,Ground Control & 5.5 weeks plus 10 days)v(Space Flight & 4.5 weeks microgravity exposure,2.0,mismatched(2)
+OSD-323,Homo sapiens,Log2fc_(Ground Control & Infected with Salmonella Typhimurium)v(Space Flight & Infected with Salmonella Typhimurium),GC_vs_SF,Ground Control & Infected with Salmonella Typhimurium)v(Space Flight & Infected with Salmonella Typhimurium,0.0,clean
+OSD-684,Homo sapiens,Log2fc_(21-40 year & Ground Control)v(21-40 year & Space Flight),GC_vs_SF,21-40 year & Ground Control)v(21-40 year & Space Flight,0.0,clean
+OSD-863,Homo sapiens,Log2fc_(no known diseases & Ground Control & with microglia)v(no known diseases & Space Flight & with microglia),GC_vs_SF,no known diseases & Ground Control & with microglia)v(no known diseases & Space Flight & with microglia,0.0,clean
+OSD-104,Mus musculus,Log2fc_(Ground Control)v(Space Flight),GC_vs_SF,Ground Control)v(Space Flight,0.0,clean
+OSD-105,Mus musculus,Log2fc_(Ground Control)v(Space Flight),GC_vs_SF,Ground Control)v(Space Flight,0.0,clean
+OSD-242,Mus musculus,,,,,no SF vs GC contrast found
+OSD-379,Mus musculus,Log2fc_(Ground Control & ~40 day & On Earth & Upon euthanasia & 10 to 12 week)v(Space Flight & ~40 day & On Earth & Upon euthanasia & 10 to 12 week),GC_vs_SF,Ground Control & ~40 day & On Earth & Upon euthanasia & 10 to 12 week)v(Space Flight & ~40 day & On Earth & Upon euthanasia & 10 to 12 week,0.0,clean
+OSD-421,Mus musculus,Log2fc_(Ground Control)v(Space Flight),GC_vs_SF,Ground Control)v(Space Flight,0.0,clean
+OSD-47,Mus musculus,Log2fc_(Ground Control)v(Space Flight),GC_vs_SF,Ground Control)v(Space Flight,0.0,clean
+OSD-48,Mus musculus,Log2fc_(Ground Control & Carcass)v(Space Flight & Carcass),GC_vs_SF,Ground Control & Carcass)v(Space Flight & Carcass,0.0,clean
+OSD-62,Saccharomyces cerevisiae,Log2fc_(Ground Control & FLO1 overexpression)v(Space Flight & FLO1 overexpression),GC_vs_SF,Ground Control & FLO1 overexpression)v(Space Flight & FLO1 overexpression,0.0,clean

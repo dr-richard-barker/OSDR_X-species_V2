@@ -1,0 +1,1054 @@
+id.accession,id.assay name,id.sample name,study.characteristics.age,study.characteristics.organism,study.characteristics.sex,study.characteristics.strain,study.characteristics.tissue,study.factor value.spaceflight,selected_species,selected_assay
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_BSL_Rep1_B1,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_BSL_Rep2_B2,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_BSL_Rep3_B3,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_FLT_Rep1_F1,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_FLT_Rep2_F2,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_FLT_Rep3_F4,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_GC_Rep1_G2,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_GC_Rep2_G3,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6T_LVR_GC_Rep3_G5,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_BSL_Rep1_B1,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_BSL_Rep2_B2,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_BSL_Rep3_B3,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_BSL_Rep4_B4,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_BSL_Rep5_B5,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_FLT_Rep1_F1,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_FLT_Rep2_F2,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_FLT_Rep3_F4,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_FLT_Rep4_F3,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_FLT_Rep5_F5,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_GC_Rep1_G2,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_GC_Rep2_G3,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_GC_Rep3_G5,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_GC_Rep4_G1,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_molecular-cellular-imaging_microscopy_ pannoramic scan (3d histech),Mmus_C57-6T_LVR_GC_Rep5_G4,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_BSL_Rep1_B1,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_BSL_Rep2_B2,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_BSL_Rep3_B3,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_FLT_Rep1_F1,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_FLT_Rep2_F2,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_FLT_Rep3_F4,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_GC_Rep1_G2,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_GC_Rep2_G3,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Mmus_C57-6T_LVR_GC_Rep3_G5,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_protein-expression-profiling_mass-spectrometry_ltq orbitrap velos(thermo scientific),Pool of CASIS BC_GC_FLT,,Mus musculus,Female,C57BL/6NTac,,Not Applicable,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_BSL_Rep1_B1,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_BSL_Rep2_B2,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_BSL_Rep3_B3,,Mus musculus,Female,C57BL/6NTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_FLT_Rep1_F1,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_FLT_Rep2_F2,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_FLT_Rep3_F4,,Mus musculus,Female,C57BL/6NTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_GC_Rep1_G2,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_GC_Rep2_G3,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-47,OSD-47_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6T_LVR_GC_Rep3_G5,,Mus musculus,Female,C57BL/6NTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep1_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep2_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep3_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep4_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep5_M30,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_I_Rep1_M21,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_I_Rep2_M22,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep1_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep2_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep3_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep4_M39,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep5_M40,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_I_Rep1_M31,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_I_Rep2_M32,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_BSL_C_Rep1_M4,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_BSL_C_Rep2_M5,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_BSL_C_Rep3_M7,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_BSL_C_Rep4_M8,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_BSL_C_Rep5_M10,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_C_Rep1_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_C_Rep2_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_C_Rep3_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_C_Rep4_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_C_Rep5_M30,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_I_Rep1_M21,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_FLT_I_Rep2_M22,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_C_Rep1_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_C_Rep2_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_C_Rep3_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_C_Rep4_M39,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_C_Rep5_M40,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_I_Rep1_M31,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_GC_I_Rep2_M32,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_VIV_C_Rep1_M16,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_VIV_C_Rep2_M17,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_VIV_C_Rep3_M18,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_VIV_C_Rep4_M19,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_molecular-cellular-imaging_microscopy_pannoramic scan (3d histech),Mmus_C57-6J_LVR_VIV_C_Rep5_M20,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_BSL_C_Rep1_M4,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_BSL_C_Rep2_M5,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_BSL_C_Rep3_M7,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_BSL_C_Rep4_M8,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_BSL_C_Rep5_M10,,Mus musculus,Female,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_C_Rep1_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_C_Rep2_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_C_Rep3_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_C_Rep4_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_C_Rep5_M30,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_I_Rep1_M21,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_FLT_I_Rep2_M22,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_C_Rep1_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_C_Rep2_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_C_Rep3_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_C_Rep4_M39,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_C_Rep5_M40,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_I_Rep1_M31,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_GC_I_Rep2_M32,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_VIV_C_Rep1_M16,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_VIV_C_Rep2_M17,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_VIV_C_Rep3_M18,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_VIV_C_Rep4_M19,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),Mmus_C57-6J_LVR_VIV_C_Rep5_M20,,Mus musculus,Female,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_BA_CASIS_LVR_POOL,,Mus musculus,Female,C57BL/6J,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_BSL_VIV_NASA_LVR_POOL,,Mus musculus,Female,C57BL/6J,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_FLT_NASA+CASIS_LVR_POOL,,Mus musculus,Female,C57BL/6J and C57BL/6Tac,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_FLT_NASA_LVR_POOL,,Mus musculus,Female,C57BL/6J,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_GC_NASA+CASIS_LVR_POOL,,Mus musculus,Female,C57BL/6J and C57BL/6Tac,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_protein-expression-profiling_mass-spectrometry_Orbitrap Fusion(Thermo Scientific),RR1_GC_NASA_LVR_POOL,,Mus musculus,Female,C57BL/6J,,Not Applicable,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep1_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep2_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep3_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep4_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep5_M30,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep6_M29,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep1_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep2_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep3_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep4_M39,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep5_M40,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_Illumina,Mmus_C57-6J_LVR_GC_C_Rep6_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep1_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep2_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep3_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep4_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_C_Rep5_M30,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_I_Rep1_M21,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_FLT_I_Rep2_M22,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_C_Rep1_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_C_Rep2_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_C_Rep3_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_C_Rep4_M39,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_C_Rep5_M40,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_I_Rep1_M31,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-48,OSD-48_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_LVR_GC_I_Rep2_M32,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_dna-methylation-profiling_whole-genome-bisulfite-sequencing_Illumina,Mmus_C57-6J_SLS_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-104,OSD-104_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Mmus_C57-6J_SLS_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_dna-methylation-profiling_whole-genome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Empty Pool,,Not Applicable,Not Applicable,Not Applicable,,Not Applicable,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Mmus_C57-6J_TA_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Pool of all FLT and GC samples,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Pool of all FLT samples,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_protein-expression-profiling_mass-spectrometry_ltq-orbitrap-fusion,Pool of all GC samples,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_rna-methylation-profiling_whole-transcriptome-bisulfite-sequencing_illumina,Mmus_C57-6J_TA_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep1_M23,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep2_M24,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep3_M25,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep4_M26,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep5_M27,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_FLT_Rep6_M28,,Mus musculus,Female,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep1_M33,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep2_M34,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep3_M35,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep4_M36,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep5_M37,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-105,OSD-105_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Mmus_C57-6J_TA_GC_Rep6_M38,,Mus musculus,Female,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_BSL_C1_Rep1_B1,,Mus musculus,Male,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_BSL_C1_Rep2_B2,,Mus musculus,Male,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_BSL_C1_Rep3_B3,,Mus musculus,Male,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_BSL_C1_Rep4_B4,,Mus musculus,Male,C57BL/6J,,Basal Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C1_Rep1_C1-1,,Mus musculus,Male,C57BL/6J,,Cohort Control #1,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C1_Rep2_C1-2,,Mus musculus,Male,C57BL/6J,,Cohort Control #1,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C1_Rep3_C1-3,,Mus musculus,Male,C57BL/6J,,Cohort Control #1,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C1_Rep4_C1-4,,Mus musculus,Male,C57BL/6J,,Cohort Control #1,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C1_Rep5_C1-5,,Mus musculus,Male,C57BL/6J,,Cohort Control #1,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C2_Rep1_C2-1,,Mus musculus,Male,C57BL/6J,,Cohort Control #2,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C2_Rep2_C2-2,,Mus musculus,Male,C57BL/6J,,Cohort Control #2,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C2_Rep3_C2-3,,Mus musculus,Male,C57BL/6J,,Cohort Control #2,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_CC_C2_Rep4_C2-4,,Mus musculus,Male,C57BL/6J,,Cohort Control #2,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_FLT_C1_Rep1_F1,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_FLT_C1_Rep2_F2,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_FLT_C1_Rep3_F3,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_FLT_C1_Rep4_F4,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_FLT_C1_Rep5_F5,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_GC_C2_Rep1_G1,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_GC_C2_Rep2_G3,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_GC_C2_Rep3_G4,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_GC_C2_Rep4_G5,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-242,OSD-242_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq 6000,Mmus_C57-6J_LVR_VIV_C2_Rep1_V3,,Mus musculus,Male,C57BL/6J,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI1,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI2,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI3,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI4,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI5,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI6,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI7,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI8,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_OLD_BI9,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI11,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI12,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI13,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI14,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI15,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI16,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI17,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI18,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI19,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_ISS-T_YNG_BI20,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL11,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL12,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL13,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL14,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL15,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL16,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL17,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL18,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL19,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_OLD_BL20,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL1,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL10,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL2,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL4,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL5,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL6,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL7,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL8,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_BSL_LAR_YNG_BL9,,Mus musculus,Female,BALB/cAnNTac,,Basal Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI11,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI12,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI13,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI14,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI15,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI16,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI17,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI18,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI19,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_OLD_FI20,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI1,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI10,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI2,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI3,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI4,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI5,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI6,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI7,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI8,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_ISS-T_YNG_FI9,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL11,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL15,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL16,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL3,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL4,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL7,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_OLD_FL8,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL1,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL13,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL14,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL17,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL18,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL2,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL5,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_FLT_LAR_YNG_FL6,,Mus musculus,Female,BALB/cAnNTac,,Space Flight,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI11,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI12,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI13,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI14,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI15,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI16,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI17,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI18,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI19,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_OLD_GI20,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI1,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI10,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI2,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI3,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI4,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI5,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI6,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI7,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI8,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_ISS-T_YNG_GI9,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL11,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL12,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL15,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL3,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL4,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL7,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_OLD_GL8,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL1,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL13,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL14,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL17,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL18,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL2,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL5,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_GC_LAR_YNG_GL6,,Mus musculus,Female,BALB/cAnNTac,,Ground Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI11,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI12,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI13,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI14,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI16,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI17,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI18,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_OLD_VI19,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI1,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI10,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI2,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI3,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI4,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI5,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI6,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI7,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_ISS-T_YNG_VI8,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL11,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL12,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL15,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL16,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL20,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL4,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL7,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_OLD_VL8,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL1,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL10,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL14,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL17,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL18,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL2,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL5,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-379,OSD-379_transcription-profiling_rna-sequencing-(rna-seq)_Illumina NovaSeq,RR8_LVR_VIV_LAR_YNG_VL9,,Mus musculus,Female,BALB/cAnNTac,,Vivarium Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F1,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F10,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F2,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F3,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F4,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F5,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F6,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F7,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F8,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_FLT_F9,,Mus musculus,Male,C57BL/6J,,Space Flight,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G1,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G10,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G2,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G3,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G4,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G5,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G6,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G7,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G8,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-421,OSD-421_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,RR9_TMS_GC_G9,,Mus musculus,Male,C57BL/6J,,Ground Control,Mus musculus,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066596,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066597,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066598,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066599,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066600,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066601,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066602,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066603,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066604,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066605,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066606,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066607,,Homo sapiens,,,,Space Flight,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066608,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066609,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066610,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066611,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066612,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-258,OSD-258_transcription-profiling_rna-sequencing-(rna-seq)_Illumina HiSeq 2000,GSM4066613,,Homo sapiens,,,,Ground Control,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Flight Infected 1-1,,Homo sapiens,,χ3339,,Space Flight,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Flight Infected 1-2,,Homo sapiens,,χ3339,,Space Flight,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Flight Uninfected-1,,Homo sapiens,,Not Applicable,,Space Flight,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Flight Uninfected-2,,Homo sapiens,,Not Applicable,,Space Flight,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Ground Infected-1,,Homo sapiens,,χ3339,,Ground Control,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Ground Infected-2,,Homo sapiens,,χ3339,,Ground Control,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Ground Uninfected-1,,Homo sapiens,,Not Applicable,,Ground Control,Homo sapiens,RNA-Seq
+OSD-323,OSD-323_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Ground Uninfected-2,,Homo sapiens,,Not Applicable,,Ground Control,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808428,greater or equal to 50 {year},Homo sapiens,,,,Pre-flight,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808429,greater or equal to 50 {year},Homo sapiens,,,,Post-flight,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808430,less than 40 {year},Homo sapiens,,,,Pre-flight,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808431,less than 40 {year},Homo sapiens,,,,Post-flight,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808432,less than 40 {year},Homo sapiens,,,,Pre-flight,Homo sapiens,RNA-Seq
+OSD-481,GLDS-481_transcription-profiling_rna-sequencing-(rna-seq)_illumina,GSM5808433,less than 40 {year},Homo sapiens,,,,Post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_11,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_050_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_14,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_051_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_11,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_14,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina,TGB_052_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_11,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_050_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_14,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_051_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_01,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_02,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_03,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_04,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_05,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_06,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_07,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_08,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_09,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_10,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_11,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_13,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_14,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_15,,Homo sapiens,,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_16,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_17,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_18,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_19,,Homo sapiens,,,,in-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_20,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_21,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_22,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-530,OSD-530_transcription-profiling_rna-sequencing-(rna-seq)_illumina-1,TGB_052_23,,Homo sapiens,,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_L-3_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_L-44_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_L-92_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_R+1_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_R+45_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C001_plasma_R+82_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_L-3_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_L-44_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_L-92_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_R+1_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_R+45_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C002_plasma_R+82_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_L-3_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_L-44_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_L-92_cfDNA_BCT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_R+1_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_R+45_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C003_plasma_R+82_cfDNA_BCT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_L-3_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_L-44_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_L-92_cfDNA_BCT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_R+1_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_R+45_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_genome-sequencing_nucleotide-sequencing_element aviti system,C004_plasma_R+82_cfDNA_BCT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_L-3_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_L-44_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_L-92_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_R+1_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_R+45_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C001_plasma_R+82_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_L-3_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_L-44_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_L-92_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_R+1_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_R+45_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C002_plasma_R+82_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_L-3_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_L-44_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_L-92_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_R+1_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_R+45_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C003_plasma_R+82_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_L-3_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_L-44_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_L-92_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_R+1_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_R+45_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_metabolite-profiling_mass-spectrometry_agilent 6550 ifunnel quadrupole-time-of-flight (q-tof) mass spectrometer,C004_plasma_R+82_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C001_plasma_L-3_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C001_plasma_L-44_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C001_plasma_L-92_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C001_plasma_R+1_CPT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C001_plasma_R+82_CPT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C002_plasma_L-44_CPT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C002_plasma_L-92_CPT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C002_plasma_R+1_CPT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C002_plasma_R+45_CPT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C002_plasma_R+82_CPT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C003_plasma_L-3_CPT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C003_plasma_L-44_CPT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C003_plasma_L-92_CPT,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C003_plasma_R+1_CPT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C003_plasma_R+82_CPT,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_L-3_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_L-44_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_L-92_CPT,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_R+1_CPT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_R+45_CPT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_bruker timstof pro,C004_plasma_R+82_CPT,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_L-3_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_L-44_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_L-92_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_R+1_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_R+45_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C001_plasma_R+82_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_L-3_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_L-44_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_L-92_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_R+1_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_R+45_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C002_plasma_R+82_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_L-3_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_L-44_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_L-92_K2EDTA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_R+1_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_R+45_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C003_plasma_R+82_K2EDTA,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_L-3_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_L-44_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_L-92_K2EDTA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_R+1_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_R+45_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_protein-expression-profiling_mass-spectrometry_q exactive(thermo scientific),C004_plasma_R+82_K2EDTA,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_L-3_cfRNA,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_L-44_cfRNA_rep1,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_L-44_cfRNA_rep2,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_L-92_cfRNA_rep1,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_L-92_cfRNA_rep2,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+194_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+194_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+1_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+1_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+45_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+45_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+82_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C001_plasma_R+82_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_L-3_cfRNA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_L-44_cfRNA_rep1,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_L-44_cfRNA_rep2,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_L-92_cfRNA_rep1,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_L-92_cfRNA_rep2,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+194_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+194_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+1_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+1_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+45_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+45_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+82_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C002_plasma_R+82_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_L-3_cfRNA,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_L-44_cfRNA_rep1,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_L-44_cfRNA_rep2,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_L-92_cfRNA_rep1,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_L-92_cfRNA_rep2,,Homo sapiens,Female,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+194_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+194_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+1_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+1_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+45_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+45_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+82_cfRNA_rep1,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C003_plasma_R+82_cfRNA_rep2,,Homo sapiens,Female,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_L-44_cfRNA_rep1,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_L-44_cfRNA_rep2,,Homo sapiens,Male,,,pre-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+194_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+194_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+1_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+1_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+45_cfRNA_rep1,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-571,OSD-571_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,C004_plasma_R+45_cfRNA_rep2,,Homo sapiens,Male,,,post-flight,Homo sapiens,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep1_R1-FL-A1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep2_R1-FL-A4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep3_R1-FL-B1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep4_R1-FL-B4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep5_R2-FL-A1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep6_R2-FL-A4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep7_R2-FL-B1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_FLT_Rep8_R2-FL-B4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep1_R1-GC-A1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep2_R1-GC-A4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep3_R1-GC-B1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep4_R1-GC-B4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep5_R2-GC-A1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep6_R2-GC-A4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep7_R2-GC-B1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Col-0_sl-pool_GC_Rep8_R2-GC-B4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep1_R1-FL-C3,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep2_R1-FL-D2,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep3_R1-FL-D5,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep4_R2-FL-C3,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep5_R2-FL-D2,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_FLT_Rep6_R2-FL-D5,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep1_R1-GC-C3,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep2_R1-GC-D2,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep3_R1-GC-D5,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep4_R2-GC-C3,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep5_R2-GC-D2,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Cvi-0_sl-pool_GC_Rep6_R2-GC-D5,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep1_R1-FL-C2,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep2_R1-FL-C5,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep3_R1-FL-D3,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep4_R2-FL-C2,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep5_R2-FL-C5,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_FLT_Rep6_R2-FL-D3,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep1_R1-GC-C2,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep2_R1-GC-C5,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep3_R1-GC-D3,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep4_R2-GC-C2,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep5_R2-GC-C5,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ler-0_sl-pool_GC_Rep6_R2-GC-D3,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep1_R1-FL-C1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep2_R1-FL-C4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep3_R1-FL-D1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep4_R1-FL-D4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep5_R2-FL-C1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep6_R2-FL-C4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep7_R2-FL-D1,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_FLT_Rep8_R2-FL-D4,8 {day},Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep1_R1-GC-C1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep2_R1-GC-C4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep3_R1-GC-D1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep4_R1-GC-D4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep5_R2-GC-C1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep6_R2-GC-C4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep7_R2-GC-D1,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-37,OSD-37_transcription-profiling_rna-sequencing-(rna-seq)_Illumina,Atha_Ws-2_sl-pool_GC_Rep8_R2-GC-D4,8 {day},Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_dark_Rep1_GSM2493792_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_dark_Rep2_GSM2493793_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_FLT_dark_Rep3_GSM2493794_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day00,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_dark_Rep1_GSM2493774_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_dark_Rep2_GSM2493775_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0-PhyD_root_GC_dark_Rep3_GSM2493776_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep1_GSM2493777_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep1_GSM2493777_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep1_GSM2493777_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep1_GSM2493777_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep2_GSM2493778_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep2_GSM2493778_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep2_GSM2493778_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep2_GSM2493778_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_dark_Rep1_GSM2493786_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_dark_Rep2_GSM2493787_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_FLT_dark_Rep3_GSM2493788_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep1_GSM2493759_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep1_GSM2493759_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep1_GSM2493759_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep1_GSM2493759_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_dark_Rep1_GSM2493768_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_dark_Rep2_GSM2493769_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Col-0_root_GC_dark_Rep3_GSM2493770_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep1_GSM2493780_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep1_GSM2493780_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep1_GSM2493780_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep1_GSM2493780_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep2_GSM2493781_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep2_GSM2493781_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep2_GSM2493781_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep2_GSM2493781_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day03,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day06,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day09,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_dark_Rep1_GSM2493789_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_dark_Rep2_GSM2493790_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_FLT_dark_Rep3_GSM2493791_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep1_GSM2493762_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep1_GSM2493762_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep1_GSM2493762_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep1_GSM2493762_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day03,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day06,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day09,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_dark_Rep1_GSM2493771_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_dark_Rep2_GSM2493772_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_image-analysis_photography_cara,Atha_Ws_root_GC_dark_Rep3_GSM2493773_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_Alight_Rep1_GSM2493783_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_Alight_Rep2_GSM2493784_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_Alight_Rep3_GSM2493785_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_dark_Rep1_GSM2493792_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_dark_Rep2_GSM2493793_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_FLT_dark_Rep3_GSM2493794_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_Alight_Rep1_GSM2493765_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_Alight_Rep2_GSM2493766_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_Alight_Rep3_GSM2493767_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_dark_Rep1_GSM2493774_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_dark_Rep2_GSM2493775_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0-PhyD_root_GC_dark_Rep3_GSM2493776_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_Alight_Rep1_GSM2493777_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_Alight_Rep2_GSM2493778_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_Alight_Rep3_GSM2493779_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_dark_Rep1_GSM2493786_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_dark_Rep2_GSM2493787_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_FLT_dark_Rep3_GSM2493788_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_Alight_Rep1_GSM2493759_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_Alight_Rep2_GSM2493760_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_Alight_Rep3_GSM2493761_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_dark_Rep1_GSM2493768_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_dark_Rep2_GSM2493769_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Col-0_root_GC_dark_Rep3_GSM2493770_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Alight_Rep1_GSM2493780_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Alight_Rep2_GSM2493781_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Alight_Rep3_GSM2493782_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_dark_Rep1_GSM2493789_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_dark_Rep2_GSM2493790_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_dark_Rep3_GSM2493791_Day13,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Alight_Rep1_GSM2493762_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Alight_Rep2_GSM2493763_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Alight_Rep3_GSM2493764_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_dark_Rep1_GSM2493771_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_dark_Rep2_GSM2493772_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-120,OSD-120_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_dark_Rep3_GSM2493773_Day13,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517002,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517003,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517004,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517005,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517006,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517007,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517008,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517009,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517010,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517011,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517012,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_DNA-methylation-profiling_Whole-Genome-Bisulfite-Sequencing_Illumina,GSM2517013,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_FLT_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_FLT_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_FLT_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_GC_Rep1,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_GC_Rep2,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_leaf_GC_Rep3,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_FLT_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Rep1,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Rep2,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-217,OSD-217_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ws_root_GC_Rep3,,Arabidopsis thaliana,,,,Ground Control,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.09G_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.09G_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.09G_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.18G_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.18G_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.18G_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.36G_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.36G_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.36G_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.57G_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.57G_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.57G_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_0.57G_Rep4,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_1G_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_1G_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_1G_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_uG_Rep1,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_uG_Rep2,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_uG_Rep3,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-251,OSD-251_transcription-profiling_rna-sequencing-(rna-seq)_illumina,Atha_Ler-0_sl_FLT_uG_Rep4,,Arabidopsis thaliana,,,,Space Flight,Arabidopsis thaliana,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_FLT_3rd-gen_1.5h,,Drosophila melanogaster,,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_FLT_3rd-gen_12h,,Drosophila melanogaster,,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_FLT_3rd-gen_24h,,Drosophila melanogaster,,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_FLT_5th-gen-FLT-der_1.5hr,,Drosophila melanogaster,,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_FLT_5th-gen-GC-der_1.5hr,,Drosophila melanogaster,,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_GC_3rd-gen_1.5h,,Drosophila melanogaster,,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_GC_3rd-gen_12h,,Drosophila melanogaster,,Canton-S,,Ground control,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_GC_3rd-gen_24h,,Drosophila melanogaster,,Canton-S,,Ground control,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_GC_5th-gen-FLT-der_1.5hr,,Drosophila melanogaster,,Canton-S,,Ground control,Drosophila melanogaster,RNA-Seq
+OSD-96,OSD-96_transcription-profiling_rna-sequencing-(rna-seq)_illumina miseq,Dmel_Can-S_wo_GC_5th-gen-GC-der_1.5hr,,Drosophila melanogaster,,Canton-S,,Ground control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Ground Control-13,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Ground Control-14,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Ground Control-15,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Ground Control-16,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Space Flown-29,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Space Flown-30,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Space Flown-31,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,CS-Female Space Flown-32,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Ground Control-01,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Ground Control-02,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Ground Control-03,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Ground Control-04,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Space Flown-17,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Space Flown-18,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Space Flown-19,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ370 Female Space Flown-20,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Ground Control-05,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Ground Control-06,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Ground Control-07,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Ground Control-08,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Space Flown-21,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Space Flown-22,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Space Flown-23,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,KCNQ97 Female Space Flown-24,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Ground Control-09,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Ground Control-10,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Ground Control-11,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Ground Control-12,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Space Flown-25,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Space Flown-26,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Space Flown-27,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_protein-expression-profiling_mass-spectrometry,Sei ts1-Female Space Flown-28,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Ground Control-13,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Ground Control-14,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Ground Control-15,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Ground Control-16,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Space Flown-29,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Space Flown-30,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Space Flown-31,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),CS-Female Space Flown-32,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Ground Control-01,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Ground Control-02,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Ground Control-03,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Ground Control-04,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Space Flown-17,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Space Flown-18,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Space Flown-19,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ370 Female Space Flown-20,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Ground Control-05,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Ground Control-06,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Ground Control-07,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Ground Control-08,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Space Flown-21,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Space Flown-22,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Space Flown-23,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),KCNQ97 Female Space Flown-24,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Ground Control-09,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Ground Control-10,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Ground Control-11,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Ground Control-12,1 to 3 {week},Drosophila melanogaster,Female,,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Space Flown-25,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Space Flown-26,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Space Flown-27,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-207,OSD-207_transcription-profiling_rna-sequencing-(rna-seq),Sei ts1-Female Space Flown-28,1 to 3 {week},Drosophila melanogaster,Female,,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_FLT_1,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_FLT_2,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_FLT_3,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_GC_1,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_GC_2,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),CS_GC_3,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_FLT_1,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_FLT_2,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_FLT_3,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_FLT_4,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Space Flight,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_GC_1,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_GC_2,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-347,OSD-347_transcription-profiling_rna-sequencing-(rna-seq),Seits1_GC_3,1 to 3 {week},Drosophila melanogaster,Female,Canton-S,,Ground Control,Drosophila melanogaster,RNA-Seq
+OSD-35,OSD-35_transcription-profiling_dna-microarray_affymetrix,Cele_N2_wo_FLT,,Caenorhabditis elegans,,Bristol N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-35,OSD-35_transcription-profiling_dna-microarray_affymetrix,Cele_N2_wo_GC,,Caenorhabditis elegans,,Bristol N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-35,OSD-35_transcription-profiling_dna-microarray_affymetrix,Cele_N2_wo_HG,,Caenorhabditis elegans,,Bristol N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-35,OSD-35_transcription-profiling_dna-microarray_affymetrix,Cele_N2_wo_VIV,,Caenorhabditis elegans,,Bristol N2,,Vivarium Control,Caenorhabditis elegans,microarray
+OSD-35,OSD-35_transcription-profiling_dna-microarray_affymetrix,Cele_N2_wo_suG,,Caenorhabditis elegans,,Bristol N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_FLT_Rep1,,Caenorhabditis elegans,,CC1,,Space Flight,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_FLT_Rep2,,Caenorhabditis elegans,,CC1,,Space Flight,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_FLT_Rep3,,Caenorhabditis elegans,,CC1,,Space Flight,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_GC_Rep1,,Caenorhabditis elegans,,CC1,,Ground Control,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_GC_Rep2,,Caenorhabditis elegans,,CC1,,Ground Control,Caenorhabditis elegans,microarray
+OSD-42,OSD-42_transcription-profiling_dna-microarray_affymetrix,Cele_CC1_wo_GC_Rep3,,Caenorhabditis elegans,,CC1,,Ground Control,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845018,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845019,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845020,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845021,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845022,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845023,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845024,,Caenorhabditis elegans,,N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845025,,Caenorhabditis elegans,,N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-112,OSD-112_transcription-profiling_dna-microarray_Agilent,GSM1845026,,Caenorhabditis elegans,,N2,,Ground Control,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845027,,Caenorhabditis elegans,,N2,,Ground control,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845028,,Caenorhabditis elegans,,N2,,Ground control,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845029,,Caenorhabditis elegans,,N2,,Ground control,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845030,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845031,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-113,OSD-113_transcription-profiling_dna-microarray,GSM1845032,,Caenorhabditis elegans,,N2,,Space Flight,Caenorhabditis elegans,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO1_FLT_Rep1,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO1_FLT_Rep2,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO1_GC_Rep1,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO1_GC_Rep2,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO1_GC_Rep3,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_FLT_Rep1,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_FLT_Rep2,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_FLT_Rep3,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_GC_Rep1,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_GC_Rep2,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_FLO8_GC_Rep3,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_FLT_Rep1,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_FLT_Rep2,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_FLT_Rep3,,Saccharomyces cerevisiae,,BY4742,,Space Flight,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_GC_Rep1,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_GC_Rep2,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray
+OSD-62,OSD-62_transcription-profiling_dna-microarray_Affymetrix,Scer_BY4742_WT_GC_Rep3,,Saccharomyces cerevisiae,,BY4742,,Ground Control,Saccharomyces cerevisiae,microarray

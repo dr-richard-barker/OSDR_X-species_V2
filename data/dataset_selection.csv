@@ -1,0 +1,23 @@
+species,osd,assay,tissues,factors,usable,n_samples
+Arabidopsis thaliana,OSD-120,RNA-Seq,[],"['Space Flight', 'Ground Control']",True,90
+Arabidopsis thaliana,OSD-217,RNA-Seq,"['root', 'leaf']","['Ground Control', 'Space Flight']",True,24
+Arabidopsis thaliana,OSD-37,RNA-Seq,['Seedlings'],"['Space Flight', 'Ground Control']",True,56
+Caenorhabditis elegans,OSD-112,microarray,['Whole Organism'],"['Space Flight', 'Ground Control']",True,9
+Caenorhabditis elegans,OSD-113,microarray,['Whole Organism'],"['Ground control', 'Space Flight']",True,6
+Caenorhabditis elegans,OSD-35,microarray,[],"['Space Flight', 'Ground Control', 'Vivarium Control']",True,5
+Caenorhabditis elegans,OSD-42,microarray,[],"['Space Flight', 'Ground Control']",True,6
+Drosophila melanogaster,OSD-207,RNA-Seq,['Head'],"['Ground Control', 'Space Flight']",True,32
+Drosophila melanogaster,OSD-347,RNA-Seq,['Heart'],"['Space Flight', 'Ground Control']",True,13
+Drosophila melanogaster,OSD-96,RNA-Seq,['Whole Organism'],"['Space Flight', 'Ground Control', 'Ground control']",True,10
+Homo sapiens,OSD-258,RNA-Seq,['Cells'],"['Space Flight', 'Ground Control']",True,18
+Homo sapiens,OSD-323,RNA-Seq,['Cells'],"['Space Flight', 'Ground Control']",True,8
+Homo sapiens,OSD-684,RNA-Seq,['Myoblasts'],"['Ground Control', 'Space Flight']",True,12
+Homo sapiens,OSD-863,RNA-Seq,"['Cells, Cultured']","['Ground Control', 'Space Flight']",True,19
+Mus musculus,OSD-104,RNA-Seq,['Soleus-both sides'],"['Space Flight', 'Ground Control']",True,12
+Mus musculus,OSD-105,RNA-Seq,"['Left tibialis anterior', 'Not Applicable']","['Space Flight', 'Ground Control', 'Not Applicable']",True,16
+Mus musculus,OSD-242,RNA-Seq,['Liver'],"['Basal Control', 'Cohort Control #1', 'Cohort Control #2', 'Space Flight', 'Ground Control', 'Vivarium Control']",True,23
+Mus musculus,OSD-379,RNA-Seq,['Left Lobe of the Liver'],"['Basal Control', 'Space Flight', 'Ground Control', 'Vivarium Control']",True,141
+Mus musculus,OSD-421,RNA-Seq,['thymus'],"['Space Flight', 'Ground Control']",True,20
+Mus musculus,OSD-47,RNA-Seq,['Liver'],"['Basal Control', 'Space Flight', 'Ground Control', 'Not Applicable']",True,16
+Mus musculus,OSD-48,RNA-Seq,['Liver'],"['Space Flight', 'Ground Control', 'Basal Control', 'Vivarium Control', 'Not Applicable']",True,32
+Saccharomyces cerevisiae,OSD-62,microarray,['Cells'],"['Space Flight', 'Ground Control']",True,17

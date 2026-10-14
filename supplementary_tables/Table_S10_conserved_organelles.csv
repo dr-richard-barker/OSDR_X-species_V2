@@ -1,0 +1,6 @@
+organelle,n_species,direction,species,min_padj
+Other,5,mixed,"Homo sapiens, Mus musculus, Drosophila melanogaster, Caenorhabditis elegans, Arabidopsis thaliana",2.29353800700167e-168
+Cell wall/Extracellular matrix,4,mixed,"Mus musculus, Drosophila melanogaster, Caenorhabditis elegans, Arabidopsis thaliana",7.22991244220664e-28
+Plasma membrane,3,mixed,"Homo sapiens, Mus musculus, Drosophila melanogaster",4.4187773542014e-11
+Extracellular,3,mixed,"Mus musculus, Drosophila melanogaster, Arabidopsis thaliana",7.22991244220664e-28
+Ribosome,3,mixed,"Caenorhabditis elegans, Saccharomyces cerevisiae, Arabidopsis thaliana",5.05408823388496e-27
