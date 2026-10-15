@@ -690,12 +690,9 @@ df['threshold'] = 'relaxed'
 n_deg = df['is_deg'].sum()
 print(f"OSD-258 (human, 4.5wk microgravity vs GC): {len(df)} genes, {n_deg} DEGs ({(df['deg_direction']=='up').sum()} up, {(df['deg_direction']=='down').sum()} down)")
 
-# If still very few, try pvalue < 0.01, |log2fc| > 0.5 (nominal significance)
-if n_deg < 10:
-    df['is_deg'] = (df['pvalue'] < 0.01) & (df['log2fc'].abs() > 0.5)
-    df['deg_direction'] = np.where(df['is_deg'] & (df['log2fc'] > 0), 'up', np.where(df['is_deg'] & (df['log2fc'] < 0), 'down', 'ns'))
-    n_deg = df['is_deg'].sum()
-    print(f"  After nominal (p<0.01, |log2fc|>0.5): {n_deg} DEGs ({(df['deg_direction']=='up').sum()} up, {(df['deg_direction']=='down').sum()} down)")
+# METHODS documents OSD-258 under the relaxed threshold only. An earlier version
+# silently switched to nominal p < 0.01 when fewer than 10 genes passed, while
+# still labelling the rows 'relaxed' (182 "DEGs", 163 of them with padj >= 0.5).
 
 df[['gene_id','symbol','log2fc','pvalue','padj','is_deg','deg_direction','osd','species','threshold']].to_csv(
     os.path.join(deg_dir, 'OSD-258_deg.csv'), index=False)
