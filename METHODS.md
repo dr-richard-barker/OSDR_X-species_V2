@@ -59,7 +59,7 @@ We filtered genes for the six target species (NCBI taxon IDs: 10090, 9606, 7227,
 
 ### babelgene (human to mouse/fly/worm/yeast)
 
-For human-to-mouse, fly, worm, and yeast orthology, we used the R package babelgene (v0.99.7), which aggregates orthology calls from multiple databases. We mapped 48,606 ortholog pairs from human to the four animal/fungal species using `orthologs(genes=..., species=..., human=TRUE, min_support=1, top=TRUE)`.
+For human-to-mouse, fly, worm, and yeast orthology, we used the R package babelgene (version TODO: the previously stated v0.99.7 is not a CRAN release, which are 21.4, 22.3 and 22.9; record the installed version from sessionInfo), which aggregates orthology calls from multiple databases. We mapped 48,606 ortholog pairs from human to the four animal/fungal species using `orthologs(genes=..., species=..., human=TRUE, min_support=1, top=TRUE)`.
 
 ### Arabidopsis orthology
 

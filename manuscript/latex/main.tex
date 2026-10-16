@@ -59,14 +59,14 @@ NASA OSDR, orthology}
 Spaceflight exposes organisms to a unique combination of environmental stressors
 including microgravity, cosmic radiation, altered atmospheric composition, and
 circadian disruption. These conditions induce measurable transcriptomic changes
-across diverse organisms, from yeast to humans \cite{beheshti2021cell,galazka2021}.
+across diverse organisms, from yeast to humans \textbf{[TODO: citation needed]}.
 The NASA Open Science Data Repository (OSDR) has accumulated hundreds of
 spaceflight omics datasets through the GeneLab consortium, providing an
 unprecedented opportunity for cross-species comparative analysis \cite{ray2019}.
 
 Individual species studies have identified recurrent themes in the spaceflight
 transcriptomic response, including altered energy metabolism, oxidative stress,
-immune dysregulation, and cytoskeletal remodeling \cite{beheshti2020,herranz2020}.
+immune dysregulation, and cytoskeletal remodeling \textbf{[TODO: citation needed]}.
 However, most analyses have been conducted within single species, making it
 difficult to distinguish conserved fundamental responses from species-specific
 adaptations. A rigorous cross-species comparison requires orthology-based
@@ -79,7 +79,7 @@ enrichment can identify which organelles are coordinately regulated, and
 cross-species conservation of these organelle-level responses would suggest
 deeply rooted cellular mechanisms. Mitochondria are of particular interest given
 their central role in energy metabolism, oxidative stress response, and
-apoptosis, all of which are affected by spaceflight \cite{dasilva2021,mao2021}.
+apoptosis, all of which are affected by spaceflight \textbf{[TODO: citation needed]}.
 
 Here we present a cross-species meta-analysis of 22 spaceflight transcriptomic
 datasets spanning six eukaryotic species. We build a human-anchored orthology
@@ -338,7 +338,7 @@ most robustly conserved subcellular transcriptomic response to spaceflight, with
 49 genes showing significant, direction-consistent downregulation across at least
 three of six eukaryotic species spanning approximately one billion years of
 evolution. This finding extends previous single-species observations of
-mitochondrial dysregulation in spaceflight \cite{dasilva2021,mao2021,choi2021} to
+mitochondrial dysregulation in spaceflight \textbf{[TODO: citation needed]} to
 a conserved, multi-kingdom response.
 
 The specific genes identified paint a coherent biological picture: the conserved
@@ -356,7 +356,7 @@ and lipid droplet upregulation is intriguing. Peroxisomes are central to fatty
 acid beta-oxidation and hydrogen peroxide metabolism, and their upregulation may
 reflect compensatory responses to altered lipid metabolism or oxidative stress.
 Lipid droplet accumulation has been observed in multiple spaceflight studies and
-may relate to altered lipid handling in microgravity \cite{jonscher2016,zhang2022}.
+may relate to altered lipid handling in microgravity \cite{jonscher2016}~\textbf{[TODO: citation needed]}.
 The coordinated upregulation of Golgi apparatus genes suggests enhanced secretory
 pathway activity, potentially related to extracellular matrix remodeling or stress
 signaling.
@@ -419,9 +419,9 @@ nominal (\(p < 0.05\), \(|\text{log2FC}| > 0.5\)) for one dataset. Direction was
 normalized so positive log2FC = upregulated in spaceflight.
 
 \subsection{Orthology mapping}
-We built a human-anchored orthology matrix using OrthoDB v12 \cite{kriventseva2023}
+We built a human-anchored orthology matrix using OrthoDB v12 \cite{kuznetsov2023}
 (\texttt{data.orthodb.org/v12/}) as the primary resource, supplemented by
-babelgene \cite{gilbert2022} for human-to-mouse, fly, worm, and yeast mappings.
+babelgene \cite{dolgalev2021} for human-to-mouse, fly, worm, and yeast mappings.
 Arabidopsis TAIR IDs were mapped to human orthologs via OrthoDB Eukaryota-level
 ortholog groups. The unified matrix comprises 18{,}030 human genes with at least
 one non-human ortholog.
@@ -446,7 +446,7 @@ KEGG \cite{kanehisa2016} pathway-gene links were fetched via the KEGG REST API
 mappings were built via the compound-reaction-enzyme-gene chain. Pathway diagrams
 were rendered using ggkegg \cite{sato2023} with per-species log2FC overlays
 (diverging blue-white-red scale, limits \(-2\) to \(+2\)); palettes use viridis
-\cite{garnier2023}.
+\cite{garnier2015}.
 
 \subsection{AI use disclosure}
 Data analysis scripting, figure generation, and manuscript drafting were assisted
