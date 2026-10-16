@@ -1,0 +1,1155 @@
+organelle,human_ensembl,n_species_tested,n_deg_species,n_up_species,n_down_species,n_mixed_species,direction_agreement,species_list,fisher_stat,fisher_p,fisher_padj,direction_conserved,conserved
+Chloroplast/Plastid,ENSG00000135972,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1431.46856949534,2.28122306109521e-299,1.31626570625193e-296,up,FALSE
+Ribosome,ENSG00000135972,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1431.46856949534,2.28122306109521e-299,1.31626570625193e-296,up,FALSE
+Extracellular,ENSG00000080819,5,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1412.82398737121,1.68909019936523e-297,6.49736696689157e-295,up,FALSE
+Extracellular,ENSG00000256269,5,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1396.90708276119,4.61647726132492e-294,1.33185368989224e-291,up,FALSE
+Chloroplast/Plastid,ENSG00000135821,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1336.17451427688,7.97320761149825e-279,1.31444022623843e-276,mixed,FALSE
+Other,ENSG00000135821,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1336.17451427688,7.97320761149825e-279,1.31444022623843e-276,mixed,FALSE
+Extracellular,ENSG00000135821,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1336.17451427688,7.97320761149825e-279,1.31444022623843e-276,mixed,FALSE
+Chloroplast/Plastid,ENSG00000125656,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",1172.18043425419,1.4416788071319e-245,1.84855260381135e-243,up,FALSE
+Proteasome,ENSG00000125656,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",1172.18043425419,1.4416788071319e-245,1.84855260381135e-243,up,FALSE
+Chloroplast/Plastid,ENSG00000197713,2,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens",1067.46656098451,8.5254770267622e-230,8.94400044443961e-228,up,FALSE
+Extracellular,ENSG00000197713,2,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens",1067.46656098451,8.5254770267622e-230,8.94400044443961e-228,up,FALSE
+Chloroplast/Plastid,ENSG00000145020,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1105.49342744425,3.82420458587929e-229,3.39471699392669e-227,up,FALSE
+Extracellular,ENSG00000145020,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",1105.49342744425,3.82420458587929e-229,3.39471699392669e-227,up,FALSE
+Chloroplast/Plastid,ENSG00000106080,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",635.669027896991,3.98382491509933e-130,3.06488930134975e-128,up,FALSE
+Other,ENSG00000106080,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",635.669027896991,3.98382491509933e-130,3.06488930134975e-128,up,FALSE
+Extracellular,ENSG00000168827,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",613.830197529352,1.17892445679794e-123,8.50299264465511e-122,up,FALSE
+Extracellular,ENSG00000111669,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",596.843772986869,5.00387724273853e-120,3.0391970200633e-118,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000111669,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",596.843772986869,5.00387724273853e-120,3.0391970200633e-118,mixed,FALSE
+Cytoskeleton,ENSG00000111669,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",596.843772986869,5.00387724273853e-120,3.0391970200633e-118,mixed,FALSE
+Chloroplast/Plastid,ENSG00000066926,5,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",585.35201804604,2.41945351525618e-119,1.32954731266935e-117,up,FALSE
+Peroxisome,ENSG00000066926,5,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",585.35201804604,2.41945351525618e-119,1.32954731266935e-117,up,FALSE
+Chloroplast/Plastid,ENSG00000170801,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",473.450227007184,4.3925558631185e-99,2.20391715914728e-97,up,FALSE
+Other,ENSG00000170801,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",473.450227007184,4.3925558631185e-99,2.20391715914728e-97,up,FALSE
+Extracellular,ENSG00000198951,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",486.338190584033,3.66099574870582e-98,1.68991563760261e-96,up,FALSE
+Golgi apparatus,ENSG00000198951,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",486.338190584033,3.66099574870582e-98,1.68991563760261e-96,up,FALSE
+Other,ENSG00000145354,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",483.218680710493,1.69769647537284e-97,7.53516050992405e-96,up,FALSE
+Golgi apparatus,ENSG00000051620,3,2,2,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",437.039320609004,3.02025215530476e-91,1.29087814341544e-89,up,FALSE
+Chloroplast/Plastid,ENSG00000148677,3,2,1,1,0,0.5,"Arabidopsis thaliana,Homo sapiens,Mus musculus",392.291345408427,1.2693236483061e-81,5.05103272463875e-80,mixed,FALSE
+Other,ENSG00000148677,3,2,1,1,0,0.5,"Arabidopsis thaliana,Homo sapiens,Mus musculus",392.291345408427,1.2693236483061e-81,5.05103272463875e-80,mixed,FALSE
+Plasma membrane,ENSG00000122756,2,1,1,0,0,1,"Homo sapiens,Mus musculus",325.869543465895,2.83791122952957e-69,1.09164985295904e-67,up,FALSE
+Chloroplast/Plastid,ENSG00000291237,2,1,0,0,1,0,"Arabidopsis thaliana,Homo sapiens",314.196968011421,9.37395763643849e-67,3.38048347264063e-65,mixed,FALSE
+Nucleus,ENSG00000291237,2,1,0,0,1,0,"Arabidopsis thaliana,Homo sapiens",314.196968011421,9.37395763643849e-67,3.38048347264063e-65,mixed,FALSE
+Chloroplast/Plastid,ENSG00000178445,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",340.760016536071,1.24644098499295e-65,4.1096939905196e-64,mixed,FALSE
+Extracellular,ENSG00000178445,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",340.760016536071,1.24644098499295e-65,4.1096939905196e-64,mixed,FALSE
+Mitochondrion,ENSG00000178445,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",340.760016536071,1.24644098499295e-65,4.1096939905196e-64,mixed,FALSE
+Chloroplast/Plastid,ENSG00000162129,4,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",298.821084120643,7.33782695106269e-60,2.28860873014226e-58,up,FALSE
+Other,ENSG00000162129,4,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",298.821084120643,7.33782695106269e-60,2.28860873014226e-58,up,FALSE
+Extracellular,ENSG00000171724,3,1,0,0,1,0,"Arabidopsis thaliana,Homo sapiens,Mus musculus",273.279141504468,4.31189284733575e-56,1.30945377521722e-54,mixed,FALSE
+Nucleus,ENSG00000196747,2,1,0,1,0,1,"Homo sapiens,Mus musculus",255.932811011168,3.43062158234775e-54,1.0151121297511e-52,down,FALSE
+Plasma membrane,ENSG00000166949,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",244.916350792713,5.00182354559989e-50,1.44302609290557e-48,up,FALSE
+Mitochondrion,ENSG00000101365,5,2,0,2,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",253.781383115454,8.69717710891437e-49,2.44793716675297e-47,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000109061,2,1,1,0,0,1,"Homo sapiens,Mus musculus",216.413525417064,1.10828022517778e-45,2.97431483687246e-44,up,FALSE
+Cytoskeleton,ENSG00000109061,2,1,1,0,0,1,"Homo sapiens,Mus musculus",216.413525417064,1.10828022517778e-45,2.97431483687246e-44,up,FALSE
+Plasma membrane,ENSG00000146477,2,2,2,0,0,1,"Homo sapiens,Mus musculus",209.116449012036,4.11559031161312e-44,1.07940709536399e-42,up,FALSE
+Cytoskeleton,ENSG00000139112,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",221.996878219907,1.45740256045067e-43,3.73742789946684e-42,down,FALSE
+Extracellular,ENSG00000162552,2,1,1,0,0,1,"Homo sapiens,Mus musculus",204.859848460649,3.38762501810772e-43,8.31770057637511e-42,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000162552,2,1,1,0,0,1,"Homo sapiens,Mus musculus",204.859848460649,3.38762501810772e-43,8.31770057637511e-42,up,FALSE
+Chloroplast/Plastid,ENSG00000253598,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",206.754215299085,6.92010963162451e-42,1.66370969060306e-40,up,FALSE
+Membrane transport,ENSG00000163399,2,1,0,1,0,1,"Homo sapiens,Mus musculus",191.414386286263,2.63240627801335e-40,6.19958539760695e-39,down,FALSE
+Nucleus,ENSG00000069248,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",195.094626050391,1.69973038732975e-36,3.92297773395706e-35,down,FALSE
+Nucleus,ENSG00000157456,5,3,2,1,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",194.944694035123,1.82648363786107e-36,4.13286689821896e-35,mixed,FALSE
+Nucleus,ENSG00000170312,4,3,2,1,0,0.666666666666667,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",187.367772643503,2.91358995276036e-36,6.34392982167067e-35,mixed,FALSE
+Cytoskeleton,ENSG00000170312,4,3,2,1,0,0.666666666666667,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",187.367772643503,2.91358995276036e-36,6.34392982167067e-35,mixed,FALSE
+Nucleus,ENSG00000134057,2,1,0,1,0,1,"Homo sapiens,Mus musculus",168.580380388089,2.10928178870556e-35,4.50761330401151e-34,down,FALSE
+Nucleus,ENSG00000276903,2,1,0,1,0,1,"Homo sapiens,Mus musculus",166.177594576556,6.91404131876868e-35,1.45069157851983e-33,down,FALSE
+Nucleus,ENSG00000115163,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",171.697115202486,1.9633510239525e-34,4.04590550293068e-33,mixed,FALSE
+Plasma membrane,ENSG00000103034,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",175.803085333096,7.82686357307159e-34,1.58459659005695e-32,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Cytoskeleton,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Nucleus,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Plasma membrane,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Nucleus,ENSG00000164032,2,1,0,1,0,1,"Homo sapiens,Mus musculus",154.564044620738,2.14045546810774e-32,3.98400904870376e-31,down,FALSE
+Nucleus,ENSG00000148773,2,1,0,1,0,1,"Homo sapiens,Mus musculus",153.936110707511,2.91819950466986e-32,5.34540036252225e-31,down,FALSE
+Nucleus,ENSG00000198830,2,1,0,1,0,1,"Homo sapiens,Mus musculus",152.416778653558,6.17705592359407e-32,1.11380039622306e-30,down,FALSE
+Peroxisome,ENSG00000189283,4,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",166.542849164302,6.83525047329947e-32,1.21351985325963e-30,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000111640,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",164.459468656514,1.86618182423084e-31,3.21428929128715e-30,down,FALSE
+Cytoskeleton,ENSG00000111640,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",164.459468656514,1.86618182423084e-31,3.21428929128715e-30,down,FALSE
+Nucleus,ENSG00000123975,5,3,1,2,0,0.666666666666667,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",169.793614904834,3.06083849611717e-31,5.19442297723414e-30,mixed,FALSE
+Mitochondrion,ENSG00000156467,6,3,2,1,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",174.408904926139,5.97626187415484e-31,9.8522945753924e-30,mixed,FALSE
+Membrane transport,ENSG00000156467,6,3,2,1,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",174.408904926139,5.97626187415484e-31,9.8522945753924e-30,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000130595,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",161.06936646652,9.5566333908921e-31,1.53171596292909e-29,down,FALSE
+Cytoskeleton,ENSG00000130595,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",161.06936646652,9.5566333908921e-31,1.53171596292909e-29,down,FALSE
+Ribosome,ENSG00000188846,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",168.750796883412,8.5965114642972e-30,1.35895537394506e-28,down,FALSE
+Nucleus,ENSG00000164104,2,1,0,1,0,1,"Homo sapiens,Mus musculus",140.565994081253,2.13534555171372e-29,3.32998481983464e-28,down,FALSE
+Nucleus,ENSG00000111247,2,1,0,1,0,1,"Homo sapiens,Mus musculus",136.215310820271,1.82283449743388e-28,2.8047346800516e-27,down,FALSE
+Plasma membrane,ENSG00000161647,2,1,1,0,0,1,"Homo sapiens,Mus musculus",134.119223521074,5.12000188892576e-28,7.77431865765832e-27,up,FALSE
+Nucleus,ENSG00000184357,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",140.628564252593,7.38420413018457e-28,1.10667163197831e-26,mixed,FALSE
+Nucleus,ENSG00000156970,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",155.910031006744,3.57271632946515e-27,5.28578800538818e-26,mixed,FALSE
+Nucleus,ENSG00000089685,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",142.680375896338,6.57035560669687e-27,9.47773796266023e-26,down,FALSE
+Cytoskeleton,ENSG00000089685,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",142.680375896338,6.57035560669687e-27,9.47773796266023e-26,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000136842,2,0,0,0,0,,"Homo sapiens,Mus musculus",127.626540540734,1.2528895429942e-26,1.76321284465282e-25,ns,FALSE
+Cytoskeleton,ENSG00000136842,2,0,0,0,0,,"Homo sapiens,Mus musculus",127.626540540734,1.2528895429942e-26,1.76321284465282e-25,ns,FALSE
+Mitochondrion,ENSG00000067829,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",146.784371876016,1.70826727714954e-26,2.37510896124165e-25,down,FALSE
+Nucleus,ENSG00000233822,2,1,0,0,1,0,"Homo sapiens,Mus musculus",126.201747421252,2.52640337770977e-26,3.47079702128223e-25,mixed,FALSE
+Plasma membrane,ENSG00000138448,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",139.226101750077,3.43718967242594e-26,4.66649044938769e-25,mixed,FALSE
+Mitochondrion,ENSG00000179091,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",149.526865654925,7.07207937882944e-26,9.38066621053927e-25,down,FALSE
+Membrane transport,ENSG00000179091,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",149.526865654925,7.07207937882944e-26,9.38066621053927e-25,down,FALSE
+Nucleus,ENSG00000198901,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",143.060578919559,9.93483563040703e-26,1.2738667019433e-24,down,FALSE
+Cytoskeleton,ENSG00000198901,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",143.060578919559,9.93483563040703e-26,1.2738667019433e-24,down,FALSE
+Plasma membrane,ENSG00000198901,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",143.060578919559,9.93483563040703e-26,1.2738667019433e-24,down,FALSE
+Nucleus,ENSG00000276966,2,1,0,1,0,1,"Homo sapiens,Mus musculus",123.284733306813,1.06152070165514e-25,1.34614823045059e-24,down,FALSE
+Nucleus,ENSG00000152253,2,1,0,1,0,1,"Homo sapiens,Mus musculus",123.233866168624,1.08842312950223e-25,1.36526118635388e-24,down,FALSE
+Peroxisome,ENSG00000142168,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",148.438008637841,1.17581915257129e-25,1.45902720652394e-24,up,FALSE
+Nucleus,ENSG00000105968,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",147.903905443002,1.50869732555878e-25,1.85216671669663e-24,mixed,FALSE
+Plasma membrane,ENSG00000164120,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",126.789272263096,6.09303198426236e-25,7.40143043140923e-24,mixed,FALSE
+Nucleus,ENSG00000175063,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",132.038363178447,1.06898769392488e-24,1.27176474101991e-23,down,FALSE
+Proteasome,ENSG00000175063,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",132.038363178447,1.06898769392488e-24,1.27176474101991e-23,down,FALSE
+Mitochondrion,ENSG00000168291,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",142.983930312814,1.49469047002223e-24,1.76007428816904e-23,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000152137,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",129.486915658409,3.61396791070206e-24,4.17051896895017e-23,mixed,FALSE
+Cytoskeleton,ENSG00000152137,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",129.486915658409,3.61396791070206e-24,4.17051896895017e-23,mixed,FALSE
+Plasma membrane,ENSG00000169252,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",121.877485231365,6.57125484698352e-24,7.50814662714751e-23,down,FALSE
+Nucleus,ENSG00000138160,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",138.163090832479,1.40608795172787e-23,1.5753645595087e-22,down,FALSE
+Cytoskeleton,ENSG00000138160,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",138.163090832479,1.40608795172787e-23,1.5753645595087e-22,down,FALSE
+Nucleus,ENSG00000161888,2,1,0,1,0,1,"Homo sapiens,Mus musculus",112.161225424838,2.5176072670685e-23,2.7935757559587e-22,down,FALSE
+Extracellular,ENSG00000011201,3,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",118.377671865301,3.57056481965063e-23,3.83802731445322e-22,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000011201,3,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",118.377671865301,3.57056481965063e-23,3.83802731445322e-22,down,FALSE
+Extracellular,ENSG00000197565,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",124.650822809226,3.62517311330504e-23,3.83802731445322e-22,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000197565,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",124.650822809226,3.62517311330504e-23,3.83802731445322e-22,down,FALSE
+Cytoskeleton,ENSG00000197565,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",124.650822809226,3.62517311330504e-23,3.83802731445322e-22,down,FALSE
+Nucleus,ENSG00000169607,2,1,0,1,0,1,"Homo sapiens,Mus musculus",108.852036651545,1.2787753325277e-22,1.34155157612451e-21,down,FALSE
+Membrane transport,ENSG00000109738,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",121.208504789027,1.86610172432313e-22,1.94007332420621e-21,down,FALSE
+Nucleus,ENSG00000286522,2,1,0,1,0,1,"Homo sapiens,Mus musculus",107.997956481678,1.94489581999382e-22,2.00393730024363e-21,down,FALSE
+Nucleus,ENSG00000138778,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",120.82680110294,2.23759121748513e-22,2.21930441516754e-21,down,FALSE
+Cytoskeleton,ENSG00000138778,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",120.82680110294,2.23759121748513e-22,2.21930441516754e-21,down,FALSE
+Plasma membrane,ENSG00000138778,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",120.82680110294,2.23759121748513e-22,2.21930441516754e-21,down,FALSE
+Mitochondrion,ENSG00000075415,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",132.18190044171,2.25007466702429e-22,2.21930441516754e-21,mixed,FALSE
+Other,ENSG00000075415,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",132.18190044171,2.25007466702429e-22,2.21930441516754e-21,mixed,FALSE
+Nucleus,ENSG00000131747,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",114.468325462172,2.36032969877418e-22,2.30832243422492e-21,down,FALSE
+Nucleus,ENSG00000025770,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",113.651411509312,3.50147725358763e-22,3.36725395886677e-21,down,FALSE
+Plasma membrane,ENSG00000025770,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",113.651411509312,3.50147725358763e-22,3.36725395886677e-21,down,FALSE
+Ribosome,ENSG00000063177,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",125.093220290326,4.66841254163202e-22,4.45235377937467e-21,down,FALSE
+Membrane transport,ENSG00000101892,2,1,0,1,0,1,"Homo sapiens,Mus musculus",105.535292327097,6.51363580796321e-22,6.16125878884389e-21,down,FALSE
+Nucleus,ENSG00000117724,2,1,0,1,0,1,"Homo sapiens,Mus musculus",105.094892670499,8.08486519072991e-22,7.58531254479863e-21,down,FALSE
+Nucleus,ENSG00000101224,3,3,1,2,0,0.666666666666667,"Caenorhabditis elegans,Homo sapiens,Mus musculus",111.530890169719,9.74199212434753e-22,9.03388290448009e-21,mixed,FALSE
+Ribosome,ENSG00000105193,6,2,0,2,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",129.002470373872,9.78540175961881e-22,9.03388290448009e-21,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000123416,2,1,0,1,0,1,"Homo sapiens,Mus musculus",104.427537775262,1.12168861493015e-21,1.01923516663732e-20,down,FALSE
+Cytoskeleton,ENSG00000123416,2,1,0,1,0,1,"Homo sapiens,Mus musculus",104.427537775262,1.12168861493015e-21,1.01923516663732e-20,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000167460,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",117.285659802313,1.20402704009045e-21,1.0770908560189e-20,down,FALSE
+Cytoskeleton,ENSG00000167460,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",117.285659802313,1.20402704009045e-21,1.0770908560189e-20,down,FALSE
+Plasma membrane,ENSG00000116396,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",116.692086845615,1.59600146985714e-21,1.41488507190936e-20,up,FALSE
+Plasma membrane,ENSG00000132329,2,1,1,0,0,1,"Homo sapiens,Mus musculus",103.69572590525,1.60615203137025e-21,1.41488507190936e-20,up,FALSE
+Nucleus,ENSG00000132646,6,3,1,2,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",127.390699136536,2.05927688149063e-21,1.80030721306074e-20,mixed,FALSE
+Mitochondrion,ENSG00000156885,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",121.75955010707,2.22294228598362e-21,1.90020399853711e-20,down,FALSE
+Membrane transport,ENSG00000156885,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",121.75955010707,2.22294228598362e-21,1.90020399853711e-20,down,FALSE
+Other,ENSG00000156885,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",121.75955010707,2.22294228598362e-21,1.90020399853711e-20,down,FALSE
+Nucleus,ENSG00000277075,2,1,0,1,0,1,"Homo sapiens,Mus musculus",102.88468496388,2.39087354362032e-21,2.02872652157195e-20,down,FALSE
+Mitochondrion,ENSG00000169100,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Saccharomyces cerevisiae",115.280250202272,3.11909194624727e-21,2.6082841347604e-20,down,FALSE
+Other,ENSG00000169100,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Saccharomyces cerevisiae",115.280250202272,3.11909194624727e-21,2.6082841347604e-20,down,FALSE
+Peroxisome,ENSG00000121691,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",126.373352359876,3.2923437902739e-21,2.71383195284005e-20,up,FALSE
+Chloroplast/Plastid,ENSG00000121691,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",126.373352359876,3.2923437902739e-21,2.71383195284005e-20,up,FALSE
+Ribosome,ENSG00000125835,2,0,0,0,0,,"Homo sapiens,Mus musculus",101.051258848178,5.87518101949552e-21,4.80848148687789e-20,ns,FALSE
+Nucleus,ENSG00000130726,2,1,0,1,0,1,"Homo sapiens,Mus musculus",100.756965642986,6.78709893023607e-21,5.50174812953541e-20,down,FALSE
+Mitochondrion,ENSG00000114573,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",119.332078939046,6.91294175721521e-21,5.50174812953541e-20,down,FALSE
+Membrane transport,ENSG00000114573,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",119.332078939046,6.91294175721521e-21,5.50174812953541e-20,down,FALSE
+Plasma membrane,ENSG00000114573,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",119.332078939046,6.91294175721521e-21,5.50174812953541e-20,down,FALSE
+Extracellular,ENSG00000150893,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",100.613823708549,7.28050753192803e-21,5.71544604887411e-20,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000150893,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",100.613823708549,7.28050753192803e-21,5.71544604887411e-20,mixed,FALSE
+Nucleus,ENSG00000189403,2,1,0,1,0,1,"Homo sapiens,Mus musculus",99.9048232072688,1.03064245194125e-20,8.03622560500136e-20,down,FALSE
+Extracellular,ENSG00000175928,2,1,1,0,0,1,"Homo sapiens,Mus musculus",99.4184685071555,1.30809991207309e-20,1.00636486568823e-19,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000175928,2,1,1,0,0,1,"Homo sapiens,Mus musculus",99.4184685071555,1.30809991207309e-20,1.00636486568823e-19,up,FALSE
+Chloroplast/Plastid,ENSG00000188501,5,3,2,1,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",116.744366084532,2.31291305675429e-20,1.75598793914109e-19,mixed,FALSE
+Other,ENSG00000188501,5,3,2,1,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",116.744366084532,2.31291305675429e-20,1.75598793914109e-19,mixed,FALSE
+Mitochondrion,ENSG00000166411,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",116.014411245691,3.25060788169056e-20,2.45176568331431e-19,down,FALSE
+Nucleus,ENSG00000082014,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",115.94822588025,3.3524545306981e-20,2.51216397949715e-19,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000133020,4,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",107.5626073347,1.20576212921283e-19,8.91954805840775e-19,mixed,FALSE
+Cytoskeleton,ENSG00000133020,4,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",107.5626073347,1.20576212921283e-19,8.91954805840775e-19,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000278224,3,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",101.10889059411,1.47281765741781e-19,1.06895067714475e-18,mixed,FALSE
+Cytoskeleton,ENSG00000278224,3,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",101.10889059411,1.47281765741781e-19,1.06895067714475e-18,mixed,FALSE
+Plasma membrane,ENSG00000278224,3,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",101.10889059411,1.47281765741781e-19,1.06895067714475e-18,mixed,FALSE
+Nucleus,ENSG00000145386,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",106.925490617474,1.6293577692831e-19,1.17517429109544e-18,down,FALSE
+Nucleus,ENSG00000121621,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",100.628717762692,1.85508706578487e-19,1.32146325550354e-18,down,FALSE
+Cytoskeleton,ENSG00000121621,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",100.628717762692,1.85508706578487e-19,1.32146325550354e-18,down,FALSE
+Peroxisome,ENSG00000102910,4,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Homo sapiens,Mus musculus",105.41428787239,3.32644396585618e-19,2.3550406972994e-18,up,FALSE
+Extracellular,ENSG00000122694,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",114.554295828273,7.49002506229244e-19,5.27042007432041e-18,mixed,FALSE
+Cytoskeleton,ENSG00000117632,2,1,0,1,0,1,"Homo sapiens,Mus musculus",90.7463000222522,9.14024676946812e-19,6.39263319513103e-18,down,FALSE
+Cytoskeleton,ENSG00000072315,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",102.186685407804,1.5244901118976e-18,1.05345005337116e-17,down,FALSE
+Membrane transport,ENSG00000072315,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",102.186685407804,1.5244901118976e-18,1.05345005337116e-17,down,FALSE
+Mitochondrion,ENSG00000249222,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",107.578216838597,1.64112409390765e-18,1.12062556471564e-17,down,FALSE
+Membrane transport,ENSG00000249222,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",107.578216838597,1.64112409390765e-18,1.12062556471564e-17,down,FALSE
+Nucleus,ENSG00000080986,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",107.388706585926,1.7917986308467e-18,1.21631507058652e-17,mixed,FALSE
+Nucleus,ENSG00000173207,4,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Homo sapiens,Mus musculus",101.56984582575,2.03863177637476e-18,1.37577840347162e-17,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000163157,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",101.101745958581,2.54148737299316e-18,1.69530429389255e-17,down,FALSE
+Cytoskeleton,ENSG00000163157,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",101.101745958581,2.54148737299316e-18,1.69530429389255e-17,down,FALSE
+Mitochondrion,ENSG00000160471,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",105.256025284162,4.81092009438088e-18,3.17245816509459e-17,down,FALSE
+Membrane transport,ENSG00000160471,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",105.256025284162,4.81092009438088e-18,3.17245816509459e-17,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000109846,2,1,0,1,0,1,"Homo sapiens,Mus musculus",86.6310286598813,6.83702140921255e-18,4.45758344984818e-17,down,FALSE
+Cytoskeleton,ENSG00000109846,2,1,0,1,0,1,"Homo sapiens,Mus musculus",86.6310286598813,6.83702140921255e-18,4.45758344984818e-17,down,FALSE
+Nucleus,ENSG00000166851,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",93.0585320892131,7.00940147330012e-18,4.5189102235689e-17,down,FALSE
+Cytoskeleton,ENSG00000166851,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",93.0585320892131,7.00940147330012e-18,4.5189102235689e-17,down,FALSE
+Nucleus,ENSG00000175334,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",98.9151496170729,7.11204075107926e-18,4.55960834819193e-17,down,FALSE
+Cytoskeleton,ENSG00000176771,3,2,0,2,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",92.3570416608817,9.80792056151242e-18,6.20072626162181e-17,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000106631,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",98.22615976116,9.83304077882834e-18,6.20072626162181e-17,down,FALSE
+Cytoskeleton,ENSG00000106631,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",98.22615976116,9.83304077882834e-18,6.20072626162181e-17,down,FALSE
+Nucleus,ENSG00000124610,2,1,0,1,0,1,"Homo sapiens,Mus musculus",85.0818904363604,1.45747156188418e-17,9.14088142616491e-17,down,FALSE
+Extracellular,ENSG00000137801,2,1,1,0,0,1,"Homo sapiens,Mus musculus",84.8819463546067,1.60701188382053e-17,9.91706798892458e-17,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000137801,2,1,1,0,0,1,"Homo sapiens,Mus musculus",84.8819463546067,1.60701188382053e-17,9.91706798892458e-17,up,FALSE
+Plasma membrane,ENSG00000137801,2,1,1,0,0,1,"Homo sapiens,Mus musculus",84.8819463546067,1.60701188382053e-17,9.91706798892458e-17,up,FALSE
+Nucleus,ENSG00000175305,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",97.1178214131488,1.65532896266353e-17,1.0160902249541e-16,down,FALSE
+Mitochondrion,ENSG00000119421,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",101.836040073089,2.33688350996238e-17,1.41191809973643e-16,down,FALSE
+Membrane transport,ENSG00000119421,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",101.836040073089,2.33688350996238e-17,1.41191809973643e-16,down,FALSE
+Other,ENSG00000119421,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",101.836040073089,2.33688350996238e-17,1.41191809973643e-16,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000109063,2,1,0,1,0,1,"Homo sapiens,Mus musculus",83.9724966919223,2.50572595155975e-17,1.49824235652847e-16,down,FALSE
+Cytoskeleton,ENSG00000109063,2,1,0,1,0,1,"Homo sapiens,Mus musculus",83.9724966919223,2.50572595155975e-17,1.49824235652847e-16,down,FALSE
+Nucleus,ENSG00000066279,4,3,1,2,0,0.666666666666667,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.8168830645163,3.04915974581843e-17,1.8044771008587e-16,mixed,FALSE
+Cytoskeleton,ENSG00000066279,4,3,1,2,0,0.666666666666667,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.8168830645163,3.04915974581843e-17,1.8044771008587e-16,mixed,FALSE
+Peroxisome,ENSG00000122477,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",89.8401880256902,3.27063812023196e-17,1.92567162793249e-16,up,FALSE
+Mitochondrion,ENSG00000169020,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.6271581203766,3.333120908985e-17,1.94263713584277e-16,down,FALSE
+Membrane transport,ENSG00000169020,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.6271581203766,3.333120908985e-17,1.94263713584277e-16,down,FALSE
+Plasma membrane,ENSG00000164638,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",95.4548174600419,3.61388505091091e-17,2.0956901250006e-16,down,FALSE
+Mitochondrion,ENSG00000167863,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",100.007038463403,5.43205421947533e-17,3.11870177575847e-16,down,FALSE
+Membrane transport,ENSG00000167863,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",100.007038463403,5.43205421947533e-17,3.11870177575847e-16,down,FALSE
+Plasma membrane,ENSG00000138131,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",87.9235071993386,8.17568710484122e-17,4.62487397989548e-16,mixed,FALSE
+Extracellular,ENSG00000138131,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",87.9235071993386,8.17568710484122e-17,4.62487397989548e-16,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000138131,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",87.9235071993386,8.17568710484122e-17,4.62487397989548e-16,mixed,FALSE
+Nucleus,ENSG00000142945,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",93.6559031274698,8.40137263108217e-17,4.70640000789749e-16,down,FALSE
+Cytoskeleton,ENSG00000142945,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",93.6559031274698,8.40137263108217e-17,4.70640000789749e-16,down,FALSE
+Membrane transport,ENSG00000186009,3,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",87.3532179029989,1.07358807802625e-16,5.98512387460047e-16,down,FALSE
+Nucleus,ENSG00000163535,2,1,0,1,0,1,"Homo sapiens,Mus musculus",80.7542385957919,1.20559141105345e-16,6.68871388632537e-16,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000180209,2,0,0,0,0,,"Homo sapiens,Mus musculus",80.7306228131936,1.2195631516266e-16,6.7017898903671e-16,ns,FALSE
+Cytoskeleton,ENSG00000180209,2,0,0,0,0,,"Homo sapiens,Mus musculus",80.7306228131936,1.2195631516266e-16,6.7017898903671e-16,ns,FALSE
+Mitochondrion,ENSG00000124172,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",103.07179180948,1.38987971829233e-16,7.53014645497345e-16,down,FALSE
+Membrane transport,ENSG00000124172,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",103.07179180948,1.38987971829233e-16,7.53014645497345e-16,down,FALSE
+Other,ENSG00000124172,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",103.07179180948,1.38987971829233e-16,7.53014645497345e-16,down,FALSE
+Nucleus,ENSG00000129534,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",86.7408595685061,1.43826688683515e-16,7.75588779162505e-16,down,FALSE
+Mitochondrion,ENSG00000135940,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",97.1986522920946,1.9786075722523e-16,1.05708941591627e-15,down,FALSE
+Membrane transport,ENSG00000135940,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",97.1986522920946,1.9786075722523e-16,1.05708941591627e-15,down,FALSE
+Nucleus,ENSG00000137804,2,1,0,1,0,1,"Homo sapiens,Mus musculus",79.3180762111766,2.42915760639922e-16,1.28589352191959e-15,down,FALSE
+Cytoskeleton,ENSG00000137804,2,1,0,1,0,1,"Homo sapiens,Mus musculus",79.3180762111766,2.42915760639922e-16,1.28589352191959e-15,down,FALSE
+Mitochondrion,ENSG00000010256,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",96.6600192183989,2.53440547357445e-16,1.3294108711386e-15,down,FALSE
+Membrane transport,ENSG00000010256,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",96.6600192183989,2.53440547357445e-16,1.3294108711386e-15,down,FALSE
+Plasma membrane,ENSG00000067606,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",90.6789720262682,3.38554688771076e-16,1.7678376056191e-15,down,FALSE
+Mitochondrion,ENSG00000184752,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.4458791146758,4.42629451948456e-16,2.28033208727017e-15,down,FALSE
+Membrane transport,ENSG00000184752,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.4458791146758,4.42629451948456e-16,2.28033208727017e-15,down,FALSE
+Other,ENSG00000184752,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",95.4458791146758,4.42629451948456e-16,2.28033208727017e-15,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000130402,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",89.7028955471369,5.34318138440935e-16,2.72833244141964e-15,down,FALSE
+Cytoskeleton,ENSG00000130402,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",89.7028955471369,5.34318138440935e-16,2.72833244141964e-15,down,FALSE
+Nucleus,ENSG00000108106,4,1,0,1,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus",89.672718228158,5.41906594120609e-16,2.7428079369087e-15,down,FALSE
+Proteasome,ENSG00000108106,4,1,0,1,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus",89.672718228158,5.41906594120609e-16,2.7428079369087e-15,down,FALSE
+Plasma membrane,ENSG00000128285,2,2,2,0,0,1,"Homo sapiens,Mus musculus",77.5549126957563,5.73854370618872e-16,2.89182508163397e-15,up,FALSE
+Nucleus,ENSG00000013810,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",83.7836256063928,5.89619276796366e-16,2.95835063227394e-15,down,FALSE
+Cytoskeleton,ENSG00000222038,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",89.3828351550805,6.20510768657204e-16,3.08650615099316e-15,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000222038,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",89.3828351550805,6.20510768657204e-16,3.08650615099316e-15,down,FALSE
+Chloroplast/Plastid,ENSG00000065057,6,2,2,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",99.3869853344198,7.34051079408022e-16,3.62006387024298e-15,up,FALSE
+Nucleus,ENSG00000065057,6,2,2,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",99.3869853344198,7.34051079408022e-16,3.62006387024298e-15,up,FALSE
+Plasma membrane,ENSG00000183580,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",88.9324462697682,7.65806575362362e-16,3.76059909773688e-15,down,FALSE
+Mitochondrion,ENSG00000099624,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",98.7164174441834,9.93007317719586e-16,4.83514955547849e-15,down,FALSE
+Membrane transport,ENSG00000099624,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",98.7164174441834,9.93007317719586e-16,4.83514955547849e-15,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000106211,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",88.3423935586077,1.00872780712753e-15,4.87059367960324e-15,down,FALSE
+Cytoskeleton,ENSG00000106211,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",88.3423935586077,1.00872780712753e-15,4.87059367960324e-15,down,FALSE
+Plasma membrane,ENSG00000134755,2,1,0,0,1,0,"Homo sapiens,Mus musculus",75.3550061983535,1.67620349453036e-15,8.05974513620016e-15,mixed,FALSE
+Mitochondrion,ENSG00000115159,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",97.2349148149176,1.93433810794184e-15,9.22407510977224e-15,down,FALSE
+Other,ENSG00000115159,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",97.2349148149176,1.93433810794184e-15,9.22407510977224e-15,down,FALSE
+Ribosome,ENSG00000105640,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",96.9279486523743,2.22061554675644e-15,1.05456392631972e-14,down,FALSE
+Plasma membrane,ENSG00000146648,2,1,1,0,0,1,"Homo sapiens,Mus musculus",74.4735651236688,2.57485128665435e-15,1.21777802655702e-14,up,FALSE
+Plasma membrane,ENSG00000133794,2,1,1,0,0,1,"Homo sapiens,Mus musculus",73.9888358289759,3.26022995870722e-15,1.53563484585638e-14,up,FALSE
+Nucleus,ENSG00000144554,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",85.6651994780245,3.51533422474821e-15,1.64906329079652e-14,mixed,FALSE
+Nucleus,ENSG00000092470,4,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",85.6347375149832,3.56557051411467e-15,1.66585764100742e-14,down,FALSE
+Nucleus,ENSG00000112984,2,1,0,1,0,1,"Homo sapiens,Mus musculus",73.7631812930575,3.63878926765561e-15,1.67647070408814e-14,down,FALSE
+Cytoskeleton,ENSG00000112984,2,1,0,1,0,1,"Homo sapiens,Mus musculus",73.7631812930575,3.63878926765561e-15,1.67647070408814e-14,down,FALSE
+Plasma membrane,ENSG00000112984,2,1,0,1,0,1,"Homo sapiens,Mus musculus",73.7631812930575,3.63878926765561e-15,1.67647070408814e-14,down,FALSE
+Nucleus,ENSG00000139734,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",85.5780782096454,3.66092389454257e-15,1.67647070408814e-14,down,FALSE
+Cytoskeleton,ENSG00000139734,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",85.5780782096454,3.66092389454257e-15,1.67647070408814e-14,down,FALSE
+Mitochondrion,ENSG00000091140,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",90.7410336216413,3.8180109684306e-15,1.74149591208257e-14,down,FALSE
+Ribosome,ENSG00000148303,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",90.5951431219374,4.08118210196365e-15,1.85420635656144e-14,down,FALSE
+Plasma membrane,ENSG00000075651,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",79.6056973723488,4.30977110102825e-15,1.95038268650455e-14,down,FALSE
+Extracellular,ENSG00000142798,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",85.1872627802684,4.3917167809026e-15,1.97200045337027e-14,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000142798,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",85.1872627802684,4.3917167809026e-15,1.97200045337027e-14,down,FALSE
+Ribosome,ENSG00000161016,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",94.9423702079927,5.41610792249803e-15,2.42255369866772e-14,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000129991,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",84.3669474047687,6.43369532465326e-15,2.85557092486533e-14,down,FALSE
+Cytoskeleton,ENSG00000129991,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",84.3669474047687,6.43369532465326e-15,2.85557092486533e-14,down,FALSE
+Nucleus,ENSG00000136824,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",89.5659462920463,6.52957597443056e-15,2.88702324693213e-14,down,FALSE
+Mitochondrion,ENSG00000154518,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",83.5840421270935,9.26008562947252e-15,4.06317065262787e-14,down,FALSE
+Membrane transport,ENSG00000154518,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",83.5840421270935,9.26008562947252e-15,4.06317065262787e-14,down,FALSE
+Cytoskeleton,ENSG00000131871,2,1,0,1,0,1,"Homo sapiens,Mus musculus",71.5284994012519,1.07946710573773e-14,4.71857969705051e-14,down,FALSE
+Ribosome,ENSG00000071082,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",93.3050635724577,1.12798582372923e-14,4.91205902106993e-14,down,FALSE
+Plasma membrane,ENSG00000103375,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",77.3099318563162,1.28292969038917e-14,5.54494705134494e-14,up,FALSE
+Cytoskeleton,ENSG00000103375,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",77.3099318563162,1.28292969038917e-14,5.54494705134494e-14,up,FALSE
+Mitochondrion,ENSG00000165629,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",87.5417439764938,1.64308650175692e-14,7.04878001125458e-14,down,FALSE
+Membrane transport,ENSG00000165629,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",87.5417439764938,1.64308650175692e-14,7.04878001125458e-14,down,FALSE
+Nucleus,ENSG00000171320,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",87.4910278983171,1.68147576514832e-14,7.18675197400431e-14,down,FALSE
+Extracellular,ENSG00000069431,5,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",87.0917902487332,2.01664251258398e-14,8.58747402037607e-14,up,FALSE
+Nucleus,ENSG00000164109,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",91.778784617034,2.23223914987871e-14,9.47060286382363e-14,down,FALSE
+Nucleus,ENSG00000196866,2,1,0,1,0,1,"Homo sapiens,Mus musculus",69.9712328124974,2.3018064092832e-14,9.72998020627404e-14,down,FALSE
+Extracellular,ENSG00000142910,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",81.6142395798464,2.31232674868796e-14,9.73877762038651e-14,down,FALSE
+Nucleus,ENSG00000276043,2,1,0,0,1,0,"Homo sapiens,Mus musculus",69.9050971079666,2.37700839756704e-14,9.97479160288133e-14,mixed,FALSE
+Mitochondrion,ENSG00000152234,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",86.4735895020819,2.67172998261931e-14,1.11306007218148e-13,down,FALSE
+Membrane transport,ENSG00000152234,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",86.4735895020819,2.67172998261931e-14,1.11306007218148e-13,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000155657,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",81.2372164009141,2.75446701237922e-14,1.13523390438772e-13,down,FALSE
+Cytoskeleton,ENSG00000155657,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",81.2372164009141,2.75446701237922e-14,1.13523390438772e-13,down,FALSE
+Nucleus,ENSG00000155657,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",81.2372164009141,2.75446701237922e-14,1.13523390438772e-13,down,FALSE
+Membrane transport,ENSG00000130054,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",75.4687166194753,3.07346667951902e-14,1.26219948333272e-13,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000159173,2,0,0,0,0,,"Homo sapiens,Mus musculus",68.779002627948,4.10869389559909e-14,1.6754179348132e-13,ns,FALSE
+Cytoskeleton,ENSG00000159173,2,0,0,0,0,,"Homo sapiens,Mus musculus",68.779002627948,4.10869389559909e-14,1.6754179348132e-13,ns,FALSE
+Mitochondrion,ENSG00000130414,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",80.2525039410237,4.34889008011786e-14,1.74909554642642e-13,down,FALSE
+Membrane transport,ENSG00000130414,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",80.2525039410237,4.34889008011786e-14,1.74909554642642e-13,down,FALSE
+Other,ENSG00000130414,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",80.2525039410237,4.34889008011786e-14,1.74909554642642e-13,down,FALSE
+Nucleus,ENSG00000184735,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",80.2444484215544,4.36516046248533e-14,1.74909554642642e-13,up,FALSE
+Ribosome,ENSG00000184735,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",80.2444484215544,4.36516046248533e-14,1.74909554642642e-13,up,FALSE
+Extracellular,ENSG00000185739,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",74.5574595568622,4.73407024625804e-14,1.88383347040751e-13,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000185739,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",74.5574595568622,4.73407024625804e-14,1.88383347040751e-13,down,FALSE
+Nucleus,ENSG00000226650,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.9437908601587,5.01789236559505e-14,1.9830985581838e-13,down,FALSE
+Cytoskeleton,ENSG00000226650,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.9437908601587,5.01789236559505e-14,1.9830985581838e-13,down,FALSE
+Nucleus,ENSG00000112531,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.8834379923519,5.16021768873907e-14,2.02547320163431e-13,up,FALSE
+Ribosome,ENSG00000112531,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.8834379923519,5.16021768873907e-14,2.02547320163431e-13,up,FALSE
+Plasma membrane,ENSG00000129244,2,1,1,0,0,1,"Homo sapiens,Mus musculus",68.2036805497947,5.43361460502657e-14,2.12555635735616e-13,up,FALSE
+Mitochondrion,ENSG00000119013,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.5695627661279,5.96798177104836e-14,2.31109092744625e-13,down,FALSE
+Membrane transport,ENSG00000119013,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.5695627661279,5.96798177104836e-14,2.31109092744625e-13,down,FALSE
+Other,ENSG00000119013,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.5695627661279,5.96798177104836e-14,2.31109092744625e-13,down,FALSE
+Cytoskeleton,ENSG00000150275,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.2188083894811,7.0207774046746e-14,2.68557397885574e-13,down,FALSE
+Plasma membrane,ENSG00000150275,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",79.2188083894811,7.0207774046746e-14,2.68557397885574e-13,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000166317,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",73.723409334106,7.02810521329664e-14,2.68557397885574e-13,down,FALSE
+Cytoskeleton,ENSG00000166317,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",73.723409334106,7.02810521329664e-14,2.68557397885574e-13,down,FALSE
+Nucleus,ENSG00000149136,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",89.1091672876424,7.34265496473969e-14,2.79650951462363e-13,up,FALSE
+Mitochondrion,ENSG00000004779,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",88.664554665532,8.94949886297198e-14,3.37507244701623e-13,down,FALSE
+Membrane transport,ENSG00000004779,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",88.664554665532,8.94949886297198e-14,3.37507244701623e-13,down,FALSE
+Other,ENSG00000004779,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",88.664554665532,8.94949886297198e-14,3.37507244701623e-13,down,FALSE
+Mitochondrion,ENSG00000178741,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",83.5404874457094,1.01213131140322e-13,3.77993376491688e-13,down,FALSE
+Membrane transport,ENSG00000178741,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",83.5404874457094,1.01213131140322e-13,3.77993376491688e-13,down,FALSE
+Other,ENSG00000178741,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",83.5404874457094,1.01213131140322e-13,3.77993376491688e-13,down,FALSE
+Lipid particle,ENSG00000100341,5,2,1,0,1,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",83.4859027415488,1.0374873398507e-13,3.86213029092808e-13,mixed,FALSE
+Nucleus,ENSG00000151503,4,1,0,0,1,0,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",77.7324126922768,1.39674530111659e-13,5.18277838420755e-13,mixed,FALSE
+Nucleus,ENSG00000154839,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",72.0897502452629,1.52283292965666e-13,5.59665350580824e-13,down,FALSE
+Cytoskeleton,ENSG00000154839,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",72.0897502452629,1.52283292965666e-13,5.59665350580824e-13,down,FALSE
+Plasma membrane,ENSG00000154839,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",72.0897502452629,1.52283292965666e-13,5.59665350580824e-13,down,FALSE
+Extracellular,ENSG00000110244,2,1,1,0,0,1,"Homo sapiens,Mus musculus",65.0393558594951,2.52454524733412e-13,9.21938359311258e-13,up,FALSE
+Lipid particle,ENSG00000110244,2,1,1,0,0,1,"Homo sapiens,Mus musculus",65.0393558594951,2.52454524733412e-13,9.21938359311258e-13,up,FALSE
+Plasma membrane,ENSG00000082482,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",70.9891274100452,2.56247219822363e-13,9.32836882255543e-13,mixed,FALSE
+Nucleus,ENSG00000166508,6,2,0,2,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",85.9019651938488,3.05236540011146e-13,1.10768228670711e-12,down,FALSE
+Plasma membrane,ENSG00000162692,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",64.2137967802502,3.76764255934124e-13,1.36296536472721e-12,mixed,FALSE
+Plasma membrane,ENSG00000213853,2,1,0,1,0,1,"Homo sapiens,Mus musculus",64.1160657136941,3.95048335778237e-13,1.41750755032562e-12,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000171992,2,0,0,0,0,,"Homo sapiens,Mus musculus",64.1135715974718,3.95526370194844e-13,1.41750755032562e-12,ns,FALSE
+Cytoskeleton,ENSG00000171992,2,0,0,0,0,,"Homo sapiens,Mus musculus",64.1135715974718,3.95526370194844e-13,1.41750755032562e-12,ns,FALSE
+Nucleus,ENSG00000167088,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",85.1225169948885,4.31115693470769e-13,1.53551700699157e-12,up,FALSE
+Ribosome,ENSG00000167088,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",85.1225169948885,4.31115693470769e-13,1.53551700699157e-12,up,FALSE
+Mitochondrion,ENSG00000140279,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",75.1761058837215,4.54791728896494e-13,1.61486047737401e-12,down,FALSE
+Extracellular,ENSG00000188107,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",63.7292255966771,4.76544008495366e-13,1.6817485804393e-12,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000188107,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",63.7292255966771,4.76544008495366e-13,1.6817485804393e-12,down,FALSE
+Mitochondrion,ENSG00000147123,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",74.865925235859,5.24720060341309e-13,1.83493015040567e-12,down,FALSE
+Membrane transport,ENSG00000147123,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",74.865925235859,5.24720060341309e-13,1.83493015040567e-12,down,FALSE
+Other,ENSG00000147123,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",74.865925235859,5.24720060341309e-13,1.83493015040567e-12,down,FALSE
+Mitochondrion,ENSG00000110955,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",84.5828771389475,5.47411227636294e-13,1.90274866473579e-12,down,FALSE
+Membrane transport,ENSG00000110955,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",84.5828771389475,5.47411227636294e-13,1.90274866473579e-12,down,FALSE
+Nucleus,ENSG00000183598,2,1,0,1,0,1,"Homo sapiens,Mus musculus",62.9316008032152,7.01459548263678e-13,2.43088383992878e-12,down,FALSE
+Plasma membrane,ENSG00000116678,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",62.8201935379937,7.4036967986323e-13,2.55804374419811e-12,mixed,FALSE
+Plasma membrane,ENSG00000155066,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",74.0471945898709,7.65209471572957e-13,2.62813014939045e-12,mixed,FALSE
+Extracellular,ENSG00000155066,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",74.0471945898709,7.65209471572957e-13,2.62813014939045e-12,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000004776,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",68.6201275590012,7.84230669728918e-13,2.6775212806721e-12,ns,FALSE
+Cytoskeleton,ENSG00000004776,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",68.6201275590012,7.84230669728918e-13,2.6775212806721e-12,ns,FALSE
+Extracellular,ENSG00000128422,2,1,1,0,0,1,"Homo sapiens,Mus musculus",61.8376036686361,1.1917401107398e-12,4.04490614056978e-12,up,FALSE
+Cytoskeleton,ENSG00000128422,2,1,1,0,0,1,"Homo sapiens,Mus musculus",61.8376036686361,1.1917401107398e-12,4.04490614056978e-12,up,FALSE
+Nucleus,ENSG00000187189,2,1,0,1,0,1,"Homo sapiens,Mus musculus",61.7502208791563,1.24325898373378e-12,4.20739257251842e-12,down,FALSE
+Mitochondrion,ENSG00000164405,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.7905065931349,1.35884499587582e-12,4.57174088991455e-12,down,FALSE
+Membrane transport,ENSG00000164405,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.7905065931349,1.35884499587582e-12,4.57174088991455e-12,down,FALSE
+Nucleus,ENSG00000136826,2,2,0,2,0,1,"Homo sapiens,Mus musculus",61.3164365987538,1.53388018455014e-12,5.11382779308448e-12,down,FALSE
+Mitochondrion,ENSG00000131055,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.5156599881623,1.53769345251327e-12,5.11382779308448e-12,down,FALSE
+Membrane transport,ENSG00000131055,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.5156599881623,1.53769345251327e-12,5.11382779308448e-12,down,FALSE
+Other,ENSG00000131055,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.5156599881623,1.53769345251327e-12,5.11382779308448e-12,down,FALSE
+Nucleus,ENSG00000094804,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.21519563191,1.76015627574722e-12,5.82011559373149e-12,down,FALSE
+Plasma membrane,ENSG00000094804,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.21519563191,1.76015627574722e-12,5.82011559373149e-12,down,FALSE
+Mitochondrion,ENSG00000127540,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",60.5704499763347,2.20106661693222e-12,7.21599680664711e-12,down,FALSE
+Membrane transport,ENSG00000127540,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",60.5704499763347,2.20106661693222e-12,7.21599680664711e-12,down,FALSE
+Other,ENSG00000127540,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",60.5704499763347,2.20106661693222e-12,7.21599680664711e-12,down,FALSE
+Lipid particle,ENSG00000100344,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",66.3937313934097,2.23922759122314e-12,7.32030776280878e-12,mixed,FALSE
+Nucleus,ENSG00000168496,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",81.3785869391656,2.25124738173718e-12,7.33881208622798e-12,mixed,FALSE
+Ribosome,ENSG00000105372,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",80.8849747818342,2.79735835849439e-12,9.09338463578177e-12,down,FALSE
+Nucleus,ENSG00000072571,2,1,0,1,0,1,"Homo sapiens,Mus musculus",59.9513249919805,2.96999549301964e-12,9.62745730040637e-12,down,FALSE
+Plasma membrane,ENSG00000185499,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",65.6854362526308,3.12513114289896e-12,1.0101964534749e-11,mixed,FALSE
+Extracellular,ENSG00000178726,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",70.3436241297019,4.19805962829393e-12,1.34945983594741e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000178726,4,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",70.3436241297019,4.19805962829393e-12,1.34945983594741e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000248746,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",58.625258893676,5.64040633535345e-12,1.80305509999941e-11,mixed,FALSE
+Cytoskeleton,ENSG00000248746,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",58.625258893676,5.64040633535345e-12,1.80305509999941e-11,mixed,FALSE
+Nucleus,ENSG00000129810,2,1,0,1,0,1,"Homo sapiens,Mus musculus",58.5205452108529,5.93332181652704e-12,1.89145120891497e-11,down,FALSE
+Plasma membrane,ENSG00000135218,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",64.3126705522888,5.95907635956546e-12,1.89442813193899e-11,down,FALSE
+Other,ENSG00000134375,4,1,1,0,0,1,"Arabidopsis thaliana,Drosophila melanogaster,Homo sapiens,Mus musculus",69.4037071477577,6.45858734227974e-12,2.04758510796451e-11,up,FALSE
+Plasma membrane,ENSG00000165029,2,1,1,0,0,1,"Homo sapiens,Mus musculus",58.1592708006259,7.06557283566793e-12,2.23388248009885e-11,up,FALSE
+Extracellular,ENSG00000163661,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",57.661613169161,8.9867940221963e-12,2.82582024567153e-11,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000163661,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",57.661613169161,8.9867940221963e-12,2.82582024567153e-11,mixed,FALSE
+Extracellular,ENSG00000081052,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",63.2631042692148,9.75538891831337e-12,3.04262670587395e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000081052,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",63.2631042692148,9.75538891831337e-12,3.04262670587395e-11,down,FALSE
+Cytoskeleton,ENSG00000081052,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",63.2631042692148,9.75538891831337e-12,3.04262670587395e-11,down,FALSE
+Nucleus,ENSG00000146918,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",62.9686005519204,1.12013541803228e-11,3.4841948043376e-11,mixed,FALSE
+Nucleus,ENSG00000101868,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",73.0435501369332,1.1419083142513e-11,3.54237149098388e-11,down,FALSE
+Mitochondrion,ENSG00000150768,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",77.6312121530543,1.16562124897896e-11,3.6062383949644e-11,down,FALSE
+Extracellular,ENSG00000091128,3,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",62.8591427315977,1.17916822167031e-11,3.62869367415344e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000091128,3,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",62.8591427315977,1.17916822167031e-11,3.62869367415344e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000107438,2,1,0,1,0,1,"Homo sapiens,Mus musculus",57.021866796618,1.22417046474882e-11,3.73728231830725e-11,down,FALSE
+Cytoskeleton,ENSG00000107438,2,1,0,1,0,1,"Homo sapiens,Mus musculus",57.021866796618,1.22417046474882e-11,3.73728231830725e-11,down,FALSE
+Plasma membrane,ENSG00000107438,2,1,0,1,0,1,"Homo sapiens,Mus musculus",57.021866796618,1.22417046474882e-11,3.73728231830725e-11,down,FALSE
+Nucleus,ENSG00000051341,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",67.8797853653869,1.29715413950205e-11,3.94964611341786e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000140416,2,0,0,0,0,,"Homo sapiens,Mus musculus",56.8556003525401,1.32654213542574e-11,4.01359580200082e-11,ns,FALSE
+Cytoskeleton,ENSG00000140416,2,0,0,0,0,,"Homo sapiens,Mus musculus",56.8556003525401,1.32654213542574e-11,4.01359580200082e-11,ns,FALSE
+Nucleus,ENSG00000119969,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",62.6048236621181,1.32859063809733e-11,4.01359580200082e-11,down,FALSE
+Mitochondrion,ENSG00000241468,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",67.6309834650478,1.45337930640995e-11,4.3677076031174e-11,down,FALSE
+Membrane transport,ENSG00000241468,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",67.6309834650478,1.45337930640995e-11,4.3677076031174e-11,down,FALSE
+Extracellular,ENSG00000140450,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",62.0701573146829,1.70718728976689e-11,5.11712761659999e-11,mixed,FALSE
+Nucleus,ENSG00000134690,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",62.0158921572214,1.75117455881461e-11,5.20839031152593e-11,down,FALSE
+Cytoskeleton,ENSG00000134690,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",62.0158921572214,1.75117455881461e-11,5.20839031152593e-11,down,FALSE
+Plasma membrane,ENSG00000134690,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",62.0158921572214,1.75117455881461e-11,5.20839031152593e-11,down,FALSE
+Plasma membrane,ENSG00000064651,2,1,1,0,0,1,"Homo sapiens,Mus musculus",55.9594278558525,2.04483716516845e-11,6.06617503497273e-11,up,FALSE
+Mitochondrion,ENSG00000099795,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",66.7337424003196,2.18949404144413e-11,6.44560235670033e-11,down,FALSE
+Membrane transport,ENSG00000099795,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",66.7337424003196,2.18949404144413e-11,6.44560235670033e-11,down,FALSE
+Other,ENSG00000099795,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",66.7337424003196,2.18949404144413e-11,6.44560235670033e-11,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000130598,2,0,0,0,0,,"Homo sapiens,Mus musculus",55.7023200111095,2.31503826761857e-11,6.78059431683205e-11,ns,FALSE
+Cytoskeleton,ENSG00000130598,2,0,0,0,0,,"Homo sapiens,Mus musculus",55.7023200111095,2.31503826761857e-11,6.78059431683205e-11,ns,FALSE
+Nucleus,ENSG00000117399,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",60.9259618625498,2.91812380460994e-11,8.50382543060574e-11,down,FALSE
+Proteasome,ENSG00000117399,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",60.9259618625498,2.91812380460994e-11,8.50382543060574e-11,down,FALSE
+Nucleus,ENSG00000103479,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.9486822174921,3.13239759753749e-11,9.10525649259008e-11,up,FALSE
+Plasma membrane,ENSG00000125257,4,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",65.779512219825,3.38352721891344e-11,9.81052866991486e-11,down,FALSE
+Nucleus,ENSG00000137807,4,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.680494874829,3.53972634357581e-11,1.01866438914875e-10,mixed,FALSE
+Cytoskeleton,ENSG00000137807,4,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.680494874829,3.53972634357581e-11,1.01866438914875e-10,mixed,FALSE
+Plasma membrane,ENSG00000137807,4,2,0,1,1,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.680494874829,3.53972634357581e-11,1.01866438914875e-10,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000129170,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.6657936995704,3.5635222892893e-11,1.02042300790071e-10,down,FALSE
+Cytoskeleton,ENSG00000129170,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",65.6657936995704,3.5635222892893e-11,1.02042300790071e-10,down,FALSE
+Ribosome,ENSG00000231500,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",70.4171538288908,3.68300252662019e-11,1.05202596923755e-10,down,FALSE
+Plasma membrane,ENSG00000125637,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",60.2226721733128,4.05572671085488e-11,1.15563175909297e-10,up,FALSE
+Nucleus,ENSG00000122966,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",60.0505436151005,4.39584408169608e-11,1.24457360090131e-10,down,FALSE
+Cytoskeleton,ENSG00000122966,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",60.0505436151005,4.39584408169608e-11,1.24457360090131e-10,down,FALSE
+Nucleus,ENSG00000170734,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",74.5855298777296,4.40022555604624e-11,1.24457360090131e-10,up,FALSE
+Nucleus,ENSG00000135476,5,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",69.9867724861319,4.45993194518976e-11,1.2583768862467e-10,down,FALSE
+Nucleus,ENSG00000112118,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",69.653570797919,5.17180740278305e-11,1.45567457141747e-10,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000197616,2,1,0,1,0,1,"Homo sapiens,Mus musculus",53.7775370188968,5.85848805307772e-11,1.63920561578885e-10,down,FALSE
+Cytoskeleton,ENSG00000197616,2,1,0,1,0,1,"Homo sapiens,Mus musculus",53.7775370188968,5.85848805307772e-11,1.63920561578885e-10,down,FALSE
+Plasma membrane,ENSG00000101204,2,1,1,0,0,1,"Homo sapiens,Mus musculus",53.7727820146224,5.87193256998289e-11,1.63920561578885e-10,up,FALSE
+Cytoskeleton,ENSG00000167553,3,1,0,0,1,0,"Caenorhabditis elegans,Homo sapiens,Mus musculus",59.4282398472875,5.88068565802932e-11,1.63920561578885e-10,mixed,FALSE
+Mitochondrion,ENSG00000154723,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",59.3553529674059,6.08450172886447e-11,1.68786418151673e-10,down,FALSE
+Membrane transport,ENSG00000154723,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",59.3553529674059,6.08450172886447e-11,1.68786418151673e-10,down,FALSE
+Nucleus,ENSG00000087586,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",59.2015649872302,6.5379577775885e-11,1.8049768601285e-10,down,FALSE
+Cytoskeleton,ENSG00000087586,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",59.2015649872302,6.5379577775885e-11,1.8049768601285e-10,down,FALSE
+Plasma membrane,ENSG00000072274,4,2,2,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",64.2125827070543,6.90567539092807e-11,1.89741652407881e-10,up,FALSE
+Extracellular,ENSG00000072274,4,2,2,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",64.2125827070543,6.90567539092807e-11,1.89741652407881e-10,up,FALSE
+Nucleus,ENSG00000177602,5,3,1,2,0,0.666666666666667,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",68.9510080127657,7.0652478039485e-11,1.93664987310132e-10,mixed,FALSE
+Mitochondrion,ENSG00000173915,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.9996553641953,7.18487155495364e-11,1.96012807905827e-10,down,FALSE
+Membrane transport,ENSG00000173915,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.9996553641953,7.18487155495364e-11,1.96012807905827e-10,down,FALSE
+Cytoskeleton,ENSG00000118094,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",68.7593565926951,7.69231447130933e-11,2.09361577827617e-10,up,FALSE
+Nucleus,ENSG00000178999,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.7079998405984,8.23365714191043e-11,2.23043200510907e-10,mixed,FALSE
+Cytoskeleton,ENSG00000178999,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.7079998405984,8.23365714191043e-11,2.23043200510907e-10,mixed,FALSE
+Nucleus,ENSG00000180543,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",68.3583449484403,9.18941023429619e-11,2.48350805863649e-10,up,FALSE
+Extracellular,ENSG00000113296,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.1072397799201,1.08997703671115e-10,2.93201282136285e-10,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000113296,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",58.1072397799201,1.08997703671115e-10,2.93201282136285e-10,down,FALSE
+Nucleus,ENSG00000140451,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",67.9013486480021,1.12520590250903e-10,3.01878547806912e-10,down,FALSE
+Plasma membrane,ENSG00000167306,2,1,0,1,0,1,"Homo sapiens,Mus musculus",52.4171813189174,1.12839134164124e-10,3.01878547806912e-10,down,FALSE
+Extracellular,ENSG00000128606,2,1,1,0,0,1,"Homo sapiens,Mus musculus",52.4092708747201,1.1326985372651e-10,3.01878547806912e-10,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000128606,2,1,1,0,0,1,"Homo sapiens,Mus musculus",52.4092708747201,1.1326985372651e-10,3.01878547806912e-10,up,FALSE
+Nucleus,ENSG00000164080,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",63.1100985095367,1.13965329218583e-10,3.03032234834666e-10,up,FALSE
+Nucleus,ENSG00000143401,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",63.0436956490747,1.17453266141707e-10,3.11588664660989e-10,mixed,FALSE
+Cytoskeleton,ENSG00000170412,2,1,1,0,0,1,"Homo sapiens,Mus musculus",51.8626503318292,1.47375840712528e-10,3.88291598589629e-10,up,FALSE
+Plasma membrane,ENSG00000170412,2,1,1,0,0,1,"Homo sapiens,Mus musculus",51.8626503318292,1.47375840712528e-10,3.88291598589629e-10,up,FALSE
+Extracellular,ENSG00000170412,2,1,1,0,0,1,"Homo sapiens,Mus musculus",51.8626503318292,1.47375840712528e-10,3.88291598589629e-10,up,FALSE
+Mitochondrion,ENSG00000204370,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Saccharomyces cerevisiae",62.0152022894265,1.87272647293624e-10,4.91165079492824e-10,down,FALSE
+Other,ENSG00000204370,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Saccharomyces cerevisiae",62.0152022894265,1.87272647293624e-10,4.91165079492824e-10,down,FALSE
+Nucleus,ENSG00000126787,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",56.6442248521427,2.15639440629514e-10,5.64280985230067e-10,down,FALSE
+Nucleus,ENSG00000170345,2,2,0,1,1,0.5,"Homo sapiens,Mus musculus",50.7767896250428,2.48526785006955e-10,6.48868574429923e-10,mixed,FALSE
+Extracellular,ENSG00000119862,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",61.0853328730896,2.85343245106517e-10,7.41635371290362e-10,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000119862,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",61.0853328730896,2.85343245106517e-10,7.41635371290362e-10,up,FALSE
+Nucleus,ENSG00000169679,2,1,0,1,0,1,"Homo sapiens,Mus musculus",50.2949341865474,3.13345478744924e-10,8.12585803307062e-10,down,FALSE
+Plasma membrane,ENSG00000198719,2,0,0,0,0,,"Homo sapiens,Mus musculus",49.9961752463736,3.617511248967e-10,9.36010758140788e-10,ns,FALSE
+Nucleus,ENSG00000111445,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",69.3953175116991,4.15539298602357e-10,1.07277930780116e-09,down,FALSE
+Nucleus,ENSG00000188486,4,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",60.1091766559713,4.43672001415288e-10,1.14285153935992e-09,down,FALSE
+Nucleus,ENSG00000100297,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",64.606937854524,4.81912417011715e-10,1.23859004283189e-09,mixed,FALSE
+Nucleus,ENSG00000117650,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.8157860778421,5.0654155270287e-10,1.29611740979848e-09,down,FALSE
+Cytoskeleton,ENSG00000117650,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.8157860778421,5.0654155270287e-10,1.29611740979848e-09,down,FALSE
+Mitochondrion,ENSG00000249209,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.6293580983575,5.51024167317902e-10,1.40371277943677e-09,down,FALSE
+Membrane transport,ENSG00000249209,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.6293580983575,5.51024167317902e-10,1.40371277943677e-09,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000137267,2,1,0,0,1,0,"Homo sapiens,Mus musculus",48.7108415521942,6.70881744899173e-10,1.69408650681323e-09,mixed,FALSE
+Cytoskeleton,ENSG00000137267,2,1,0,0,1,0,"Homo sapiens,Mus musculus",48.7108415521942,6.70881744899173e-10,1.69408650681323e-09,mixed,FALSE
+Nucleus,ENSG00000137267,2,1,0,0,1,0,"Homo sapiens,Mus musculus",48.7108415521942,6.70881744899173e-10,1.69408650681323e-09,mixed,FALSE
+Plasma membrane,ENSG00000137267,2,1,0,0,1,0,"Homo sapiens,Mus musculus",48.7108415521942,6.70881744899173e-10,1.69408650681323e-09,mixed,FALSE
+Ribosome,ENSG00000197958,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",63.5255382023003,7.7524369698168e-10,1.95334328890144e-09,down,FALSE
+Mitochondrion,ENSG00000116459,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",63.5103548150155,7.80429872418724e-10,1.9578610277635e-09,down,FALSE
+Membrane transport,ENSG00000116459,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",63.5103548150155,7.80429872418724e-10,1.9578610277635e-09,down,FALSE
+Plasma membrane,ENSG00000185559,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",53.8550444827879,7.89072604624378e-10,1.9752489929209e-09,mixed,FALSE
+Nucleus,ENSG00000102974,2,1,0,1,0,1,"Homo sapiens,Mus musculus",48.3468490729717,7.9901956762622e-10,1.99486090363705e-09,down,FALSE
+Nucleus,ENSG00000153044,2,1,0,1,0,1,"Homo sapiens,Mus musculus",48.3433463737701,8.00364470003428e-10,1.99486090363705e-09,down,FALSE
+Nucleus,ENSG00000076003,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",63.4314890617065,8.07928578727215e-10,2.00937409450691e-09,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000151929,2,0,0,0,0,,"Homo sapiens,Mus musculus",48.1044440523465,8.9763328562094e-10,2.22289444550765e-09,ns,FALSE
+Cytoskeleton,ENSG00000151929,2,0,0,0,0,,"Homo sapiens,Mus musculus",48.1044440523465,8.9763328562094e-10,2.22289444550765e-09,ns,FALSE
+Nucleus,ENSG00000105325,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",67.5355493481981,9.23297328092346e-10,2.27667759961232e-09,down,FALSE
+Proteasome,ENSG00000105325,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",67.5355493481981,9.23297328092346e-10,2.27667759961232e-09,down,FALSE
+Nucleus,ENSG00000112029,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",53.4668378792588,9.44854164462693e-10,2.32486504432825e-09,down,FALSE
+Nucleus,ENSG00000114346,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",58.390576762392,9.63322571021932e-10,2.3602425625463e-09,down,FALSE
+Cytoskeleton,ENSG00000114346,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",58.390576762392,9.63322571021932e-10,2.3602425625463e-09,down,FALSE
+Plasma membrane,ENSG00000161981,2,1,0,1,0,1,"Homo sapiens,Mus musculus",47.8804612838539,9.99517499541369e-10,2.4437355815058e-09,down,FALSE
+Lipid particle,ENSG00000110721,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",53.3140308847376,1.01426938985364e-09,2.4745599913131e-09,up,FALSE
+Nucleus,ENSG00000138376,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",53.1206113391747,1.10946922888979e-09,2.69542629502909e-09,mixed,FALSE
+Proteasome,ENSG00000138376,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",53.1206113391747,1.10946922888979e-09,2.69542629502909e-09,mixed,FALSE
+Nucleus,ENSG00000198056,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",62.4875060601577,1.22232686872866e-09,2.96337228259007e-09,mixed,FALSE
+Nucleus,ENSG00000167513,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",57.8448308095484,1.23162451154688e-09,2.97965343045095e-09,down,FALSE
+Plasma membrane,ENSG00000074410,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",47.0439099458607,1.49313763567739e-09,3.60477161416675e-09,mixed,FALSE
+Nucleus,ENSG00000088325,2,1,0,1,0,1,"Homo sapiens,Mus musculus",46.9228968968287,1.58235735833759e-09,3.79634177031513e-09,down,FALSE
+Cytoskeleton,ENSG00000088325,2,1,0,1,0,1,"Homo sapiens,Mus musculus",46.9228968968287,1.58235735833759e-09,3.79634177031513e-09,down,FALSE
+Plasma membrane,ENSG00000088325,2,1,0,1,0,1,"Homo sapiens,Mus musculus",46.9228968968287,1.58235735833759e-09,3.79634177031513e-09,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000163380,2,0,0,0,0,,"Homo sapiens,Mus musculus",46.8836509572935,1.61242004194245e-09,3.85244871304676e-09,ns,FALSE
+Cytoskeleton,ENSG00000163380,2,0,0,0,0,,"Homo sapiens,Mus musculus",46.8836509572935,1.61242004194245e-09,3.85244871304676e-09,ns,FALSE
+Plasma membrane,ENSG00000162365,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",52.3078820438135,1.61700768765925e-09,3.85542742057597e-09,up,FALSE
+Nucleus,ENSG00000118193,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",57.0245507647883,1.78098377972847e-09,4.2289203329355e-09,mixed,FALSE
+Cytoskeleton,ENSG00000118193,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",57.0245507647883,1.78098377972847e-09,4.2289203329355e-09,mixed,FALSE
+Nucleus,ENSG00000137812,2,1,0,1,0,1,"Homo sapiens,Mus musculus",46.6361852896592,1.81555974333997e-09,4.3021682624524e-09,down,FALSE
+Membrane transport,ENSG00000105675,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",56.9475536760757,1.84366914268695e-09,4.35982416119005e-09,mixed,FALSE
+Nucleus,ENSG00000174442,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",56.9428779969799,1.84754572284308e-09,4.36005677742518e-09,mixed,FALSE
+Membrane transport,ENSG00000182256,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",56.9193377864295,1.86718642501152e-09,4.39741456012918e-09,down,FALSE
+Nucleus,ENSG00000049541,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",61.2605467039599,2.09098828238874e-09,4.91446125840448e-09,up,FALSE
+Plasma membrane,ENSG00000007062,2,1,0,1,0,1,"Homo sapiens,Mus musculus",46.3022224029777,2.13077343105189e-09,4.9977897142965e-09,down,FALSE
+Extracellular,ENSG00000215853,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",46.1283224025789,2.31596924962523e-09,5.42115317255075e-09,mixed,FALSE
+Mitochondrion,ENSG00000131828,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",61.0119653342834,2.33084028530646e-09,5.44491839927865e-09,down,FALSE
+Nucleus,ENSG00000131153,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",60.7851064206031,2.57352791579245e-09,5.99969942388785e-09,mixed,FALSE
+Extracellular,ENSG00000115705,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",51.1508861661138,2.76230558176542e-09,6.4268158091881e-09,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000196230,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.6044584380128,2.97670165066829e-09,6.87022740974242e-09,down,FALSE
+Cytoskeleton,ENSG00000196230,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.6044584380128,2.97670165066829e-09,6.87022740974242e-09,down,FALSE
+Nucleus,ENSG00000196230,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.6044584380128,2.97670165066829e-09,6.87022740974242e-09,down,FALSE
+Plasma membrane,ENSG00000196230,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.6044584380128,2.97670165066829e-09,6.87022740974242e-09,down,FALSE
+Plasma membrane,ENSG00000142583,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",50.6425285074616,3.49401337550195e-09,8.04808669726398e-09,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000128872,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.049911347867,3.88208338441025e-09,8.89967920869437e-09,down,FALSE
+Cytoskeleton,ENSG00000128872,2,1,0,1,0,1,"Homo sapiens,Mus musculus",45.049911347867,3.88208338441025e-09,8.89967920869437e-09,down,FALSE
+Ribosome,ENSG00000125743,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.8394438273183,3.88686163014035e-09,8.89967920869437e-09,up,FALSE
+Nucleus,ENSG00000161860,2,1,0,1,0,1,"Homo sapiens,Mus musculus",44.9774983340332,4.01902050547619e-09,9.18405873924659e-09,down,FALSE
+Nucleus,ENSG00000093009,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",59.6707734794285,4.18308319588222e-09,9.54007511471954e-09,down,FALSE
+Plasma membrane,ENSG00000001626,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",55.054766643424,4.30803457711752e-09,9.8056645009736e-09,down,FALSE
+Cytoskeleton,ENSG00000138587,3,2,0,2,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",50.1433628530973,4.40000976608849e-09,9.99529777572071e-09,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000169271,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",49.8500615665072,5.03791601877143e-09,1.13995197758083e-08,up,FALSE
+Cytoskeleton,ENSG00000169271,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",49.8500615665072,5.03791601877143e-09,1.13995197758083e-08,up,FALSE
+Extracellular,ENSG00000130702,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",54.3967965543914,5.78204980735345e-09,1.30321981986052e-08,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000130702,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",54.3967965543914,5.78204980735345e-09,1.30321981986052e-08,down,FALSE
+Extracellular,ENSG00000049192,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",49.2759308287837,6.56545625082928e-09,1.47403434113949e-08,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000049192,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",49.2759308287837,6.56545625082928e-09,1.47403434113949e-08,up,FALSE
+Nucleus,ENSG00000171566,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",58.2864663348503,7.6346980496377e-09,1.71076534937513e-08,mixed,FALSE
+Nucleus,ENSG00000149554,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",58.0656020773176,8.40230421958075e-09,1.87911997468918e-08,mixed,FALSE
+Cytoskeleton,ENSG00000111291,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",48.6508883710667,8.75698421607101e-09,1.94712134592407e-08,mixed,FALSE
+Plasma membrane,ENSG00000111291,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",48.6508883710667,8.75698421607101e-09,1.94712134592407e-08,mixed,FALSE
+Extracellular,ENSG00000111291,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",48.6508883710667,8.75698421607101e-09,1.94712134592407e-08,mixed,FALSE
+Nucleus,ENSG00000184260,2,1,0,1,0,1,"Homo sapiens,Mus musculus",43.2002731982862,9.4035303533543e-09,2.08686038995594e-08,down,FALSE
+Nucleus,ENSG00000012048,2,2,0,2,0,1,"Homo sapiens,Mus musculus",43.0629757012472,1.00411512821799e-08,2.21982539839764e-08,down,FALSE
+Proteasome,ENSG00000012048,2,2,0,2,0,1,"Homo sapiens,Mus musculus",43.0629757012472,1.00411512821799e-08,2.21982539839764e-08,down,FALSE
+Plasma membrane,ENSG00000105855,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",52.9235287044445,1.11583963883686e-08,2.46210122986182e-08,up,FALSE
+Nucleus,ENSG00000168298,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",42.7977364196098,1.13976598541648e-08,2.51009531902789e-08,mixed,FALSE
+Extracellular,ENSG00000188611,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",48.0062564208522,1.17822087251971e-08,2.58984168931e-08,up,FALSE
+Ribosome,ENSG00000128739,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",61.486087423034,1.20810489551647e-08,2.65048108255894e-08,up,FALSE
+Nucleus,ENSG00000185163,5,2,2,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",56.9272662361734,1.3755187952378e-08,3.00634221534927e-08,up,FALSE
+Ribosome,ENSG00000185163,5,2,2,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",56.9272662361734,1.3755187952378e-08,3.00634221534927e-08,up,FALSE
+Nucleus,ENSG00000136492,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",47.6625675520098,1.3799936414862e-08,3.01042091167311e-08,down,FALSE
+Nucleus,ENSG00000106462,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",52.2621282654269,1.49789711923905e-08,3.26145901056956e-08,up,FALSE
+Plasma membrane,ENSG00000170482,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",47.0967761002128,1.78978577460069e-08,3.88966625967833e-08,down,FALSE
+Plasma membrane,ENSG00000169860,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.7902427905021,1.84378992178898e-08,3.99949919124902e-08,down,FALSE
+Nucleus,ENSG00000105671,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",56.0081157965197,2.04573509875572e-08,4.42093315349083e-08,up,FALSE
+Ribosome,ENSG00000105671,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",56.0081157965197,2.04573509875572e-08,4.42093315349083e-08,up,FALSE
+Plasma membrane,ENSG00000106278,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",51.5389303927046,2.06581166626577e-08,4.43937926046685e-08,up,FALSE
+Extracellular,ENSG00000106278,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",51.5389303927046,2.06581166626577e-08,4.43937926046685e-08,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000106278,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",51.5389303927046,2.06581166626577e-08,4.43937926046685e-08,up,FALSE
+Plasma membrane,ENSG00000101187,2,1,1,0,0,1,"Homo sapiens,Mus musculus",41.5297672865756,2.08776669905285e-08,4.47822076339588e-08,up,FALSE
+Extracellular,ENSG00000188153,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",46.7124915288923,2.13517520885927e-08,4.5545142163098e-08,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000188153,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",46.7124915288923,2.13517520885927e-08,4.5545142163098e-08,ns,FALSE
+Cytoskeleton,ENSG00000188153,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",46.7124915288923,2.13517520885927e-08,4.5545142163098e-08,ns,FALSE
+Nucleus,ENSG00000101447,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.4515204425919,2.16716353571883e-08,4.60572140003596e-08,down,FALSE
+Plasma membrane,ENSG00000101447,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.4515204425919,2.16716353571883e-08,4.60572140003596e-08,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000105048,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.3473329519772,2.27757724269187e-08,4.82261309736957e-08,down,FALSE
+Cytoskeleton,ENSG00000105048,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.3473329519772,2.27757724269187e-08,4.82261309736957e-08,down,FALSE
+Nucleus,ENSG00000128944,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.2547223246017,2.38042445734655e-08,5.02195580215341e-08,down,FALSE
+Cytoskeleton,ENSG00000128944,2,1,0,1,0,1,"Homo sapiens,Mus musculus",41.2547223246017,2.38042445734655e-08,5.02195580215341e-08,down,FALSE
+Cytoskeleton,ENSG00000138119,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",46.4519161328703,2.40638912289458e-08,5.0674690653656e-08,up,FALSE
+Plasma membrane,ENSG00000147614,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",55.4184894778461,2.63757752268183e-08,5.54419756133848e-08,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000072195,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",46.1728260705244,2.73501941568341e-08,5.72815318638594e-08,down,FALSE
+Cytoskeleton,ENSG00000072195,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",46.1728260705244,2.73501941568341e-08,5.72815318638594e-08,down,FALSE
+Mitochondrion,ENSG00000127184,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",50.7404319793863,2.94416223691775e-08,6.14387562640702e-08,down,FALSE
+Membrane transport,ENSG00000127184,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",50.7404319793863,2.94416223691775e-08,6.14387562640702e-08,down,FALSE
+Extracellular,ENSG00000197467,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",45.9008936961479,3.09814164536122e-08,6.4419017274718e-08,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000197467,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",45.9008936961479,3.09814164536122e-08,6.4419017274718e-08,down,FALSE
+Extracellular,ENSG00000158859,2,1,1,0,0,1,"Homo sapiens,Mus musculus",40.6616112269096,3.15827954421422e-08,6.54336551889266e-08,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000158859,2,1,1,0,0,1,"Homo sapiens,Mus musculus",40.6616112269096,3.15827954421422e-08,6.54336551889266e-08,up,FALSE
+Nucleus,ENSG00000163918,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",54.8028912582204,3.43739001707831e-08,7.10886752635909e-08,mixed,FALSE
+Nucleus,ENSG00000132749,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",50.329171798596,3.5326193410183e-08,7.29274189541167e-08,down,FALSE
+Cytoskeleton,ENSG00000107796,2,1,1,0,0,1,"Homo sapiens,Mus musculus",40.3518495019511,3.66057743608154e-08,7.52995786316951e-08,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000107796,2,1,1,0,0,1,"Homo sapiens,Mus musculus",40.3518495019511,3.66057743608154e-08,7.52995786316951e-08,up,FALSE
+Membrane transport,ENSG00000069849,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",45.2934329592278,4.09207589404732e-08,8.40259000307937e-08,down,FALSE
+Plasma membrane,ENSG00000117335,2,1,1,0,0,1,"Homo sapiens,Mus musculus",39.9847891009802,4.35988814112255e-08,8.93660908500076e-08,up,FALSE
+Nucleus,ENSG00000184445,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",49.7284187948144,4.60840551758661e-08,9.41256631379638e-08,down,FALSE
+Cytoskeleton,ENSG00000184445,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",49.7284187948144,4.60840551758661e-08,9.41256631379638e-08,down,FALSE
+Nucleus,ENSG00000123219,2,1,0,1,0,1,"Homo sapiens,Mus musculus",39.7878451430547,4.78849661490733e-08,9.76311853993473e-08,down,FALSE
+Ribosome,ENSG00000182774,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",53.8789444694995,5.11077980591968e-08,1.04018340318012e-07,down,FALSE
+Plasma membrane,ENSG00000188487,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",49.3888439506454,5.35468669128259e-08,1.08622056182307e-07,mixed,FALSE
+Extracellular,ENSG00000142449,3,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",44.7013639336555,5.36521421351081e-08,1.08622056182307e-07,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000142449,3,2,0,2,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",44.7013639336555,5.36521421351081e-08,1.08622056182307e-07,down,FALSE
+Nucleus,ENSG00000274618,2,1,0,1,0,1,"Homo sapiens,Mus musculus",39.5065241016063,5.4746159916852e-08,1.10642852091151e-07,down,FALSE
+Extracellular,ENSG00000185585,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",44.1677025431098,6.84709018643169e-08,1.37897767454488e-07,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000185585,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",44.1677025431098,6.84709018643169e-08,1.37897767454488e-07,up,FALSE
+Plasma membrane,ENSG00000101665,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",48.6664466632824,7.36570059803612e-08,1.48083945821144e-07,up,FALSE
+Nucleus,ENSG00000010292,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",52.9645466781594,7.55968125096191e-08,1.5171951588887e-07,down,FALSE
+Nucleus,ENSG00000065328,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",52.9438355530472,7.62691521476231e-08,1.52803127740203e-07,down,FALSE
+Mitochondrion,ENSG00000233954,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",52.9288566648362,7.67591040250686e-08,1.53252605614064e-07,down,FALSE
+Membrane transport,ENSG00000233954,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",52.9288566648362,7.67591040250686e-08,1.53252605614064e-07,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000103187,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",43.6284981513204,8.75806080832561e-08,1.74255209875996e-07,mixed,FALSE
+Cytoskeleton,ENSG00000103187,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",43.6284981513204,8.75806080832561e-08,1.74255209875996e-07,mixed,FALSE
+Plasma membrane,ENSG00000112759,2,1,1,0,0,1,"Homo sapiens,Mus musculus",38.5028747560639,8.82394579110394e-08,1.75263914680447e-07,up,FALSE
+Nucleus,ENSG00000112742,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",48.2224367745484,8.95774896798487e-08,1.77615847234614e-07,down,FALSE
+Nucleus,ENSG00000119335,3,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus",43.2663155109759,1.03310922787949e-07,2.04495377182321e-07,ns,FALSE
+Nucleus,ENSG00000127586,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",52.1746478658669,1.05922904482439e-07,2.09306561254682e-07,mixed,FALSE
+Nucleus,ENSG00000173846,4,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",47.6749262699061,1.1398692339183e-07,2.24856255716533e-07,down,FALSE
+Nucleus,ENSG00000163808,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",42.8399422374088,1.25466558377819e-07,2.46658276606478e-07,down,FALSE
+Cytoskeleton,ENSG00000163808,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",42.8399422374088,1.25466558377819e-07,2.46658276606478e-07,down,FALSE
+Cytoskeleton,ENSG00000152763,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",42.6225522982549,1.38522639491429e-07,2.7186245913794e-07,down,FALSE
+Mitochondrion,ENSG00000156968,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",37.3499207559082,1.52574383756347e-07,2.98425150601397e-07,down,FALSE
+Other,ENSG00000156968,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",37.3499207559082,1.52574383756347e-07,2.98425150601397e-07,down,FALSE
+Nucleus,ENSG00000171241,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",42.4062040284665,1.52857649928282e-07,2.98473313057931e-07,down,FALSE
+Plasma membrane,ENSG00000158014,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",42.330791591818,1.58193795941358e-07,3.08371014385688e-07,up,FALSE
+Nucleus,ENSG00000134627,4,2,2,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",46.88925357071,1.6097597390459e-07,3.12737834824743e-07,up,FALSE
+Ribosome,ENSG00000134627,4,2,2,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",46.88925357071,1.6097597390459e-07,3.12737834824743e-07,up,FALSE
+Nucleus,ENSG00000149503,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",42.2319335464761,1.6547066907995e-07,3.20391194829299e-07,mixed,FALSE
+Cytoskeleton,ENSG00000149503,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",42.2319335464761,1.6547066907995e-07,3.20391194829299e-07,mixed,FALSE
+Nucleus,ENSG00000109805,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.5066570425025,1.90388372503453e-07,3.68020405140678e-07,down,FALSE
+Nucleus,ENSG00000086827,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",46.4905858224319,1.91734392075473e-07,3.70002489055344e-07,up,FALSE
+Extracellular,ENSG00000204291,2,1,1,0,0,1,"Homo sapiens,Mus musculus",36.8330415718039,1.94974609349444e-07,3.7500116531543e-07,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000204291,2,1,1,0,0,1,"Homo sapiens,Mus musculus",36.8330415718039,1.94974609349444e-07,3.7500116531543e-07,up,FALSE
+Plasma membrane,ENSG00000112378,2,1,1,0,0,1,"Homo sapiens,Mus musculus",36.7161826285486,2.06084238615751e-07,3.95709170320427e-07,up,FALSE
+Plasma membrane,ENSG00000106688,2,1,0,1,0,1,"Homo sapiens,Mus musculus",36.4928200671121,2.29104986532525e-07,4.39181319698562e-07,down,FALSE
+Mitochondrion,ENSG00000198763,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",41.4353149120299,2.37657465633009e-07,4.53316884860319e-07,down,FALSE
+Membrane transport,ENSG00000198763,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",41.4353149120299,2.37657465633009e-07,4.53316884860319e-07,down,FALSE
+Other,ENSG00000198763,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",41.4353149120299,2.37657465633009e-07,4.53316884860319e-07,down,FALSE
+Nucleus,ENSG00000118655,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",41.4316767138355,2.38050382140559e-07,4.53317064340272e-07,up,FALSE
+Nucleus,ENSG00000109819,2,1,0,1,0,1,"Homo sapiens,Mus musculus",36.295908981865,2.5151615972127e-07,4.78170755054936e-07,down,FALSE
+Plasma membrane,ENSG00000183856,4,1,0,0,1,0,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.7861655544385,2.61014956796055e-07,4.95413256813565e-07,mixed,FALSE
+Nucleus,ENSG00000124575,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",41.037199007906,2.84721561637479e-07,5.39521645533088e-07,down,FALSE
+Nucleus,ENSG00000176635,4,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.4190980523866,3.06452498780593e-07,5.79298641832534e-07,up,FALSE
+Nucleus,ENSG00000075131,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.6715037720495,3.06717045199028e-07,5.79298641832534e-07,down,FALSE
+Extracellular,ENSG00000186340,2,0,0,0,0,,"Homo sapiens,Mus musculus",35.8311743233853,3.13457873102962e-07,5.90098508255822e-07,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000186340,2,0,0,0,0,,"Homo sapiens,Mus musculus",35.8311743233853,3.13457873102962e-07,5.90098508255822e-07,ns,FALSE
+Nucleus,ENSG00000275713,2,1,0,1,0,1,"Homo sapiens,Mus musculus",35.7981632508969,3.18396525372813e-07,5.98419528143691e-07,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000166170,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",40.7594882820103,3.22933925989856e-07,6.04976867844633e-07,down,FALSE
+Cytoskeleton,ENSG00000166170,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",40.7594882820103,3.22933925989856e-07,6.04976867844633e-07,down,FALSE
+Cytoskeleton,ENSG00000069018,3,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",40.665187524042,3.37036810691008e-07,6.30373548683019e-07,up,FALSE
+Ribosome,ENSG00000145425,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.4122128494927,3.42251468280358e-07,6.3909092944261e-07,down,FALSE
+Nucleus,ENSG00000127564,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.3460347972004,3.51956558197176e-07,6.56151644845784e-07,mixed,FALSE
+Extracellular,ENSG00000146070,3,2,2,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",40.3098154468795,3.95909943954816e-07,7.35716707445826e-07,up,FALSE
+Lipid particle,ENSG00000146070,3,2,2,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",40.3098154468795,3.95909943954816e-07,7.35716707445826e-07,up,FALSE
+Nucleus,ENSG00000182628,2,1,0,1,0,1,"Homo sapiens,Mus musculus",35.1656556999429,4.29523264907495e-07,7.95617733071026e-07,down,FALSE
+Cytoskeleton,ENSG00000182628,2,1,0,1,0,1,"Homo sapiens,Mus musculus",35.1656556999429,4.29523264907495e-07,7.95617733071026e-07,down,FALSE
+Nucleus,ENSG00000160117,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",44.5200077989099,4.53681829603976e-07,8.39020563081712e-07,up,FALSE
+Nucleus,ENSG00000257949,2,1,0,1,0,1,"Homo sapiens,Mus musculus",35.0394557835719,4.55946045664361e-07,8.41858778714677e-07,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000196923,2,1,1,0,0,1,"Homo sapiens,Mus musculus",34.7667811022534,5.18698534140765e-07,9.53149854137648e-07,up,FALSE
+Cytoskeleton,ENSG00000196923,2,1,1,0,0,1,"Homo sapiens,Mus musculus",34.7667811022534,5.18698534140765e-07,9.53149854137648e-07,up,FALSE
+Plasma membrane,ENSG00000196923,2,1,1,0,0,1,"Homo sapiens,Mus musculus",34.7667811022534,5.18698534140765e-07,9.53149854137648e-07,up,FALSE
+Nucleus,ENSG00000158406,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",44.1647287351133,5.29601704395618e-07,9.71638103135999e-07,down,FALSE
+Cytoskeleton,ENSG00000106665,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",39.618941198058,5.41190359461924e-07,9.91323293363588e-07,down,FALSE
+Extracellular,ENSG00000106397,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",43.985964351769,5.72443144592863e-07,1.04525219756355e-06,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000106397,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",43.985964351769,5.72443144592863e-07,1.04525219756355e-06,down,FALSE
+Nucleus,ENSG00000139687,3,0,0,0,0,,"Drosophila melanogaster,Homo sapiens,Mus musculus",39.4431302972309,5.85947167077216e-07,1.06821963792592e-06,ns,FALSE
+Nucleus,ENSG00000237649,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",48.1229779472943,5.89388754334392e-07,1.07110964173526e-06,down,FALSE
+Cytoskeleton,ENSG00000237649,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",48.1229779472943,5.89388754334392e-07,1.07110964173526e-06,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000078814,2,0,0,0,0,,"Homo sapiens,Mus musculus",34.4247651052418,6.09710958961311e-07,1.10456271058297e-06,ns,FALSE
+Cytoskeleton,ENSG00000078814,2,0,0,0,0,,"Homo sapiens,Mus musculus",34.4247651052418,6.09710958961311e-07,1.10456271058297e-06,ns,FALSE
+Plasma membrane,ENSG00000174669,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",43.6456816264418,6.63720565884345e-07,1.20052277904472e-06,up,FALSE
+Nucleus,ENSG00000132383,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",51.8265723294149,6.65407000654681e-07,1.20168963811503e-06,down,FALSE
+Mitochondrion,ENSG00000005022,4,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",43.5977065946012,6.77701261488743e-07,1.22007372193137e-06,ns,FALSE
+Other,ENSG00000005022,4,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",43.5977065946012,6.77701261488743e-07,1.22007372193137e-06,ns,FALSE
+Cytoskeleton,ENSG00000149591,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",38.7469311809415,8.02334857948494e-07,1.44220315587626e-06,mixed,FALSE
+Plasma membrane,ENSG00000168334,2,1,1,0,0,1,"Homo sapiens,Mus musculus",33.7877908479493,8.23719475741886e-07,1.47833946346211e-06,up,FALSE
+Nucleus,ENSG00000105173,2,1,0,1,0,1,"Homo sapiens,Mus musculus",33.7496320917158,8.38691205844204e-07,1.50287212972704e-06,down,FALSE
+Nucleus,ENSG00000177084,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",47.124183445161,8.96405137169722e-07,1.60380081906025e-06,down,FALSE
+Nucleus,ENSG00000143228,4,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",42.9316548058642,9.04847826582054e-07,1.61639998742367e-06,mixed,FALSE
+Plasma membrane,ENSG00000164418,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",38.4461191842813,9.18873321156605e-07,1.63891779384038e-06,up,FALSE
+Plasma membrane,ENSG00000163406,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",38.3044259678008,9.79452006609849e-07,1.74427101177124e-06,down,FALSE
+Plasma membrane,ENSG00000157765,2,1,1,0,0,1,"Homo sapiens,Mus musculus",33.2863431551476,1.04361203817764e-06,1.85281275701076e-06,up,FALSE
+Cytoskeleton,ENSG00000157765,2,1,1,0,0,1,"Homo sapiens,Mus musculus",33.2863431551476,1.04361203817764e-06,1.85281275701076e-06,up,FALSE
+Plasma membrane,ENSG00000186907,2,2,2,0,0,1,"Homo sapiens,Mus musculus",33.263218388485,1.05505682904777e-06,1.86452615730647e-06,up,FALSE
+Extracellular,ENSG00000186907,2,2,2,0,0,1,"Homo sapiens,Mus musculus",33.263218388485,1.05505682904777e-06,1.86452615730647e-06,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000186907,2,2,2,0,0,1,"Homo sapiens,Mus musculus",33.263218388485,1.05505682904777e-06,1.86452615730647e-06,up,FALSE
+Nucleus,ENSG00000073111,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.7148404630174,1.06398176180917e-06,1.87742347573055e-06,up,FALSE
+Nucleus,ENSG00000077514,2,1,0,1,0,1,"Homo sapiens,Mus musculus",33.0121443676247,1.18766141585383e-06,2.09245996014553e-06,down,FALSE
+Extracellular,ENSG00000058085,2,1,0,0,1,0,"Homo sapiens,Mus musculus",32.9057184394969,1.24876470361323e-06,2.19341623739675e-06,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000058085,2,1,0,0,1,0,"Homo sapiens,Mus musculus",32.9057184394969,1.24876470361323e-06,2.19341623739675e-06,mixed,FALSE
+Extracellular,ENSG00000101160,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",37.7236183224339,1.27211824209954e-06,2.22765470619555e-06,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000101160,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",37.7236183224339,1.27211824209954e-06,2.22765470619555e-06,up,FALSE
+Lipid particle,ENSG00000160285,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",37.7019962036561,1.28454980185321e-06,2.24601586566455e-06,up,FALSE
+Nucleus,ENSG00000136982,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.2535165696152,1.29024125985139e-06,2.25255433263011e-06,mixed,FALSE
+Mitochondrion,ENSG00000148459,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",42.0842819043339,1.30580507697456e-06,2.27284925916839e-06,down,FALSE
+Other,ENSG00000148459,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",42.0842819043339,1.30580507697456e-06,2.27284925916839e-06,down,FALSE
+Nucleus,ENSG00000071539,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.1720976734773,1.33485309679527e-06,2.31991035196046e-06,mixed,FALSE
+Nucleus,ENSG00000002822,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.0331577418442,1.41453673677402e-06,2.45469984095823e-06,up,FALSE
+Nucleus,ENSG00000051180,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.9423911039687,1.43004495460927e-06,2.47417073106312e-06,mixed,FALSE
+Proteasome,ENSG00000051180,6,2,1,1,0,0.5,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.9423911039687,1.43004495460927e-06,2.47417073106312e-06,mixed,FALSE
+Nucleus,ENSG00000164815,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.8213629337182,1.54515238883853e-06,2.66932014478992e-06,up,FALSE
+Ribosome,ENSG00000265681,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Saccharomyces cerevisiae",37.2853274488975,1.5491337893562e-06,2.67219789673701e-06,down,FALSE
+Nucleus,ENSG00000085840,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.7437677851056,1.59593726957003e-06,2.74882329714003e-06,up,FALSE
+Nucleus,ENSG00000197299,5,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.6192679750617,1.68089466226318e-06,2.89083821199957e-06,mixed,FALSE
+Nucleus,ENSG00000104147,2,1,0,1,0,1,"Homo sapiens,Mus musculus",32.0796940866964,1.84267451985304e-06,3.16435475581906e-06,down,FALSE
+Ribosome,ENSG00000170860,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",49.2923689446025,1.85924651258971e-06,3.18806905724892e-06,up,FALSE
+Nucleus,ENSG00000178460,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",41.0693245061849,2.02329543719022e-06,3.46421800373518e-06,mixed,FALSE
+Nucleus,ENSG00000117697,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.8661983414376,2.03741454584815e-06,3.48322427542039e-06,down,FALSE
+Nucleus,ENSG00000101966,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",41.0023561326725,2.08249024992315e-06,3.55502033788657e-06,up,FALSE
+Nucleus,ENSG00000273983,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.7425698224843,2.15941792418411e-06,3.68089850001251e-06,down,FALSE
+Ribosome,ENSG00000151923,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",45.0025602302042,2.17241565348119e-06,3.69759242495175e-06,up,FALSE
+Mitochondrion,ENSG00000126267,3,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus",36.3910082474618,2.31387059558781e-06,3.92677451074754e-06,ns,FALSE
+Membrane transport,ENSG00000126267,3,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus",36.3910082474618,2.31387059558781e-06,3.92677451074754e-06,ns,FALSE
+Plasma membrane,ENSG00000172005,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.4913747277283,2.43017664567984e-06,4.118096694735e-06,down,FALSE
+Plasma membrane,ENSG00000158445,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.4399189057525,2.48968024775476e-06,4.21274341042374e-06,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000163431,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.4289331648737,2.50257094731988e-06,4.22217379123851e-06,down,FALSE
+Cytoskeleton,ENSG00000163431,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.4289331648737,2.50257094731988e-06,4.22217379123851e-06,down,FALSE
+Lipid particle,ENSG00000114115,2,1,1,0,0,1,"Homo sapiens,Mus musculus",31.3718272294435,2.57065777720781e-06,4.32647995170195e-06,up,FALSE
+Plasma membrane,ENSG00000091262,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",44.5958390547574,2.57189362813478e-06,4.32647995170195e-06,up,FALSE
+Extracellular,ENSG00000170961,2,1,0,0,1,0,"Homo sapiens,Mus musculus",31.3407729371017,2.60845468006279e-06,4.38159636214332e-06,mixed,FALSE
+Nucleus,ENSG00000186871,2,1,0,1,0,1,"Homo sapiens,Mus musculus",31.2783819560612,2.68607332056814e-06,4.5054194940925e-06,down,FALSE
+Membrane transport,ENSG00000143153,2,0,0,0,0,,"Homo sapiens,Mus musculus",31.2321637525146,2.74505111474311e-06,4.59766180901821e-06,ns,FALSE
+Nucleus,ENSG00000133119,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",44.3842905133556,2.80758337943478e-06,4.69558147806919e-06,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000122367,2,0,0,0,0,,"Homo sapiens,Mus musculus",31.1011035992132,2.91940024895638e-06,4.86145438282202e-06,ns,FALSE
+Cytoskeleton,ENSG00000122367,2,0,0,0,0,,"Homo sapiens,Mus musculus",31.1011035992132,2.91940024895638e-06,4.86145438282202e-06,ns,FALSE
+Plasma membrane,ENSG00000122367,2,0,0,0,0,,"Homo sapiens,Mus musculus",31.1011035992132,2.91940024895638e-06,4.86145438282202e-06,ns,FALSE
+Membrane transport,ENSG00000170289,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",39.9425823671227,3.28358793441238e-06,5.46002950477216e-06,down,FALSE
+Nucleus,ENSG00000062822,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",43.9755779160947,3.32507905007754e-06,5.52106650904961e-06,down,FALSE
+Membrane transport,ENSG00000018625,2,1,1,0,0,1,"Homo sapiens,Mus musculus",30.8187539575051,3.33337904470199e-06,5.52689571492254e-06,up,FALSE
+Plasma membrane,ENSG00000118298,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",35.4714239729908,3.4915961959225e-06,5.78092110487026e-06,up,FALSE
+Nucleus,ENSG00000108799,2,0,0,0,0,,"Homo sapiens,Mus musculus",30.5364051751031,3.80577789836181e-06,6.29207406118844e-06,ns,FALSE
+Nucleus,ENSG00000260238,2,1,0,1,0,1,"Homo sapiens,Mus musculus",30.5135204347604,3.84686748258579e-06,6.35090854778828e-06,down,FALSE
+Nucleus,ENSG00000123562,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",39.4503114190355,4.05448295305396e-06,6.68410475403466e-06,up,FALSE
+Nucleus,ENSG00000183763,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",39.2991010337869,4.32545660091839e-06,7.12065180807392e-06,down,FALSE
+Plasma membrane,ENSG00000076351,2,1,0,1,0,1,"Homo sapiens,Mus musculus",30.2472634329366,4.358660763253e-06,7.16509190996292e-06,down,FALSE
+Extracellular,ENSG00000159166,2,1,1,0,0,1,"Homo sapiens,Mus musculus",30.1660947445369,4.52776728394696e-06,7.42193671260623e-06,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000159166,2,1,1,0,0,1,"Homo sapiens,Mus musculus",30.1660947445369,4.52776728394696e-06,7.42193671260623e-06,up,FALSE
+Extracellular,ENSG00000154188,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",30.0382084235221,4.80755370454776e-06,7.85823934142792e-06,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000154188,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",30.0382084235221,4.80755370454776e-06,7.85823934142792e-06,mixed,FALSE
+Mitochondrion,ENSG00000157036,4,1,0,0,1,0,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",39.0234437073015,4.86639799067874e-06,7.93195378706675e-06,mixed,FALSE
+Other,ENSG00000157036,4,1,0,0,1,0,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",39.0234437073015,4.86639799067874e-06,7.93195378706675e-06,mixed,FALSE
+Cytoskeleton,ENSG00000163017,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",34.7220734257208,4.8780727235029e-06,7.93976857958018e-06,up,FALSE
+Nucleus,ENSG00000082068,5,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",42.9574179477411,5.06096475424733e-06,8.22584975549496e-06,up,FALSE
+Plasma membrane,ENSG00000170498,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.9104207444533,5.10431178576171e-06,8.28463544411958e-06,down,FALSE
+Plasma membrane,ENSG00000113594,2,1,1,0,0,1,"Homo sapiens,Mus musculus",29.7871448531008,5.40785706988668e-06,8.75934758645003e-06,up,FALSE
+Ribosome,ENSG00000165630,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",46.6253363340877,5.41197125575292e-06,8.75934758645003e-06,up,FALSE
+Nucleus,ENSG00000142731,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",34.4156016313084,5.59165121807173e-06,9.02484686105563e-06,down,FALSE
+Cytoskeleton,ENSG00000142731,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",34.4156016313084,5.59165121807173e-06,9.02484686105563e-06,down,FALSE
+Nucleus,ENSG00000136108,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.5450561683107,6.05722740614876e-06,9.74901035801348e-06,down,FALSE
+Cytoskeleton,ENSG00000136108,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.5450561683107,6.05722740614876e-06,9.74901035801348e-06,down,FALSE
+Nucleus,ENSG00000203760,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.4815835432056,6.23996348896602e-06,1.00291335184774e-05,down,FALSE
+Nucleus,ENSG00000137309,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.4180197737371,6.42846057700533e-06,1.031772393027e-05,down,FALSE
+Mitochondrion,ENSG00000198886,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",38.2742329677719,6.69889637608493e-06,1.07071003019418e-05,down,FALSE
+Membrane transport,ENSG00000198886,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",38.2742329677719,6.69889637608493e-06,1.07071003019418e-05,down,FALSE
+Other,ENSG00000198886,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",38.2742329677719,6.69889637608493e-06,1.07071003019418e-05,down,FALSE
+Nucleus,ENSG00000071242,2,1,0,1,0,1,"Homo sapiens,Mus musculus",29.1595386137099,7.25517120624044e-06,1.15801764481348e-05,down,FALSE
+Plasma membrane,ENSG00000174343,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",33.6307741760698,7.92678164609778e-06,1.26346768226476e-05,up,FALSE
+Plasma membrane,ENSG00000095203,2,1,0,1,0,1,"Homo sapiens,Mus musculus",28.6607201142578,9.16127792607871e-06,1.45822272092343e-05,down,FALSE
+Nucleus,ENSG00000161800,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",37.4634913064113,9.45577725650328e-06,1.50095831554399e-05,down,FALSE
+Cytoskeleton,ENSG00000161800,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",37.4634913064113,9.45577725650328e-06,1.50095831554399e-05,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000198467,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.5095994489203,9.83163278957231e-06,1.55633803006398e-05,ns,FALSE
+Cytoskeleton,ENSG00000198467,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.5095994489203,9.83163278957231e-06,1.55633803006398e-05,ns,FALSE
+Plasma membrane,ENSG00000046604,2,1,1,0,0,1,"Homo sapiens,Mus musculus",28.4873351318076,9.93443661497411e-06,1.57045751420276e-05,up,FALSE
+Nucleus,ENSG00000078043,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.4493359050064,1.01123718458603e-05,1.59639905747233e-05,ns,FALSE
+Nucleus,ENSG00000204209,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",33.0505803359206,1.02534454405088e-05,1.61425321123426e-05,down,FALSE
+Cytoskeleton,ENSG00000204209,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",33.0505803359206,1.02534454405088e-05,1.61425321123426e-05,down,FALSE
+Nucleus,ENSG00000154473,6,1,1,0,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",44.6052940618606,1.20391218193554e-05,1.89267838062837e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000163110,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.0672466155491,1.20875560357288e-05,1.89267838062837e-05,ns,FALSE
+Cytoskeleton,ENSG00000163110,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.0672466155491,1.20875560357288e-05,1.89267838062837e-05,ns,FALSE
+Plasma membrane,ENSG00000163110,2,0,0,0,0,,"Homo sapiens,Mus musculus",28.0672466155491,1.20875560357288e-05,1.89267838062837e-05,ns,FALSE
+Plasma membrane,ENSG00000196517,2,1,1,0,0,1,"Homo sapiens,Mus musculus",28.0464407307196,1.22055067287323e-05,1.90855755622724e-05,up,FALSE
+Cytoskeleton,ENSG00000013588,2,1,0,1,0,1,"Homo sapiens,Mus musculus",27.9651503015626,1.26774303720339e-05,1.97966910004427e-05,down,FALSE
+Plasma membrane,ENSG00000041353,4,1,0,0,1,0,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",36.7068991339917,1.30288326630291e-05,2.03179363420752e-05,mixed,FALSE
+Plasma membrane,ENSG00000010704,2,1,1,0,0,1,"Homo sapiens,Mus musculus",27.8465164081504,1.33989092328873e-05,2.08668572938623e-05,up,FALSE
+Nucleus,ENSG00000121152,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",36.5946057629345,1.36623539112743e-05,2.12484587784509e-05,down,FALSE
+Plasma membrane,ENSG00000124429,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",27.6011472193361,1.50233083599287e-05,2.33336444782743e-05,mixed,FALSE
+Nucleus,ENSG00000101003,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",40.2770865247045,1.51427808478306e-05,2.34875928741888e-05,down,FALSE
+Plasma membrane,ENSG00000104154,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",36.2785578246094,1.56135574801651e-05,2.41852957477993e-05,down,FALSE
+Extracellular,ENSG00000197747,2,1,1,0,0,1,"Homo sapiens,Mus musculus",27.4601398366162,1.60439465554728e-05,2.47854274765939e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000197747,2,1,1,0,0,1,"Homo sapiens,Mus musculus",27.4601398366162,1.60439465554728e-05,2.47854274765939e-05,up,FALSE
+Plasma membrane,ENSG00000149452,3,2,1,1,0,0.5,"Caenorhabditis elegans,Homo sapiens,Mus musculus",31.9378718558729,1.67711989873648e-05,2.58742829297045e-05,mixed,FALSE
+Ribosome,ENSG00000196933,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Saccharomyces cerevisiae",36.0653667919829,1.7082866879252e-05,2.63199310796486e-05,down,FALSE
+Ribosome,ENSG00000163682,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",43.6964048214318,1.72009676719811e-05,2.64665555912882e-05,down,FALSE
+Nucleus,ENSG00000198554,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",39.7770612978745,1.85467843018582e-05,2.84993196862109e-05,up,FALSE
+Plasma membrane,ENSG00000184916,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",31.6744234251062,1.88376163013955e-05,2.89077250157054e-05,down,FALSE
+Plasma membrane,ENSG00000150594,2,1,1,0,0,1,"Homo sapiens,Mus musculus",27.0899842643239,1.90633029761324e-05,2.92152080138869e-05,up,FALSE
+Ribosome,ENSG00000187609,3,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens",31.4765195583117,2.05541058917272e-05,3.14581408475507e-05,up,FALSE
+Nucleus,ENSG00000120334,2,1,0,1,0,1,"Homo sapiens,Mus musculus",26.8311703470447,2.1503921405853e-05,3.28682454335819e-05,down,FALSE
+Plasma membrane,ENSG00000188393,2,1,1,0,0,1,"Homo sapiens,Mus musculus",26.7527449428036,2.23030657135203e-05,3.40446267637599e-05,up,FALSE
+Extracellular,ENSG00000170454,2,1,1,0,0,1,"Homo sapiens,Mus musculus",26.6027471858401,2.39146813589913e-05,3.64083671349287e-05,up,FALSE
+Cytoskeleton,ENSG00000170454,2,1,1,0,0,1,"Homo sapiens,Mus musculus",26.6027471858401,2.39146813589913e-05,3.64083671349287e-05,up,FALSE
+Nucleus,ENSG00000164287,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",38.9717362604151,2.56794934996632e-05,3.90436567834142e-05,up,FALSE
+Nucleus,ENSG00000189241,2,0,0,0,0,,"Homo sapiens,Mus musculus",26.4279317911714,2.59395714368247e-05,3.93871913659154e-05,ns,FALSE
+Plasma membrane,ENSG00000178695,2,1,1,0,0,1,"Homo sapiens,Mus musculus",26.4123931370005,2.6127600263504e-05,3.96205659712006e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000137285,2,1,0,1,0,1,"Homo sapiens,Mus musculus",26.3297139332825,2.71511017833168e-05,4.09573483110426e-05,down,FALSE
+Cytoskeleton,ENSG00000137285,2,1,0,1,0,1,"Homo sapiens,Mus musculus",26.3297139332825,2.71511017833168e-05,4.09573483110426e-05,down,FALSE
+Nucleus,ENSG00000137285,2,1,0,1,0,1,"Homo sapiens,Mus musculus",26.3297139332825,2.71511017833168e-05,4.09573483110426e-05,down,FALSE
+Plasma membrane,ENSG00000137285,2,1,0,1,0,1,"Homo sapiens,Mus musculus",26.3297139332825,2.71511017833168e-05,4.09573483110426e-05,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000167552,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",30.7219118409563,2.86436508419174e-05,4.30961839264312e-05,ns,FALSE
+Cytoskeleton,ENSG00000167552,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",30.7219118409563,2.86436508419174e-05,4.30961839264312e-05,ns,FALSE
+Plasma membrane,ENSG00000186575,4,0,0,0,0,,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",34.8092280606016,2.89646701471538e-05,4.35224340492389e-05,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000226784,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",34.6417573541472,3.10691922542923e-05,4.65634387811082e-05,down,FALSE
+Cytoskeleton,ENSG00000226784,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",34.6417573541472,3.10691922542923e-05,4.65634387811082e-05,down,FALSE
+Cytoskeleton,ENSG00000128641,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",30.4442483614468,3.23554994414417e-05,4.84283350913408e-05,up,FALSE
+Nucleus,ENSG00000152455,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",34.436370252554,3.38572359254433e-05,5.0610427795287e-05,down,FALSE
+Nucleus,ENSG00000079616,2,1,0,1,0,1,"Homo sapiens,Mus musculus",25.7330013889153,3.58192612649596e-05,5.34049450901336e-05,down,FALSE
+Cytoskeleton,ENSG00000079616,2,1,0,1,0,1,"Homo sapiens,Mus musculus",25.7330013889153,3.58192612649596e-05,5.34049450901336e-05,down,FALSE
+Plasma membrane,ENSG00000170558,2,1,1,0,0,1,"Homo sapiens,Mus musculus",25.698569184614,3.63960241843135e-05,5.41948540757391e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000110171,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",34.1920530322016,3.74968021649402e-05,5.56902312719961e-05,down,FALSE
+Cytoskeleton,ENSG00000110171,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",34.1920530322016,3.74968021649402e-05,5.56902312719961e-05,down,FALSE
+Nucleus,ENSG00000188312,2,1,0,1,0,1,"Homo sapiens,Mus musculus",25.6178926586664,3.77838172350375e-05,5.60443767213795e-05,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000109654,2,0,0,0,0,,"Homo sapiens,Mus musculus",25.4461564757566,4.09155946875011e-05,6.05340977812516e-05,ns,FALSE
+Cytoskeleton,ENSG00000109654,2,0,0,0,0,,"Homo sapiens,Mus musculus",25.4461564757566,4.09155946875011e-05,6.05340977812516e-05,ns,FALSE
+Plasma membrane,ENSG00000204388,2,1,1,0,0,1,"Homo sapiens,Mus musculus",25.3359116317666,4.30606179896629e-05,6.36260603842138e-05,up,FALSE
+Mitochondrion,ENSG00000183032,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",37.6461701672343,4.3727722174931e-05,6.4446732298685e-05,down,FALSE
+Other,ENSG00000183032,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",37.6461701672343,4.3727722174931e-05,6.4446732298685e-05,down,FALSE
+Mitochondrion,ENSG00000241837,2,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens",25.1913630950113,4.60432521802271e-05,6.76865133961555e-05,ns,FALSE
+Membrane transport,ENSG00000241837,2,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens",25.1913630950113,4.60432521802271e-05,6.76865133961555e-05,ns,FALSE
+Nucleus,ENSG00000175279,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Saccharomyces cerevisiae",29.5611038112459,4.76258489064571e-05,6.99239562825083e-05,ns,FALSE
+Nucleus,ENSG00000011426,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",33.603118914077,4.79339144809888e-05,7.02868326697092e-05,down,FALSE
+Plasma membrane,ENSG00000211899,2,1,0,0,1,0,"Homo sapiens,Mus musculus",25.028400477056,4.96526280978229e-05,7.26532092741619e-05,mixed,FALSE
+Ribosome,ENSG00000163584,6,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",40.9646443019354,4.9673641349492e-05,7.26532092741619e-05,down,FALSE
+Extracellular,ENSG00000196878,2,1,1,0,0,1,"Homo sapiens,Mus musculus",24.9483848638356,5.15264006451707e-05,7.51725238236751e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000196878,2,1,1,0,0,1,"Homo sapiens,Mus musculus",24.9483848638356,5.15264006451707e-05,7.51725238236751e-05,up,FALSE
+Nucleus,ENSG00000184897,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",29.1579410322101,5.67893357997331e-05,8.27460776677929e-05,down,FALSE
+Plasma membrane,ENSG00000089057,2,1,1,0,0,1,"Homo sapiens,Mus musculus",24.7231561107156,5.7186381344515e-05,8.32195259414506e-05,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000127824,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",28.9655708772982,6.17564506100539e-05,8.96439547220153e-05,down,FALSE
+Cytoskeleton,ENSG00000127824,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",28.9655708772982,6.17564506100539e-05,8.96439547220153e-05,down,FALSE
+Plasma membrane,ENSG00000170927,2,1,1,0,0,1,"Homo sapiens,Mus musculus",24.4718462115499,6.42333170182971e-05,9.30053297855896e-05,up,FALSE
+Extracellular,ENSG00000170927,2,1,1,0,0,1,"Homo sapiens,Mus musculus",24.4718462115499,6.42333170182971e-05,9.30053297855896e-05,up,FALSE
+Nucleus,ENSG00000187475,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",32.6180484559362,7.21506356750153e-05,0.000104338137304471,up,FALSE
+Plasma membrane,ENSG00000168067,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.9597949415626,8.13706708743186e-05,0.000117524097858528,up,FALSE
+Plasma membrane,ENSG00000176945,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.9200237764053,8.28778036654862e-05,0.000119551231787464,up,FALSE
+Plasma membrane,ENSG00000039068,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.8087209600636,8.72445725913967e-05,0.000125693179488729,up,FALSE
+Nucleus,ENSG00000132436,2,1,0,1,0,1,"Homo sapiens,Mus musculus",23.7669479949734,8.89417770394005e-05,0.00012797856696193,down,FALSE
+Plasma membrane,ENSG00000204472,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.7017136872931,9.16579949405794e-05,0.000131722697585839,up,FALSE
+Plasma membrane,ENSG00000165272,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.6099108811863,9.56205119483886e-05,0.000137147395742497,up,FALSE
+Extracellular,ENSG00000152952,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.6060858063925,9.57892556052447e-05,0.000137147395742497,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000152952,2,1,1,0,0,1,"Homo sapiens,Mus musculus",23.6060858063925,9.57892556052447e-05,0.000137147395742497,up,FALSE
+Nucleus,ENSG00000130816,2,1,0,1,0,1,"Homo sapiens,Mus musculus",23.601335435228,9.59992304561455e-05,0.000137277709970746,down,FALSE
+Plasma membrane,ENSG00000184908,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",31.8232897223111,0.000100178879154745,0.00014307726057497,up,FALSE
+Plasma membrane,ENSG00000138792,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",27.8490822508161,0.00010031502974487,0.000143094615977231,down,FALSE
+Plasma membrane,ENSG00000157404,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",27.7369423781114,0.000105308201172957,0.000150031684140237,up,FALSE
+Extracellular,ENSG00000053747,2,2,2,0,0,1,"Homo sapiens,Mus musculus",23.3377891788739,0.000108393238625727,0.000153857069340823,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000053747,2,2,2,0,0,1,"Homo sapiens,Mus musculus",23.3377891788739,0.000108393238625727,0.000153857069340823,up,FALSE
+Plasma membrane,ENSG00000053747,2,2,2,0,0,1,"Homo sapiens,Mus musculus",23.3377891788739,0.000108393238625727,0.000153857069340823,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000092054,2,0,0,0,0,,"Homo sapiens,Mus musculus",23.0712268639308,0.000122544079013531,0.000173516401449834,ns,FALSE
+Cytoskeleton,ENSG00000092054,2,0,0,0,0,,"Homo sapiens,Mus musculus",23.0712268639308,0.000122544079013531,0.000173516401449834,ns,FALSE
+Plasma membrane,ENSG00000198648,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",31.2326115983246,0.000127719554551559,0.000180622997490808,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000156735,2,0,0,0,0,,"Homo sapiens,Mus musculus",22.8123253459473,0.000138039686051741,0.000194740583989865,ns,FALSE
+Cytoskeleton,ENSG00000156735,2,0,0,0,0,,"Homo sapiens,Mus musculus",22.8123253459473,0.000138039686051741,0.000194740583989865,ns,FALSE
+Plasma membrane,ENSG00000177675,2,1,1,0,0,1,"Homo sapiens,Mus musculus",22.7569136010409,0.000141600733921405,0.000199520448040662,up,FALSE
+Plasma membrane,ENSG00000132698,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",30.9133806541213,0.000145578761151857,0.000204875476060053,mixed,FALSE
+Plasma membrane,ENSG00000160801,2,0,0,0,0,,"Homo sapiens,Mus musculus",22.5685774061865,0.000154399432110297,0.000217024293124584,ns,FALSE
+Plasma membrane,ENSG00000147852,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",30.3649152604219,0.000182168884374562,0.000255124869621656,up,FALSE
+Extracellular,ENSG00000147852,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",30.3649152604219,0.000182168884374562,0.000255124869621656,up,FALSE
+Lipid particle,ENSG00000147852,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",30.3649152604219,0.000182168884374562,0.000255124869621656,up,FALSE
+Lipid particle,ENSG00000134321,2,1,1,0,0,1,"Homo sapiens,Mus musculus",22.2032261530746,0.000182588728284483,0.000255402899927628,up,FALSE
+Nucleus,ENSG00000249437,3,0,0,0,0,,"Drosophila melanogaster,Homo sapiens,Mus musculus",26.3683424580504,0.000190072109983036,0.000265548686344338,ns,FALSE
+Extracellular,ENSG00000138759,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.9844518617861,0.000201853710144002,0.000281327513896351,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000138759,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.9844518617861,0.000201853710144002,0.000281327513896351,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000118194,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.9328104220058,0.000206687606267186,0.0002873704790751,up,FALSE
+Cytoskeleton,ENSG00000118194,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.9328104220058,0.000206687606267186,0.0002873704790751,up,FALSE
+Nucleus,ENSG00000146453,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",26.1535219217579,0.000208447421111649,0.00028912058168611,up,FALSE
+Ribosome,ENSG00000146453,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",26.1535219217579,0.000208447421111649,0.00028912058168611,up,FALSE
+Nucleus,ENSG00000107960,2,1,0,1,0,1,"Homo sapiens,Mus musculus",21.8586049309015,0.000213835249839943,0.000296237548997952,down,FALSE
+Plasma membrane,ENSG00000240583,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",21.8429560094028,0.000215373601369714,0.000297298009546232,down,FALSE
+Extracellular,ENSG00000240583,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",21.8429560094028,0.000215373601369714,0.000297298009546232,down,FALSE
+Cytoskeleton,ENSG00000240583,2,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens",21.8429560094028,0.000215373601369714,0.000297298009546232,down,FALSE
+Plasma membrane,ENSG00000081923,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",26.0314269411204,0.000219661073299198,0.000302492695211545,up,FALSE
+Cytoskeleton,ENSG00000081923,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",26.0314269411204,0.000219661073299198,0.000302492695211545,up,FALSE
+Extracellular,ENSG00000186081,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",21.6914145372405,0.000230850158485279,0.000317144146300015,mixed,FALSE
+Cytoskeleton,ENSG00000186081,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",21.6914145372405,0.000230850158485279,0.000317144146300015,mixed,FALSE
+Plasma membrane,ENSG00000168135,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.5797053772968,0.000242960065222157,0.000333320631441696,up,FALSE
+Plasma membrane,ENSG00000198743,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.5775235884321,0.000243202748417598,0.000333320631441696,up,FALSE
+Nucleus,ENSG00000109906,2,1,0,0,1,0,"Homo sapiens,Mus musculus",21.4794291141674,0.000254365828695422,0.00034820660298282,mixed,FALSE
+Plasma membrane,ENSG00000120903,2,1,0,1,0,1,"Homo sapiens,Mus musculus",21.3823423438787,0.00026591410478334,0.000363583977393335,down,FALSE
+Plasma membrane,ENSG00000173702,2,1,0,1,0,1,"Homo sapiens,Mus musculus",21.3064804852198,0.000275298121623153,0.000375969269056945,down,FALSE
+Plasma membrane,ENSG00000091428,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.2788065789745,0.000278802444191808,0.000379855986537599,up,FALSE
+Cytoskeleton,ENSG00000091428,2,1,1,0,0,1,"Homo sapiens,Mus musculus",21.2788065789745,0.000278802444191808,0.000379855986537599,up,FALSE
+Plasma membrane,ENSG00000081479,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",29.3063986798342,0.000280132348871127,0.00038076882284721,up,FALSE
+Cytoskeleton,ENSG00000081479,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",29.3063986798342,0.000280132348871127,0.00038076882284721,up,FALSE
+Plasma membrane,ENSG00000155511,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",21.2249102002007,0.000285754684282991,0.00038795400666185,mixed,FALSE
+Nucleus,ENSG00000160957,3,2,0,2,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",24.989979240683,0.000342916416728807,0.000465012391192765,down,FALSE
+Nucleus,ENSG00000138180,2,1,0,1,0,1,"Homo sapiens,Mus musculus",20.7512146384794,0.000354736263210277,0.000479350875579227,down,FALSE
+Cytoskeleton,ENSG00000138180,2,1,0,1,0,1,"Homo sapiens,Mus musculus",20.7512146384794,0.000354736263210277,0.000479350875579227,down,FALSE
+Plasma membrane,ENSG00000138180,2,1,0,1,0,1,"Homo sapiens,Mus musculus",20.7512146384794,0.000354736263210277,0.000479350875579227,down,FALSE
+Plasma membrane,ENSG00000124839,3,2,1,1,0,0.5,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",24.5172517835818,0.000419350312072965,0.000566000304248189,mixed,FALSE
+Plasma membrane,ENSG00000146904,2,1,1,0,0,1,"Homo sapiens,Mus musculus",20.3026044203387,0.000435182128221648,0.000586682448560492,up,FALSE
+Plasma membrane,ENSG00000163347,2,1,1,0,0,1,"Homo sapiens,Mus musculus",20.2429854290168,0.000447151453862909,0.000602115259927417,up,FALSE
+Ribosome,ENSG00000116251,2,0,0,0,0,,"Homo sapiens,Mus musculus",20.239956312425,0.000447768217196685,0.000602243033385752,ns,FALSE
+Plasma membrane,ENSG00000135517,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",24.3200348368103,0.000455989593677169,0.000612586718397501,down,FALSE
+Lipid particle,ENSG00000198189,2,1,1,0,0,1,"Homo sapiens,Mus musculus",20.034664980336,0.000491591349756862,0.000659646997231883,up,FALSE
+Nucleus,ENSG00000180198,5,1,0,1,0,1,"Arabidopsis thaliana,Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",31.3779888106938,0.000508045232267423,0.00068093402791708,down,FALSE
+Nucleus,ENSG00000105146,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",31.3205158934452,0.000519307222988574,0.000695221038664517,up,FALSE
+Plasma membrane,ENSG00000101384,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.8200941968698,0.000541935817408312,0.000724674314355958,up,FALSE
+Nucleus,ENSG00000136122,4,2,1,1,0,0.5,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",27.6174306331208,0.000552734654236641,0.000738259017348477,mixed,FALSE
+Cell wall/Extracellular matrix,ENSG00000125414,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.7398713708992,0.000562041481084236,0.000748955969019872,down,FALSE
+Cytoskeleton,ENSG00000125414,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.7398713708992,0.000562041481084236,0.000748955969019872,down,FALSE
+Nucleus,ENSG00000162063,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.7146746759478,0.000568507396561979,0.00075669842633509,down,FALSE
+Cytoskeleton,ENSG00000061656,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.7041375090231,0.000571233200741015,0.000759450591768585,down,FALSE
+Plasma membrane,ENSG00000134539,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.6479579125729,0.000585985794826515,0.000778167557226465,up,FALSE
+Nucleus,ENSG00000105401,2,0,0,0,0,,"Homo sapiens,Mus musculus",19.636279924606,0.000589099409962738,0.00078140312539885,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000006788,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.6234036690197,0.00059255149120109,0.000784179381704195,up,FALSE
+Cytoskeleton,ENSG00000006788,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.6234036690197,0.00059255149120109,0.000784179381704195,up,FALSE
+Nucleus,ENSG00000108384,3,2,1,1,0,0.5,"Drosophila melanogaster,Homo sapiens,Mus musculus",23.5768312713353,0.00062460732186307,0.000825655039438697,mixed,FALSE
+Plasma membrane,ENSG00000162896,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.4055539225931,0.00065408468677579,0.000863631268351558,up,FALSE
+Plasma membrane,ENSG00000070831,5,0,0,0,0,,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",30.6847592562298,0.000661331523762594,0.000872201803910895,ns,FALSE
+Plasma membrane,ENSG00000162105,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.3258002238317,0.000678158396161894,0.00089337304699866,down,FALSE
+Plasma membrane,ENSG00000157087,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.2522775447419,0.000701126742583982,0.000922577264471968,up,FALSE
+Mitochondrion,ENSG00000198786,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",26.9841511652547,0.000711455160530588,0.000932976426423066,down,FALSE
+Membrane transport,ENSG00000198786,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",26.9841511652547,0.000711455160530588,0.000932976426423066,down,FALSE
+Other,ENSG00000198786,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",26.9841511652547,0.000711455160530588,0.000932976426423066,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000264424,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.197326120014,0.000718794400423792,0.000940463421869678,down,FALSE
+Cytoskeleton,ENSG00000264424,2,1,0,1,0,1,"Homo sapiens,Mus musculus",19.197326120014,0.000718794400423792,0.000940463421869678,down,FALSE
+Plasma membrane,ENSG00000250424,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",23.1373045386325,0.000751771956562541,0.000980276652964037,up,FALSE
+Extracellular,ENSG00000250424,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",23.1373045386325,0.000751771956562541,0.000980276652964037,up,FALSE
+Cytoskeleton,ENSG00000250424,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",23.1373045386325,0.000751771956562541,0.000980276652964037,up,FALSE
+Plasma membrane,ENSG00000101311,2,2,1,1,0,0.5,"Homo sapiens,Mus musculus",19.0520254559512,0.00076766038331071,0.000999864652754582,mixed,FALSE
+Plasma membrane,ENSG00000156886,2,1,1,0,0,1,"Homo sapiens,Mus musculus",19.0453774288493,0.00076997311558457,0.00100174630821262,up,FALSE
+Plasma membrane,ENSG00000115109,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",26.7635249273863,0.000776606659597936,0.00100923883465768,up,FALSE
+Nucleus,ENSG00000251503,2,1,0,1,0,1,"Homo sapiens,Mus musculus",18.570984532957,0.000954084914130746,0.00123848592902911,down,FALSE
+Nucleus,ENSG00000168395,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",29.6284074686512,0.000985066230068241,0.00127726565112219,up,FALSE
+Cytoskeleton,ENSG00000077279,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",22.4570467690922,0.00100029222395585,0.00129555244269928,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000154358,2,0,0,0,0,,"Homo sapiens,Mus musculus",18.4121456117555,0.00102497209656419,0.00132454400832595,ns,FALSE
+Cytoskeleton,ENSG00000154358,2,0,0,0,0,,"Homo sapiens,Mus musculus",18.4121456117555,0.00102497209656419,0.00132454400832595,ns,FALSE
+Lipid particle,ENSG00000141542,2,1,1,0,0,1,"Homo sapiens,Mus musculus",18.4071187854499,0.00102729846368017,0.00132606535468335,up,FALSE
+Plasma membrane,ENSG00000126016,2,1,1,0,0,1,"Homo sapiens,Mus musculus",18.3042603694824,0.00107606261037424,0.00138745949985684,up,FALSE
+Plasma membrane,ENSG00000255641,2,1,1,0,0,1,"Homo sapiens,Mus musculus",18.244220499844,0.0011055768046115,0.0014239236970108,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000143549,2,1,0,1,0,1,"Homo sapiens,Mus musculus",18.1546468772085,0.00115110175996176,0.00147761004560163,down,FALSE
+Cytoskeleton,ENSG00000143549,2,1,0,1,0,1,"Homo sapiens,Mus musculus",18.1546468772085,0.00115110175996176,0.00147761004560163,down,FALSE
+Nucleus,ENSG00000143549,2,1,0,1,0,1,"Homo sapiens,Mus musculus",18.1546468772085,0.00115110175996176,0.00147761004560163,down,FALSE
+Plasma membrane,ENSG00000168702,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",25.6632605577175,0.00119906585176313,0.0015374688810385,up,FALSE
+Plasma membrane,ENSG00000053918,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",21.7612578673903,0.00133757381491426,0.00171316335450728,down,FALSE
+Nucleus,ENSG00000215277,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",25.3803158937056,0.00133979461932489,0.00171410531119837,up,FALSE
+Plasma membrane,ENSG00000125255,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.7840639635607,0.00135995672576492,0.00173797349006946,up,FALSE
+Extracellular,ENSG00000178934,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.7526901461282,0.00137926771546229,0.00176070237128704,up,FALSE
+Plasma membrane,ENSG00000289697,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.6864687767169,0.00142092098971899,0.00181187052169692,up,FALSE
+Extracellular,ENSG00000143412,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.6516305077607,0.0014433303074785,0.00183638718283372,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000143412,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.6516305077607,0.0014433303074785,0.00183638718283372,up,FALSE
+Nucleus,ENSG00000105229,4,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",25.011527738407,0.00154758096771187,0.00196685951182764,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000188219,2,0,0,0,0,,"Homo sapiens,Mus musculus",17.4603239884871,0.00157274709084897,0.00199445070641726,ns,FALSE
+Cytoskeleton,ENSG00000188219,2,0,0,0,0,,"Homo sapiens,Mus musculus",17.4603239884871,0.00157274709084897,0.00199445070641726,ns,FALSE
+Nucleus,ENSG00000163961,2,1,0,1,0,1,"Homo sapiens,Mus musculus",17.3960379489708,0.00161875597845658,0.00205054269938408,down,FALSE
+Nucleus,ENSG00000146143,5,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",28.2639764014077,0.00163760909157592,0.00207215010052479,down,FALSE
+Lipid particle,ENSG00000147383,3,1,1,0,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",21.269102790334,0.00164111449761908,0.00207431120509575,up,FALSE
+Nucleus,ENSG00000203852,2,1,0,1,0,1,"Homo sapiens,Mus musculus",17.3095123438418,0.00168278434299056,0.00212465331707998,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000144821,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",21.1602767838396,0.00171683422665939,0.00216291124188312,ns,FALSE
+Cytoskeleton,ENSG00000144821,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",21.1602767838396,0.00171683422665939,0.00216291124188312,ns,FALSE
+Plasma membrane,ENSG00000138185,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.1323833876767,0.00182175217100402,0.0022875973942749,up,FALSE
+Extracellular,ENSG00000138185,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.1323833876767,0.00182175217100402,0.0022875973942749,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000138185,2,1,1,0,0,1,"Homo sapiens,Mus musculus",17.1323833876767,0.00182175217100402,0.0022875973942749,up,FALSE
+Plasma membrane,ENSG00000104537,2,1,0,1,0,1,"Homo sapiens,Mus musculus",17.1054516123366,0.00184385043217439,0.00231282978122744,down,FALSE
+Nucleus,ENSG00000091651,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",20.9812303787186,0.00184891582810821,0.00231666543500204,down,FALSE
+Plasma membrane,ENSG00000128917,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",20.9641663822951,0.00186201086242969,0.00233054287987404,down,FALSE
+Nucleus,ENSG00000181938,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",27.7523757269792,0.00197754022721075,0.00247246091246068,up,FALSE
+Plasma membrane,ENSG00000137204,2,1,0,0,1,0,"Homo sapiens,Mus musculus",16.8999828150782,0.00202137445579977,0.00252453043505729,mixed,FALSE
+Plasma membrane,ENSG00000135046,2,1,1,0,0,1,"Homo sapiens,Mus musculus",16.7998713610515,0.00211387434284701,0.00263720107204914,up,FALSE
+Plasma membrane,ENSG00000157168,2,1,0,1,0,1,"Homo sapiens,Mus musculus",16.671566661469,0.00223854619490217,0.0027897217158932,down,FALSE
+Plasma membrane,ENSG00000096696,2,1,1,0,0,1,"Homo sapiens,Mus musculus",16.6514242194681,0.00225876566356648,0.00280885299111607,up,FALSE
+Extracellular,ENSG00000096696,2,1,1,0,0,1,"Homo sapiens,Mus musculus",16.6514242194681,0.00225876566356648,0.00280885299111607,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000162782,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",20.4907549091135,0.00226374738685865,0.00281201774427866,down,FALSE
+Extracellular,ENSG00000134871,2,0,0,0,0,,"Homo sapiens,Mus musculus",16.5852539669397,0.0023264641523136,0.00288062192249988,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000134871,2,0,0,0,0,,"Homo sapiens,Mus musculus",16.5852539669397,0.0023264641523136,0.00288062192249988,ns,FALSE
+Cytoskeleton,ENSG00000134871,2,0,0,0,0,,"Homo sapiens,Mus musculus",16.5852539669397,0.0023264641523136,0.00288062192249988,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000276076,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",20.350448373513,0.00239829424322449,0.00296320295147865,up,FALSE
+Cytoskeleton,ENSG00000276076,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",20.350448373513,0.00239829424322449,0.00296320295147865,up,FALSE
+Extracellular,ENSG00000138829,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",20.1707147334421,0.00258210676646834,0.00318349488088083,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000138829,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",20.1707147334421,0.00258210676646834,0.00318349488088083,ns,FALSE
+Plasma membrane,ENSG00000154639,2,1,1,0,0,1,"Homo sapiens,Mus musculus",16.1402124459082,0.00283667624789511,0.00349362261480358,up,FALSE
+Cytoskeleton,ENSG00000214814,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",19.9238445122175,0.00285716162305675,0.00351510076013592,ns,FALSE
+Mitochondrion,ENSG00000198899,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",23.3410020820124,0.00295294622746958,0.00362521270904244,down,FALSE
+Membrane transport,ENSG00000198899,4,1,0,1,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus",23.3410020820124,0.00295294622746958,0.00362521270904244,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000077522,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.8551618848006,0.00321980179612727,0.0039444281026867,ns,FALSE
+Cytoskeleton,ENSG00000077522,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.8551618848006,0.00321980179612727,0.0039444281026867,ns,FALSE
+Nucleus,ENSG00000100162,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.7690685874286,0.00334522190473181,0.00409372860875982,down,FALSE
+Mitochondrion,ENSG00000111775,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.606535022352,0.00359523992855523,0.00438573665703249,ns,FALSE
+Membrane transport,ENSG00000111775,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.606535022352,0.00359523992855523,0.00438573665703249,ns,FALSE
+Other,ENSG00000111775,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.606535022352,0.00359523992855523,0.00438573665703249,ns,FALSE
+Nucleus,ENSG00000075188,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",19.2810930507795,0.00371433165686665,0.00452622886169389,down,FALSE
+Nucleus,ENSG00000153487,2,0,0,0,0,,"Homo sapiens,Mus musculus",15.4139835360861,0.0039152918189282,0.00476608307915943,ns,FALSE
+Nucleus,ENSG00000149636,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.3395385219149,0.00404640241986808,0.00492049356430745,down,FALSE
+Plasma membrane,ENSG00000100170,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.311139285244,0.00409754756315767,0.00497744198724626,down,FALSE
+Nucleus,ENSG00000076382,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.2298491296638,0.00424748408579079,0.00514873596113715,down,FALSE
+Cytoskeleton,ENSG00000076382,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.2298491296638,0.00424748408579079,0.00514873596113715,down,FALSE
+Plasma membrane,ENSG00000186198,2,1,1,0,0,1,"Homo sapiens,Mus musculus",15.2088388060044,0.00428710564884529,0.00518588017572137,up,FALSE
+Nucleus,ENSG00000168411,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.205447567459,0.00429353484736874,0.00518588017572137,down,FALSE
+Nucleus,ENSG00000165887,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.2031918074534,0.0042978166223466,0.00518588017572137,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000159176,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",18.9201721675718,0.00430059560499597,0.00518588017572137,up,FALSE
+Cytoskeleton,ENSG00000159176,3,1,1,0,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",18.9201721675718,0.00430059560499597,0.00518588017572137,up,FALSE
+Nucleus,ENSG00000092036,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.1018703470595,0.00449452846110485,0.00540843153713764,down,FALSE
+Cytoskeleton,ENSG00000092036,2,1,0,1,0,1,"Homo sapiens,Mus musculus",15.1018703470595,0.00449452846110485,0.00540843153713764,down,FALSE
+Plasma membrane,ENSG00000163235,2,1,1,0,0,1,"Homo sapiens,Mus musculus",15.0438635310582,0.00461110055968869,0.00554292713112578,up,FALSE
+Nucleus,ENSG00000152240,2,1,0,1,0,1,"Homo sapiens,Mus musculus",14.8877512733671,0.00493978122689824,0.00592568350918978,down,FALSE
+Cytoskeleton,ENSG00000152240,2,1,0,1,0,1,"Homo sapiens,Mus musculus",14.8877512733671,0.00493978122689824,0.00592568350918978,down,FALSE
+Mitochondrion,ENSG00000159199,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.8512342476196,0.00501992442015905,0.0060093286108543,ns,FALSE
+Membrane transport,ENSG00000159199,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.8512342476196,0.00501992442015905,0.0060093286108543,ns,FALSE
+Plasma membrane,ENSG00000134830,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.7784118344047,0.00518357634137755,0.00619880528284942,ns,FALSE
+Nucleus,ENSG00000120539,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",21.8504174000785,0.00520063668516591,0.00620634408963956,down,FALSE
+Cytoskeleton,ENSG00000120539,4,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",21.8504174000785,0.00520063668516591,0.00620634408963956,down,FALSE
+Extracellular,ENSG00000065618,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.7587815025108,0.00522858003225333,0.00622681254615102,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000065618,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.7587815025108,0.00522858003225333,0.00622681254615102,up,FALSE
+Cytoskeleton,ENSG00000133392,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.7305713345731,0.0052939258424299,0.00629813445583928,up,FALSE
+Extracellular,ENSG00000119699,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.6645107341123,0.00545010069039122,0.00647059279497064,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000119699,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.6645107341123,0.00545010069039122,0.00647059279497064,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000170807,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.6542211696702,0.00547482998135042,0.00648660554258561,ns,FALSE
+Cytoskeleton,ENSG00000170807,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.6542211696702,0.00547482998135042,0.00648660554258561,ns,FALSE
+Membrane transport,ENSG00000105409,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.6111522750502,0.00557953954675241,0.00660388578148953,up,FALSE
+Plasma membrane,ENSG00000118507,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.5458456706934,0.00574207312376281,0.00678929547625234,up,FALSE
+Plasma membrane,ENSG00000158296,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",18.1374013229707,0.00589784153546794,0.0069663348330911,up,FALSE
+Cytoskeleton,ENSG00000182979,2,1,0,1,0,1,"Homo sapiens,Mus musculus",14.4094883174084,0.0060965538150827,0.00719368415399328,down,FALSE
+Mitochondrion,ENSG00000151729,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.3714514164429,0.00619920737319149,0.00729988296802345,ns,FALSE
+Other,ENSG00000151729,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.3714514164429,0.00619920737319149,0.00729988296802345,ns,FALSE
+Plasma membrane,ENSG00000006611,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",17.9518769635074,0.00635358899267328,0.00747404862135062,down,FALSE
+Extracellular,ENSG00000169031,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.2452236006611,0.00655216304752045,0.00768414243581158,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000169031,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.2452236006611,0.00655216304752045,0.00768414243581158,ns,FALSE
+Cytoskeleton,ENSG00000169031,2,0,0,0,0,,"Homo sapiens,Mus musculus",14.2452236006611,0.00655216304752045,0.00768414243581158,ns,FALSE
+Extracellular,ENSG00000100336,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.0435095697629,0.00715747806346234,0.00837700779435653,up,FALSE
+Lipid particle,ENSG00000100336,2,1,1,0,0,1,"Homo sapiens,Mus musculus",14.0435095697629,0.00715747806346234,0.00837700779435653,up,FALSE
+Plasma membrane,ENSG00000025434,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.9931423892948,0.00731697457762573,0.00855500371082076,up,FALSE
+Nucleus,ENSG00000152670,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",23.8776084521963,0.0079319665212692,0.00925529763958004,up,FALSE
+Ribosome,ENSG00000152670,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",23.8776084521963,0.0079319665212692,0.00925529763958004,up,FALSE
+Plasma membrane,ENSG00000143217,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.7810436313932,0.00802768130563615,0.00935751942091325,up,FALSE
+Plasma membrane,ENSG00000104290,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.6692961618366,0.00842887369713641,0.00981525756457661,up,FALSE
+Plasma membrane,ENSG00000204421,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.5820930216847,0.00875551650376216,0.0101853488360298,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000138594,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.527585442247,0.00896594512503717,0.0104091556079405,ns,FALSE
+Cytoskeleton,ENSG00000138594,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.527585442247,0.00896594512503717,0.0104091556079405,ns,FALSE
+Nucleus,ENSG00000276410,2,1,0,1,0,1,"Homo sapiens,Mus musculus",13.4746323975212,0.00917510614992007,0.0106412788914651,down,FALSE
+Plasma membrane,ENSG00000074803,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.3164677922853,0.00982866167751587,0.011376404790224,up,FALSE
+Extracellular,ENSG00000074803,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.3164677922853,0.00982866167751587,0.011376404790224,up,FALSE
+Plasma membrane,ENSG00000062038,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.3069109334526,0.00986957756970725,0.0114044722707857,up,FALSE
+Plasma membrane,ENSG00000170011,2,1,1,0,0,1,"Homo sapiens,Mus musculus",13.3061888627176,0.00987267573528158,0.0114044722707857,up,FALSE
+Ribosome,ENSG00000116001,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.1932034002172,0.0103693525091484,0.0119662327955573,ns,FALSE
+Cytoskeleton,ENSG00000135636,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.1872969064852,0.0103959779293071,0.0119849735568635,ns,FALSE
+Nucleus,ENSG00000182185,3,1,0,1,0,1,"Arabidopsis thaliana,Homo sapiens,Mus musculus",16.68627327619,0.010508094931178,0.0121021372760274,down,FALSE
+Nucleus,ENSG00000100028,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",22.899321887421,0.0111243605470942,0.012786366604927,up,FALSE
+Ribosome,ENSG00000100028,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",22.899321887421,0.0111243605470942,0.012786366604927,up,FALSE
+Cytoskeleton,ENSG00000143632,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.0211525100681,0.0111729001686947,0.0128166270324788,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000143632,2,0,0,0,0,,"Homo sapiens,Mus musculus",13.0211525100681,0.0111729001686947,0.0128166270324788,ns,FALSE
+Cytoskeleton,ENSG00000039139,2,1,0,0,1,0,"Homo sapiens,Mus musculus",12.9011871496206,0.0117688405542577,0.01348683416049,mixed,FALSE
+Plasma membrane,ENSG00000111886,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.8830481335326,0.0118616070700419,0.0135796573004249,up,FALSE
+Nucleus,ENSG00000138182,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",16.3085349799229,0.0121903344956098,0.0139145855667,down,FALSE
+Cytoskeleton,ENSG00000138182,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",16.3085349799229,0.0121903344956098,0.0139145855667,down,FALSE
+Plasma membrane,ENSG00000138182,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",16.3085349799229,0.0121903344956098,0.0139145855667,down,FALSE
+Plasma membrane,ENSG00000137491,2,1,0,1,0,1,"Homo sapiens,Mus musculus",12.5682264616067,0.013590047930666,0.0154969518893168,down,FALSE
+Plasma membrane,ENSG00000181418,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.5233287959312,0.0138557448811896,0.0157843332605062,up,FALSE
+Extracellular,ENSG00000130208,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.4654097375885,0.0142059869761923,0.0161514374093852,up,FALSE
+Lipid particle,ENSG00000130208,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.4654097375885,0.0142059869761923,0.0161514374093852,up,FALSE
+Nucleus,ENSG00000058404,2,1,0,1,0,1,"Homo sapiens,Mus musculus",12.4213564911824,0.0144781418056988,0.0164446610667091,down,FALSE
+Nucleus,ENSG00000249115,2,1,0,1,0,1,"Homo sapiens,Mus musculus",12.3820657144624,0.014725154694875,0.0166923659311255,down,FALSE
+Cytoskeleton,ENSG00000249115,2,1,0,1,0,1,"Homo sapiens,Mus musculus",12.3820657144624,0.014725154694875,0.0166923659311255,down,FALSE
+Nucleus,ENSG00000203811,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",15.7817924211467,0.014974350715558,0.0169581950203669,ns,FALSE
+Plasma membrane,ENSG00000153208,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.3068505713457,0.0152095161770509,0.017207629086585,up,FALSE
+Plasma membrane,ENSG00000118762,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.2566869050881,0.0155411399642802,0.0175484104880424,up,FALSE
+Extracellular,ENSG00000118762,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.2566869050881,0.0155411399642802,0.0175484104880424,up,FALSE
+Membrane transport,ENSG00000109158,2,0,0,0,0,,"Homo sapiens,Mus musculus",12.1311897741938,0.0164019069657913,0.0185022489135124,ns,FALSE
+Extracellular,ENSG00000164825,2,1,1,0,0,1,"Homo sapiens,Mus musculus",12.0122871676862,0.0172601282156959,0.0194513554305791,up,FALSE
+Membrane transport,ENSG00000132681,3,1,0,1,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",15.2208097250133,0.0186071129507818,0.0209488861904412,down,FALSE
+Nucleus,ENSG00000146263,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",15.2023435247396,0.0187399915091314,0.0210779241730386,down,FALSE
+Nucleus,ENSG00000168556,3,0,0,0,0,,"Drosophila melanogaster,Homo sapiens,Mus musculus",15.1863066786837,0.0188561247708308,0.0211878948252568,ns,FALSE
+Extracellular,ENSG00000130720,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",15.1464458619206,0.0191477712565096,0.0214737881729952,down,FALSE
+Cell wall/Extracellular matrix,ENSG00000130720,3,1,0,1,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",15.1464458619206,0.0191477712565096,0.0214737881729952,down,FALSE
+Plasma membrane,ENSG00000198947,2,1,1,0,0,1,"Homo sapiens,Mus musculus",11.6885239903952,0.0198242100403553,0.0222108139675437,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000101162,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",15.0259349466194,0.0200559558239321,0.0224269118418775,ns,FALSE
+Cytoskeleton,ENSG00000101162,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",15.0259349466194,0.0200559558239321,0.0224269118418775,ns,FALSE
+Nucleus,ENSG00000131470,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",14.8174123857228,0.0217253780146715,0.0242701705991587,down,FALSE
+Plasma membrane,ENSG00000104067,2,1,1,0,0,1,"Homo sapiens,Mus musculus",11.421570040417,0.0222131886428856,0.024791121560822,up,FALSE
+Plasma membrane,ENSG00000163823,2,1,1,0,0,1,"Homo sapiens,Mus musculus",11.3814608929238,0.0225954347920699,0.0251933640097089,up,FALSE
+Plasma membrane,ENSG00000177807,2,1,1,0,0,1,"Homo sapiens,Mus musculus",11.3338717227288,0.0230572391004526,0.0256834497315853,up,FALSE
+Plasma membrane,ENSG00000185436,2,1,1,0,0,1,"Homo sapiens,Mus musculus",11.2937190558201,0.023453980925176,0.0261001870662036,up,FALSE
+Nucleus,ENSG00000158373,2,1,0,1,0,1,"Homo sapiens,Mus musculus",11.2121108816317,0.0242808156129506,0.0269942786294268,down,FALSE
+Plasma membrane,ENSG00000081800,3,1,1,0,0,1,"Caenorhabditis elegans,Homo sapiens,Mus musculus",14.3534893905255,0.0259273317656801,0.0287970556858469,up,FALSE
+Plasma membrane,ENSG00000196632,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",14.2068795280642,0.0274086717983277,0.0304130838992983,up,FALSE
+Nucleus,ENSG00000033800,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.8391932557892,0.0284319620392443,0.0315182364969144,ns,FALSE
+Nucleus,ENSG00000104738,4,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",17.1525505163884,0.0285592078371654,0.0316289115586266,ns,FALSE
+Nucleus,ENSG00000070950,3,1,0,1,0,1,"Homo sapiens,Mus musculus,Saccharomyces cerevisiae",14.0838397456956,0.028713520723642,0.0317693220662348,down,FALSE
+Extracellular,ENSG00000111799,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.8032209905843,0.0288668645595663,0.0318778580877889,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000111799,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.8032209905843,0.0288668645595663,0.0318778580877889,up,FALSE
+Plasma membrane,ENSG00000168309,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.7660623762208,0.0293228531576605,0.0323504517628491,up,FALSE
+Plasma membrane,ENSG00000131477,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.6158767849172,0.0312377028208341,0.0344300946086366,up,FALSE
+Plasma membrane,ENSG00000148942,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",13.8263667596749,0.0316370396338345,0.0348369692151193,up,FALSE
+Cytoskeleton,ENSG00000130176,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.4400435174676,0.0336329730042303,0.0369826671498155,ns,FALSE
+Nucleus,ENSG00000184205,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.4388557057528,0.0336497404742689,0.0369826671498155,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000172403,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.4091520767519,0.0340716728593264,0.037375200075725,ns,FALSE
+Cytoskeleton,ENSG00000172403,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.4091520767519,0.0340716728593264,0.037375200075725,ns,FALSE
+Nucleus,ENSG00000151725,2,1,0,1,0,1,"Homo sapiens,Mus musculus",10.1858785247758,0.0374103206434606,0.0409985850166701,down,FALSE
+Plasma membrane,ENSG00000157224,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.1262736595834,0.0383534983013313,0.0419923501325772,up,FALSE
+Plasma membrane,ENSG00000083807,2,1,1,0,0,1,"Homo sapiens,Mus musculus",10.1078737458517,0.0386492430175955,0.0422760440211424,up,FALSE
+Nucleus,ENSG00000080839,2,0,0,0,0,,"Homo sapiens,Mus musculus",10.0994180489907,0.0387858864919337,0.0423853342913745,ns,FALSE
+Plasma membrane,ENSG00000132677,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.99796026504412,0.0404620550798267,0.0441752238052224,up,FALSE
+Plasma membrane,ENSG00000123191,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",18.9703552585805,0.0406408351395608,0.0443284723544925,up,FALSE
+Extracellular,ENSG00000135862,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.94113147665877,0.0414310759932245,0.045105152543567,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000135862,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.94113147665877,0.0414310759932245,0.045105152543567,up,FALSE
+Cytoskeleton,ENSG00000185640,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.8283686533662,0.043420190034409,0.0472261067857757,up,FALSE
+Cytoskeleton,ENSG00000111554,2,1,0,1,0,1,"Homo sapiens,Mus musculus",9.64113676331671,0.0469266063596306,0.0509918114303331,down,FALSE
+Nucleus,ENSG00000125319,2,1,0,1,0,1,"Homo sapiens,Mus musculus",9.63834665041546,0.0469808543792831,0.0510027337287796,down,FALSE
+Plasma membrane,ENSG00000086570,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.61373344834322,0.0474620141994691,0.0514531954583761,up,FALSE
+Plasma membrane,ENSG00000147003,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.61029760201683,0.0475295549034913,0.0514531954583761,up,FALSE
+Cytoskeleton,ENSG00000147003,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.61029760201683,0.0475295549034913,0.0514531954583761,up,FALSE
+Plasma membrane,ENSG00000152990,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",12.7232148300312,0.0476480447374638,0.0515331242990002,up,FALSE
+Mitochondrion,ENSG00000137857,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",12.5608144630104,0.0505652754806226,0.0546370111466652,ns,FALSE
+Extracellular,ENSG00000172638,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.37910835753251,0.0522914560548657,0.056396579707771,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000172638,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.37910835753251,0.0522914560548657,0.056396579707771,up,FALSE
+Plasma membrane,ENSG00000143473,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.23805262220296,0.055417053013936,0.0597117452643157,up,FALSE
+Plasma membrane,ENSG00000105609,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.21621928351688,0.0559164905594537,0.0601936848000089,up,FALSE
+Mitochondrion,ENSG00000151475,3,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus",12.1710766632579,0.0582593205024475,0.062598934692574,ns,FALSE
+Other,ENSG00000151475,3,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens,Mus musculus",12.1710766632579,0.0582593205024475,0.062598934692574,ns,FALSE
+Mitochondrion,ENSG00000135390,2,0,0,0,0,,"Homo sapiens,Mus musculus",9.1088095782763,0.0584365621718952,0.0626726698386311,ns,FALSE
+Membrane transport,ENSG00000135390,2,0,0,0,0,,"Homo sapiens,Mus musculus",9.1088095782763,0.0584365621718952,0.0626726698386311,ns,FALSE
+Cytoskeleton,ENSG00000204897,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.04526545092031,0.0599779649015556,0.0642660830978599,up,FALSE
+Plasma membrane,ENSG00000129048,2,1,1,0,0,1,"Homo sapiens,Mus musculus",9.03161369175915,0.0603141282337969,0.0645663302243058,up,FALSE
+Membrane transport,ENSG00000022355,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.98604505266973,0.0614492362982403,0.0657204992476083,ns,FALSE
+Extracellular,ENSG00000187498,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.97662298659805,0.0616864584946433,0.0657912875257102,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000187498,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.97662298659805,0.0616864584946433,0.0657912875257102,ns,FALSE
+Cytoskeleton,ENSG00000187498,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.97662298659805,0.0616864584946433,0.0657912875257102,ns,FALSE
+Plasma membrane,ENSG00000181045,4,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",14.8533558290086,0.0620603734155391,0.0661289666865486,up,FALSE
+Cytoskeleton,ENSG00000139354,2,1,0,1,0,1,"Homo sapiens,Mus musculus",8.88995178065529,0.0639098001864693,0.0680368168036768,down,FALSE
+Nucleus,ENSG00000066117,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.58061763641929,0.0724809002751379,0.0770902847165983,ns,FALSE
+Plasma membrane,ENSG00000081277,2,1,1,0,0,1,"Homo sapiens,Mus musculus",8.56529092892116,0.0729326798404396,0.0774000423045923,up,FALSE
+Extracellular,ENSG00000081277,2,1,1,0,0,1,"Homo sapiens,Mus musculus",8.56529092892116,0.0729326798404396,0.0774000423045923,up,FALSE
+Nucleus,ENSG00000185787,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.56391558991675,0.0729733501103955,0.0774000423045923,ns,FALSE
+Nucleus,ENSG00000131788,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.54026679250136,0.0736760335733543,0.0780735929693764,ns,FALSE
+Plasma membrane,ENSG00000172724,2,1,1,0,0,1,"Homo sapiens,Mus musculus",8.41357943225217,0.0775504778456862,0.0821039003980934,up,FALSE
+Membrane transport,ENSG00000102287,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",11.2191740603765,0.081834233591816,0.0865597667873104,ns,FALSE
+Membrane transport,ENSG00000204442,2,0,0,0,0,,"Homo sapiens,Mus musculus",8.26537243996546,0.0823269249867987,0.087001164317551,ns,FALSE
+Nucleus,ENSG00000106993,5,1,1,0,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",16.3260619197943,0.0906712100717169,0.0957315429302483,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000175183,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.87103985235324,0.096418045201932,0.101613172751625,ns,FALSE
+Cytoskeleton,ENSG00000175183,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.87103985235324,0.096418045201932,0.101613172751625,ns,FALSE
+Nucleus,ENSG00000127423,2,1,0,1,0,1,"Homo sapiens,Mus musculus",7.8593405232815,0.0968687644961574,0.101995031230443,down,FALSE
+Nucleus,ENSG00000197181,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.58724486799587,0.107923130584882,0.113427406826006,ns,FALSE
+Ribosome,ENSG00000197181,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.58724486799587,0.107923130584882,0.113427406826006,ns,FALSE
+Cytoskeleton,ENSG00000088340,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.48649672412335,0.112306206388127,0.117926626180072,ns,FALSE
+Plasma membrane,ENSG00000100652,2,1,1,0,0,1,"Homo sapiens,Mus musculus",7.36730385119013,0.117704998911806,0.123268913001042,up,FALSE
+Cytoskeleton,ENSG00000159251,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.367102167189,0.117714334598916,0.123268913001042,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000159251,2,0,0,0,0,,"Homo sapiens,Mus musculus",7.367102167189,0.117714334598916,0.123268913001042,ns,FALSE
+Nucleus,ENSG00000275379,2,1,0,1,0,1,"Homo sapiens,Mus musculus",7.22721548584499,0.12435715125206,0.130107119260995,down,FALSE
+Plasma membrane,ENSG00000186847,2,1,1,0,0,1,"Homo sapiens,Mus musculus",7.20845774358953,0.125273783269494,0.130710620156416,up,FALSE
+Extracellular,ENSG00000186847,2,1,1,0,0,1,"Homo sapiens,Mus musculus",7.20845774358953,0.125273783269494,0.130710620156416,up,FALSE
+Cytoskeleton,ENSG00000186847,2,1,1,0,0,1,"Homo sapiens,Mus musculus",7.20845774358953,0.125273783269494,0.130710620156416,up,FALSE
+Plasma membrane,ENSG00000134762,2,1,1,0,0,1,"Homo sapiens,Mus musculus",7.01435575119396,0.135131531677903,0.140868823447426,up,FALSE
+Mitochondrion,ENSG00000105819,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",9.68245462038455,0.138677313487686,0.144304436217123,ns,FALSE
+Membrane transport,ENSG00000105819,3,0,0,0,0,,"Caenorhabditis elegans,Homo sapiens,Mus musculus",9.68245462038455,0.138677313487686,0.144304436217123,ns,FALSE
+Plasma membrane,ENSG00000137975,2,1,1,0,0,1,"Homo sapiens,Mus musculus",6.70942354266947,0.152064068050353,0.158091832910006,up,FALSE
+Membrane transport,ENSG00000163285,2,0,0,0,0,,"Homo sapiens,Mus musculus",6.55146796895092,0.161576234968327,0.167829860624167,ns,FALSE
+Extracellular,ENSG00000166147,2,0,0,0,0,,"Homo sapiens,Mus musculus",6.45549733135045,0.167616098132188,0.173790635439843,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000166147,2,0,0,0,0,,"Homo sapiens,Mus musculus",6.45549733135045,0.167616098132188,0.173790635439843,ns,FALSE
+Extracellular,ENSG00000137251,2,0,0,0,0,,"Homo sapiens,Mus musculus",6.32369685936888,0.176243429037824,0.182571738877602,ns,FALSE
+Plasma membrane,ENSG00000124564,3,1,1,0,0,1,"Drosophila melanogaster,Homo sapiens,Mus musculus",8.72553328635116,0.189612402792319,0.196244585490884,up,FALSE
+Extracellular,ENSG00000163631,2,1,1,0,0,1,"Homo sapiens,Mus musculus",6.08525336808627,0.192871322733894,0.199260077381301,up,FALSE
+Cell wall/Extracellular matrix,ENSG00000163631,2,1,1,0,0,1,"Homo sapiens,Mus musculus",6.08525336808627,0.192871322733894,0.199260077381301,up,FALSE
+Nucleus,ENSG00000108604,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.74486185417082,0.219029584179508,0.226082415154877,ns,FALSE
+Nucleus,ENSG00000140694,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.54044161824451,0.236197433913598,0.243367713157404,ns,FALSE
+Ribosome,ENSG00000140694,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.54044161824451,0.236197433913598,0.243367713157404,ns,FALSE
+Nucleus,ENSG00000080007,2,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens",5.41841381007381,0.246994595416761,0.254039004555207,ns,FALSE
+Ribosome,ENSG00000080007,2,0,0,0,0,,"Arabidopsis thaliana,Homo sapiens",5.41841381007381,0.246994595416761,0.254039004555207,ns,FALSE
+Extracellular,ENSG00000091136,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.2569989040405,0.261929403634811,0.268920401952466,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000091136,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.2569989040405,0.261929403634811,0.268920401952466,ns,FALSE
+Membrane transport,ENSG00000075673,2,0,0,0,0,,"Homo sapiens,Mus musculus",5.16028637099323,0.271242943303988,0.278234983620268,ns,FALSE
+Extracellular,ENSG00000083444,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.58662938179171,0.332398699494684,0.340362111106358,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000083444,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.58662938179171,0.332398699494684,0.340362111106358,ns,FALSE
+Cytoskeleton,ENSG00000138741,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.49099722802042,0.343616310839786,0.351536544954887,ns,FALSE
+Membrane transport,ENSG00000070729,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.29020671623985,0.368153022865163,0.376305215576969,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000120913,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.16930564113448,0.383577455925228,0.39103214146441,ns,FALSE
+Cytoskeleton,ENSG00000120913,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.16930564113448,0.383577455925228,0.39103214146441,ns,FALSE
+Plasma membrane,ENSG00000120913,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.16930564113448,0.383577455925228,0.39103214146441,ns,FALSE
+Membrane transport,ENSG00000186297,2,0,0,0,0,,"Homo sapiens,Mus musculus",4.0162777527648,0.403807377797437,0.411291892302067,ns,FALSE
+Membrane transport,ENSG00000151834,2,0,0,0,0,,"Homo sapiens,Mus musculus",3.95426610004262,0.412230641692041,0.419501023379731,ns,FALSE
+Extracellular,ENSG00000112769,2,0,0,0,0,,"Homo sapiens,Mus musculus",2.82316918422515,0.587839954961422,0.597154320444966,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000112769,2,0,0,0,0,,"Homo sapiens,Mus musculus",2.82316918422515,0.587839954961422,0.597154320444966,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000072110,2,0,0,0,0,,"Homo sapiens,Mus musculus",2.69148562896913,0.610705338302161,0.61929170509727,ns,FALSE
+Cytoskeleton,ENSG00000072110,2,0,0,0,0,,"Homo sapiens,Mus musculus",2.69148562896913,0.610705338302161,0.61929170509727,ns,FALSE
+Nucleus,ENSG00000111653,2,0,0,0,0,,"Homo sapiens,Mus musculus",2.23263808740026,0.693058571729314,0.702185769776671,ns,FALSE
+Extracellular,ENSG00000105664,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.73955372229591,0.783520727136261,0.79244778187138,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000105664,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.73955372229591,0.783520727136261,0.79244778187138,ns,FALSE
+Extracellular,ENSG00000169231,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.65159230950264,0.799490992117075,0.807185131148822,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000169231,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.65159230950264,0.799490992117075,0.807185131148822,ns,FALSE
+Cytoskeleton,ENSG00000144935,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.5560393922567,0.816670572548463,0.823089817223517,ns,FALSE
+Membrane transport,ENSG00000144935,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.5560393922567,0.816670572548463,0.823089817223517,ns,FALSE
+Cytoskeleton,ENSG00000117519,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.34138196096529,0.854316385599742,0.860280199809863,ns,FALSE
+Extracellular,ENSG00000172037,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.27199330229259,0.86610904533642,0.870635747663962,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000172037,2,0,0,0,0,,"Homo sapiens,Mus musculus",1.27199330229259,0.86610904533642,0.870635747663962,ns,FALSE
+Membrane transport,ENSG00000113327,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.801671015421089,0.938223901147593,0.942306685747887,ns,FALSE
+Membrane transport,ENSG00000011677,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.779096064185588,0.941228356464072,0.944502194225686,ns,FALSE
+Nucleus,ENSG00000125207,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.686304764506399,0.95300702197253,0.954661548052344,ns,FALSE
+Ribosome,ENSG00000125207,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.686304764506399,0.95300702197253,0.954661548052344,ns,FALSE
+Cytoskeleton,ENSG00000169067,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.664912884924607,0.955584336896528,0.955584336896528,ns,FALSE
+Cell wall/Extracellular matrix,ENSG00000169067,2,0,0,0,0,,"Homo sapiens,Mus musculus",0.664912884924607,0.955584336896528,0.955584336896528,ns,FALSE

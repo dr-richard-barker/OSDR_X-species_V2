@@ -494,11 +494,21 @@ organelle_categories <- list(
   "Lipid particle" = c("lipid particle", "lipid droplet", "oil body", "protein-lipid complex")
 )
 
+# The ER abbreviations must start a word: as plain substrings, "er membrane"
+# matched "inner membrane" and "outer membrane", which filed mitochondrial and
+# plastid membranes under Endoplasmic Reticulum.
+word_start_patterns <- c("er membrane", "er lumen", "er body")
+
+matches_pattern <- function(p, text) {
+  if (p %in% word_start_patterns) grepl(paste0("(^|[^a-z])", p), text)
+  else grepl(p, text, fixed = TRUE)
+}
+
 classify_term <- function(term_name) {
   text <- tolower(term_name)
   categories <- c()
   for (cat_name in names(organelle_categories)) {
-    if (any(sapply(organelle_categories[[cat_name]], function(p) grepl(p, text, fixed = TRUE)))) {
+    if (any(sapply(organelle_categories[[cat_name]], function(p) matches_pattern(p, text)))) {
       categories <- c(categories, cat_name)
     }
   }

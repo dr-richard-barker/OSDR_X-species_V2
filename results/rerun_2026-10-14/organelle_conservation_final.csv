@@ -1,0 +1,5 @@
+organelle,human_ensembl,n_species_tested,n_deg_species,n_up_species,n_down_species,n_mixed_species,direction_agreement,species_list,fisher_stat,fisher_p,fisher_padj,direction_conserved,conserved
+Cell wall/Extracellular matrix,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Cytoskeleton,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Nucleus,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE
+Plasma membrane,ENSG00000173213,5,3,0,3,0,1,"Caenorhabditis elegans,Drosophila melanogaster,Homo sapiens,Mus musculus,Saccharomyces cerevisiae",177.255254873728,8.69753046875531e-33,1.64540166572846e-31,down,TRUE

@@ -84,117 +84,91 @@ cat("\n=== Organelle genes mapped to human orthologs ===\n")
 org_gene_human_mapped <- org_gene_human[!is.na(human_ensembl)]
 print(org_gene_human_mapped[, .N, by = .(organelle, species, direction)])
 
-# For each organelle, find human orthologs that appear as DEG-associated in multiple species
-# and run Fisher's combined p-value
-# We need p-values per gene per species - use the DEG p-values
+# --- Conservation test, as specified in METHODS.md ---------------------------
+# For each ortholog-organelle pair:
+#   * one p-value per species: the smallest p among that species' rows
+#     (datasets and paralogs mapping to the human ortholog), Sidak-corrected
+#     for the number of rows, 1 - (1 - p_min)^k;
+#   * Fisher's combined test over those per-species p-values (>= 2 species);
+#   * BH-adjusted across all ortholog-organelle tests;
+#   * "conserved" if Fisher FDR < 0.05, DEG in >= 3 species, and >= 80% of the
+#     DEG species share one direction. A species whose DEG rows disagree in
+#     direction counts as a DEG species agreeing with neither.
+# An earlier version pooled every row as an independent Fisher input, counted
+# species that merely had a p-value toward ">= 3 species", called a gene "down"
+# if every DEG call was down (even a single one), dropped p = 1 rows, and
+# adjusted within each organelle.
 
-# Get per-gene p-values from DEG data
-deg_pvals <- deg[, .(species, gene_id, gene_id_base = sub("\\.\\d+$", "", gene_id), 
-                      pvalue, padj, is_deg, deg_direction, human_ortholog)]
-
-# For human, set human_ortholog to gene_id_base
+deg_pvals <- deg[, .(species, gene_id_base = sub("\\.\\d+$", "", gene_id),
+                     pvalue, is_deg = as.character(is_deg) %in% c("TRUE", "True", "true"),
+                     deg_direction, human_ortholog)]
 deg_pvals[species == "Homo sapiens", human_ortholog := gene_id_base]
+deg_pvals <- deg_pvals[!is.na(pvalue) & !is.na(human_ortholog) & human_ortholog != ""]
+deg_pvals[, pvalue := pmin(pmax(pvalue, 1e-300), 1)]
 
-# For each organelle, collect p-values per species for the shared orthologous gene set
-conservation_results <- list()
+per_species <- deg_pvals[, {
+  dirs <- unique(deg_direction[is_deg])
+  list(k = .N,
+       p_species = -expm1(.N * log1p(-min(pvalue))),   # Sidak: 1 - (1 - p_min)^k
+       species_direction = if (length(dirs) == 0) "ns" else if (length(dirs) == 1) dirs else "mixed")
+}, by = .(human_ortholog, species)]
+per_species[, p_species := pmax(p_species, 1e-300)]
 
-for (org in unique(org_gene_human_mapped$organelle)) {
-  org_genes <- org_gene_human_mapped[organelle == org]
-  
-  # Get unique human orthologs for this organelle
-  human_orthos <- unique(org_genes$human_ensembl)
-  
-  # For each human ortholog, collect p-values across species
-  for (ho in human_orthos) {
-    # Get p-values for this human ortholog in each species
-    sp_pvals <- deg_pvals[human_ortholog == ho & !is.na(pvalue) & pvalue > 0 & pvalue < 1, 
-                          .(species, pvalue, deg_direction)]
-    
-    if (nrow(sp_pvals) >= 2) {
-      # Fisher's combined p-value: -2 * sum(log(p))
-      fisher_stat <- -2 * sum(log(sp_pvals$pvalue))
-      fisher_p <- pchisq(fisher_stat, df = 2 * nrow(sp_pvals), lower.tail = FALSE)
-      
-      # Check direction consistency
-      dirs <- unique(sp_pvals$deg_direction)
-      dirs <- dirs[dirs != "ns"]
-      direction_conserved <- if (length(dirs) == 1) dirs[1] else "mixed"
-      
-      conservation_results[[length(conservation_results) + 1]] <- data.table(
-        organelle = org,
-        human_ensembl = ho,
-        n_species = nrow(sp_pvals),
-        species_list = paste(sp_pvals$species, collapse = ","),
-        fisher_stat = fisher_stat,
-        fisher_p = fisher_p,
-        fisher_padj = NA_real_,
-        direction_conserved = direction_conserved
-      )
-    }
-  }
-}
+candidates <- unique(org_gene_human_mapped[, .(organelle, human_ensembl)])
+tests <- merge(candidates, per_species, by.x = "human_ensembl", by.y = "human_ortholog",
+               allow.cartesian = TRUE)
 
-conservation_dt <- rbindlist(conservation_results)
-# BH correction within each organelle
-conservation_dt[, fisher_padj := p.adjust(fisher_p, method = "BH"), by = organelle]
+conservation_dt <- tests[, {
+  n_tested <- .N
+  fisher_stat <- -2 * sum(log(p_species))
+  n_up <- sum(species_direction == "up")
+  n_down <- sum(species_direction == "down")
+  n_mixed <- sum(species_direction == "mixed")
+  n_deg <- n_up + n_down + n_mixed
+  agreement <- if (n_deg > 0) max(n_up, n_down) / n_deg else NA_real_
+  list(n_species_tested = n_tested,
+       n_deg_species = n_deg,
+       n_up_species = n_up,
+       n_down_species = n_down,
+       n_mixed_species = n_mixed,
+       direction_agreement = agreement,
+       species_list = paste(sort(species), collapse = ","),
+       fisher_stat = fisher_stat,
+       fisher_p = pchisq(fisher_stat, df = 2 * n_tested, lower.tail = FALSE))
+}, by = .(organelle, human_ensembl)][n_species_tested >= 2]
+
+conservation_dt[, fisher_padj := p.adjust(fisher_p, method = "BH")]
+conservation_dt[, direction_conserved := fifelse(
+  !is.na(direction_agreement) & direction_agreement >= 0.8,
+  fifelse(n_up_species >= n_down_species, "up", "down"), "mixed")]
+conservation_dt[n_deg_species == 0, direction_conserved := "ns"]
+conservation_dt[, conserved := fisher_padj < 0.05 & n_deg_species >= 3 & direction_conserved %in% c("up", "down")]
+setorder(conservation_dt, fisher_p)
 
 fwrite(conservation_dt, '/mnt/shared-workspace/shared/results/meta/organelle_conservation_fisher.csv')
 
 cat("\n=== Conservation meta-analysis results ===\n")
-cat("Total ortholog-organelle tests:", nrow(conservation_dt), "\n")
-cat("Significant (Fisher padj < 0.05):", sum(conservation_dt$fisher_padj < 0.05), "\n")
+cat("Ortholog-organelle tests:", nrow(conservation_dt), "\n")
+cat("Fisher FDR < 0.05:", sum(conservation_dt$fisher_padj < 0.05), "\n")
+cat("Conserved (FDR < 0.05, DEG in >= 3 species, >= 80% same direction):",
+    sum(conservation_dt$conserved), "\n")
 
-cat("\n=== Conserved organelle responses (Fisher padj < 0.05, >=3 species, same direction) ===\n")
-conserved_sig <- conservation_dt[fisher_padj < 0.05 & n_species >= 3 & direction_conserved != "mixed"]
-cat("Count:", nrow(conserved_sig), "\n")
-if (nrow(conserved_sig) > 0) print(conserved_sig[order(fisher_padj)])
-
-cat("\n=== Summary by organelle (>=3 species, any direction) ===\n")
-org_summary <- conservation_dt[n_species >= 3, .(
+org_summary <- conservation_dt[, .(
   n_orthologs = .N,
-  n_sig = sum(fisher_padj < 0.05),
-  n_conserved = sum(fisher_padj < 0.05 & direction_conserved != "mixed"),
-  n_up = sum(fisher_padj < 0.05 & direction_conserved == "up"),
-  n_down = sum(fisher_padj < 0.05 & direction_conserved == "down"),
+  n_fisher_sig = sum(fisher_padj < 0.05),
+  n_deg_3plus = sum(n_deg_species >= 3),
+  n_conserved = sum(conserved),
+  n_up = sum(conserved & direction_conserved == "up"),
+  n_down = sum(conserved & direction_conserved == "down"),
   min_padj = min(fisher_padj)
-), by = organelle][order(-n_sig)]
+), by = organelle][order(-n_conserved, min_padj)]
 print(org_summary)
 fwrite(org_summary, '/mnt/shared-workspace/shared/results/meta/organelle_conservation_summary.csv')
 
-# --- R code block 2 ---
-suppressPackageStartupMessages({ library(data.table) })
+cat("\n=== Conserved mitochondrial genes ===\n")
+print(conservation_dt[organelle == "Mitochondrion" & conserved,
+                      .(human_ensembl, n_species_tested, n_deg_species, n_up_species, n_down_species,
+                        n_mixed_species, fisher_padj, direction_conserved)])
 
-conservation_dt <- fread('/mnt/shared-workspace/shared/results/meta/organelle_conservation_fisher.csv')
-
-# Fix: count UNIQUE species (not total entries)
-conservation_dt[, unique_species := sapply(strsplit(species_list, ","), function(x) length(unique(x)))]
-
-# Recompute summary with unique species count
-org_summary_clean <- conservation_dt[unique_species >= 3, .(
-  n_orthologs = .N,
-  n_sig = sum(fisher_padj < 0.05),
-  n_conserved = sum(fisher_padj < 0.05 & direction_conserved != "mixed"),
-  n_up = sum(fisher_padj < 0.05 & direction_conserved == "up"),
-  n_down = sum(fisher_padj < 0.05 & direction_conserved == "down"),
-  min_padj = min(fisher_padj)
-), by = organelle][order(-n_conserved)]
-
-cat("=== Clean conservation summary (>=3 unique species) ===\n")
-print(org_summary_clean)
-fwrite(org_summary_clean, '/mnt/shared-workspace/shared/results/meta/organelle_conservation_summary.csv')
-
-# Key finding: conserved downregulated mitochondrial genes
-mito_down <- conservation_dt[organelle == "Mitochondrion" & fisher_padj < 0.05 & direction_conserved == "down" & unique_species >= 3]
-cat("\n=== Conserved downregulated mitochondrial genes (>=3 species) ===\n")
-cat("Count:", nrow(mito_down), "\n")
-if (nrow(mito_down) > 0) print(mito_down[order(fisher_padj), .(human_ensembl, unique_species, fisher_padj, direction_conserved)][1:20])
-
-# Top conserved responses across all organelles
-cat("\n=== Top 20 conserved orthologs (>=4 unique species, same direction) ===\n")
-top_conserved <- conservation_dt[unique_species >= 4 & fisher_padj < 0.05 & direction_conserved != "mixed"][order(fisher_padj)]
-print(top_conserved[1:20, .(organelle, human_ensembl, unique_species, fisher_padj, direction_conserved)])
-
-# Save the final conservation table
-fwrite(conservation_dt[, .(organelle, human_ensembl, unique_species, species_list, fisher_stat, fisher_p, fisher_padj, direction_conserved)],
-      '/mnt/shared-workspace/shared/results/meta/organelle_conservation_final.csv')
-
+fwrite(conservation_dt[conserved == TRUE],
+       '/mnt/shared-workspace/shared/results/meta/organelle_conservation_final.csv')
